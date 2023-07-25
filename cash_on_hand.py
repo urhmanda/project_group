@@ -21,17 +21,24 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
 for items in cash_on_hand:
     print(items)
 
+# grp data all according to each day first
+for items[0] in cash_on_hand:
+    if items[0] == 90:
+        #sum up all items[3] where items[0]= 90 and subsequent
 
-def summary(cash_on_hand):
-    
 
-    for items[3] in cash_on_hand:
-        if items[3] < items[3]:
-           items[3] - items[3]: 
+def calculate_difference_between_days(cash_on_hand):
+     for items[3] in cash_on_hand:
+        if items[3] <= items[3]:
+           items[3] - items[3]
+        elif items[3] >= items[3]:
+            items[3] - items[3]
+        else: 
+
            
       
-
 summary_list = []
-for items[3] in cash_on_hand:
+summary_list.append(f"{items[0]},{calculate_difference_between_days})
+
 
 
