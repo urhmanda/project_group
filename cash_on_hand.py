@@ -23,6 +23,7 @@ for items in cash_on_hand:
 
 # grp data all according to each day first
 for items[0] in cash_on_hand:
+    items[4] = 0
     if items[0] == 90:
         #sum up all items[3] where items[0]= 90 and subsequent
 # use list
