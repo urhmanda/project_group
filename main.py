@@ -1,2 +1,2 @@
 print("hello world")
-hello
+hello_world = 2
