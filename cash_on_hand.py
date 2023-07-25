@@ -25,7 +25,7 @@ for items in cash_on_hand:
 for items[0] in cash_on_hand:
     if items[0] == 90:
         #sum up all items[3] where items[0]= 90 and subsequent
-
+# use list
 
 def calculate_difference_between_days(cash_on_hand):
      """
