@@ -22,10 +22,16 @@ for items in cash_on_hand:
     print(items)
 
 
-for items[0] in cash_on_hand:
-    items[0] = Day
-    Day = 0
+def summary(cash_on_hand):
+    
 
+    for items[3] in cash_on_hand:
+        if items[3] < items[3]:
+           items[3] - items[3]: 
+           
+      
+
+summary_list = []
 for items[3] in cash_on_hand:
 
 
