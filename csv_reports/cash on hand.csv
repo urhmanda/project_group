@@ -1,0 +1,2151 @@
+Day ,Items ,Note ,Amount 
+90,Sales E Commerce,Revenue - ECM SO ID: 14891,1332
+90,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 15552 ,-47250
+90,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 15552 ,-53040
+90,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 15552 ,-59280
+90,Wholesales (B2B),Revenue - B2B SO ID: 14886,437670
+90,Machines,Asset Disposed,20000
+90,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+90,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+90,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+90,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+90,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+90,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+90,Salary Expense,Cash Payment - Salary Expense,-24496
+90,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 14896,-13
+90,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 15064,-21
+90,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,4114
+90,Retail,Revenue - Retail Sales Los Angeles - Red Wine,2590
+90,Retail,Revenue - Retail Sales Los Angeles - White Wine,3724
+90,Retail,Revenue - Retail Sales New York - Sparkling Wine,10642
+90,Retail,Revenue - Retail Sales New York - Red Wine,7474
+90,Retail,Revenue - Retail Sales New York - White Wine,8931
+90,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,9486
+90,Retail,Revenue - Retail Sales Detroit - Red Wine,8052
+90,Retail,Revenue - Retail Sales Detroit - White Wine,9835
+90,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+90,Rental Expense,Cash Payment - Rental - Chicago,-2400
+90,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+90,Rental Expense,Cash Payment - Rental - New York,-4020
+90,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-378
+90,Rental Expense,Cash Payment - Rental - Detroit,-1000
+89,Sales E Commerce,Revenue - ECM SO ID: 15047,2156
+89,Sales E Commerce,Revenue - ECM SO ID: 15074,9047
+89,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 15424 ,-11578
+89,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 15831 ,-17000
+89,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+89,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+89,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+89,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+89,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+89,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+89,Salary Expense,Cash Payment - Salary Expense,-24917
+89,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,4420
+89,Retail,Revenue - Retail Sales Los Angeles - Red Wine,2516
+89,Retail,Revenue - Retail Sales Los Angeles - White Wine,3572
+89,Retail,Revenue - Retail Sales New York - Sparkling Wine,10812
+89,Retail,Revenue - Retail Sales New York - Red Wine,6919
+89,Retail,Revenue - Retail Sales New York - White Wine,9126
+89,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,11563
+89,Retail,Revenue - Retail Sales Detroit - Red Wine,11286
+89,Retail,Revenue - Retail Sales Detroit - White Wine,13370
+89,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+89,Rental Expense,Cash Payment - Rental - Chicago,-2400
+89,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+89,Rental Expense,Cash Payment - Rental - New York,-4020
+89,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-405
+89,Rental Expense,Cash Payment - Rental - Detroit,-1000
+88,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 15443 ,-57750
+88,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 15443 ,-51000
+88,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 15443 ,-60990
+88,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+88,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+88,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+88,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+88,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+88,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+88,Salary Expense,Cash Payment - Salary Expense,-25234
+88,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,4386
+88,Retail,Revenue - Retail Sales Los Angeles - Red Wine,2738
+88,Retail,Revenue - Retail Sales Los Angeles - White Wine,3952
+88,Retail,Revenue - Retail Sales New York - Sparkling Wine,10710
+88,Retail,Revenue - Retail Sales New York - Red Wine,6623
+88,Retail,Revenue - Retail Sales New York - White Wine,10218
+88,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,11687
+88,Retail,Revenue - Retail Sales Detroit - Red Wine,10725
+88,Retail,Revenue - Retail Sales Detroit - White Wine,13230
+88,Services,Revenue - Service Sales Order ID: 13939,135200
+88,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+88,Rental Expense,Cash Payment - Rental - Chicago,-2400
+88,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+88,Rental Expense,Cash Payment - Rental - New York,-4020
+88,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-540
+88,Rental Expense,Cash Payment - Rental - Detroit,-1000
+87,Wholesales (B2B),Revenue - B2B SO ID: 13581,273000
+87,Penalty Expense,Cash Payment - Late penalty - B2B SO ID: 13581,-15000
+87,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 15435 ,-6539
+87,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 15435 ,-7718
+87,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+87,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+87,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+87,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+87,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+87,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+87,Salary Expense,Cash Payment - Salary Expense,-25214
+87,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 14891,-13
+87,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,4556
+87,Retail,Revenue - Retail Sales Los Angeles - Red Wine,2664
+87,Retail,Revenue - Retail Sales Los Angeles - White Wine,4408
+87,Retail,Revenue - Retail Sales New York - White Wine,10101
+87,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,12400
+87,Retail,Revenue - Retail Sales Detroit - Red Wine,11385
+87,Retail,Revenue - Retail Sales Detroit - White Wine,12740
+87,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+87,Rental Expense,Cash Payment - Rental - Chicago,-2400
+87,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+87,Rental Expense,Cash Payment - Rental - New York,-4020
+87,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-648
+87,Rental Expense,Cash Payment - Rental - Detroit,-1000
+86,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 15067 ,-753445
+86,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+86,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+86,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+86,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+86,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+86,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+86,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+86,Salary Expense,Cash Payment - Salary Expense,-25175
+86,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 15047,-22
+86,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 15074,-90
+86,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,4896
+86,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3034
+86,Retail,Revenue - Retail Sales Los Angeles - White Wine,4446
+86,Retail,Revenue - Retail Sales New York - White Wine,10062
+86,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,11563
+86,Retail,Revenue - Retail Sales Detroit - Red Wine,10725
+86,Retail,Revenue - Retail Sales Detroit - White Wine,12600
+86,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+86,Rental Expense,Cash Payment - Rental - Chicago,-2400
+86,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+86,Rental Expense,Cash Payment - Rental - New York,-4020
+86,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-729
+86,Rental Expense,Cash Payment - Rental - Detroit,-1000
+85,Wholesales (B2B),Revenue - B2B SO ID: 14680,498800
+85,Penalty Expense,Cash Payment - Late penalty - B2B SO ID: 14680,-10000
+85,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+85,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+85,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+85,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+85,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+85,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+85,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+85,Salary Expense,Cash Payment - Salary Expense,-25577
+85,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,4658
+85,Retail,Revenue - Retail Sales Los Angeles - Red Wine,2997
+85,Retail,Revenue - Retail Sales Los Angeles - White Wine,4028
+85,Retail,Revenue - Retail Sales New York - White Wine,10179
+85,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,11222
+85,Retail,Revenue - Retail Sales Detroit - Red Wine,11055
+85,Retail,Revenue - Retail Sales Detroit - White Wine,12985
+85,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+85,Rental Expense,Cash Payment - Rental - Chicago,-2400
+85,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+85,Rental Expense,Cash Payment - Rental - New York,-4020
+85,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-810
+85,Rental Expense,Cash Payment - Rental - Detroit,-1000
+84,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 14496 ,-20020
+84,Wholesales (B2B),Revenue - B2B SO ID: 14139,713020
+84,Penalty Expense,Cash Payment - Late penalty - B2B SO ID: 14139,-5000
+84,Maintenance Expense,Cash Payment - Periodic Maintenance,-5000
+84,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+84,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+84,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+84,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+84,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+84,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+84,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+84,Salary Expense,Cash Payment - Salary Expense,-25577
+84,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,4998
+84,Retail,Revenue - Retail Sales Los Angeles - Red Wine,2997
+84,Retail,Revenue - Retail Sales Los Angeles - White Wine,4408
+84,Retail,Revenue - Retail Sales New York - White Wine,9555
+84,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,11811
+84,Retail,Revenue - Retail Sales Detroit - Red Wine,11517
+84,Retail,Revenue - Retail Sales Detroit - White Wine,13895
+84,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+84,Rental Expense,Cash Payment - Rental - Chicago,-2400
+84,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+84,Rental Expense,Cash Payment - Rental - New York,-4020
+84,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-891
+84,Rental Expense,Cash Payment - Rental - Detroit,-1000
+83,Sales E Commerce,Revenue - ECM SO ID: 13932,1478
+83,Wholesales (B2B),Revenue - B2B SO ID: 14152,320760
+83,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+83,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+83,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+83,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+83,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+83,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+83,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+83,Salary Expense,Cash Payment - Salary Expense,-25532
+83,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,4624
+83,Retail,Revenue - Retail Sales Los Angeles - Red Wine,2849
+83,Retail,Revenue - Retail Sales Los Angeles - White Wine,4446
+83,Retail,Revenue - Retail Sales New York - White Wine,9204
+83,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,11935
+83,Retail,Revenue - Retail Sales Detroit - Red Wine,10725
+83,Retail,Revenue - Retail Sales Detroit - White Wine,12215
+83,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+83,Rental Expense,Cash Payment - Rental - Chicago,-2400
+83,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+83,Rental Expense,Cash Payment - Rental - New York,-4020
+83,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-1026
+83,Rental Expense,Cash Payment - Rental - Detroit,-1000
+82,Sales E Commerce,Revenue - ECM SO ID: 13751,36086
+82,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 14340 ,-10080
+82,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 14340 ,-19740
+82,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 14340 ,-67200
+82,Wholesales (B2B),Revenue - B2B SO ID: 14112,1207960
+82,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+82,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+82,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+82,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+82,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+82,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+82,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+82,Salary Expense,Cash Payment - Salary Expense,-25441
+82,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,20601
+82,Retail,Revenue - Retail Sales Los Angeles - Red Wine,11640
+82,Retail,Revenue - Retail Sales Los Angeles - White Wine,13184
+82,Retail,Revenue - Retail Sales New York - White Wine,27010
+82,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,44982
+82,Retail,Revenue - Retail Sales Detroit - Red Wine,43776
+82,Retail,Revenue - Retail Sales Detroit - White Wine,52452
+82,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+82,Rental Expense,Cash Payment - Rental - Chicago,-2400
+82,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+82,Rental Expense,Cash Payment - Rental - New York,-4020
+82,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-1107
+82,Rental Expense,Cash Payment - Rental - Detroit,-1000
+81,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+81,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+81,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+81,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+81,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+81,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+81,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+81,Salary Expense,Cash Payment - Salary Expense,-25146
+81,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,18900
+81,Retail,Revenue - Retail Sales Los Angeles - Red Wine,12660
+81,Retail,Revenue - Retail Sales Los Angeles - White Wine,13440
+81,Retail,Revenue - Retail Sales New York - White Wine,27084
+81,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,45866
+81,Retail,Revenue - Retail Sales Detroit - Red Wine,42732
+81,Retail,Revenue - Retail Sales Detroit - White Wine,54000
+81,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+81,Rental Expense,Cash Payment - Rental - Chicago,-2400
+81,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+81,Rental Expense,Cash Payment - Rental - New York,-4020
+81,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-1458
+81,Rental Expense,Cash Payment - Rental - Detroit,-1000
+80,Sales E Commerce,Revenue - ECM SO ID: 13187,16612
+80,Sales E Commerce,Revenue - ECM SO ID: 13192,33817
+80,Wholesales (B2B),Revenue - B2B SO ID: 13768,374720
+80,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+80,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+80,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+80,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+80,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+80,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+80,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+80,Salary Expense,Cash Payment - Salary Expense,-24599
+80,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 13932,-15
+80,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,-15000
+80,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,21141
+80,Retail,Revenue - Retail Sales Los Angeles - Red Wine,13530
+80,Retail,Revenue - Retail Sales Los Angeles - White Wine,13568
+80,Retail,Revenue - Retail Sales New York - White Wine,25530
+80,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,42364
+80,Retail,Revenue - Retail Sales Detroit - Red Wine,40752
+80,Retail,Revenue - Retail Sales Detroit - White Wine,48420
+80,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+80,Rental Expense,Cash Payment - Rental - Chicago,-2400
+80,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+80,Rental Expense,Cash Payment - Rental - New York,-4020
+80,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-1836
+80,Rental Expense,Cash Payment - Rental - Detroit,-1000
+79,Sales E Commerce,Revenue - ECM SO ID: 13197,6732
+79,Sales E Commerce,Revenue - ECM SO ID: 13218,26097
+79,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 13564 ,-45900
+79,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 13564 ,-54570
+79,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 13564 ,-60990
+79,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+79,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+79,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+79,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+79,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+79,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+79,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+79,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+79,Salary Expense,Cash Payment - Salary Expense,-24533
+79,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 13751,-361
+79,Shipping Expense,Cash Payment - Move Stock ID: 10952,-31446
+79,Shipping Expense,Cash Payment - Move Stock ID: 13143,-14761
+79,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,19197
+79,Retail,Revenue - Retail Sales Los Angeles - Red Wine,12600
+79,Retail,Revenue - Retail Sales Los Angeles - White Wine,14784
+79,Retail,Revenue - Retail Sales New York - White Wine,26307
+79,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,48212
+79,Retail,Revenue - Retail Sales Detroit - Red Wine,43668
+79,Retail,Revenue - Retail Sales Detroit - White Wine,50940
+79,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+79,Rental Expense,Cash Payment - Rental - Chicago,-2400
+79,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+79,Rental Expense,Cash Payment - Rental - New York,-4020
+79,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-2160
+79,Rental Expense,Cash Payment - Rental - Detroit,-1000
+78,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+78,Human Resource Expense,Counselled,-2000
+78,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+78,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+78,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+78,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+78,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+78,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+78,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+78,Salary Expense,Cash Payment - Salary Expense,-24877
+78,Shipping Expense,Cash Payment - Move Stock ID: 12610,-28077
+78,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,19710
+78,Retail,Revenue - Retail Sales Los Angeles - Red Wine,11640
+78,Retail,Revenue - Retail Sales Los Angeles - White Wine,14112
+78,Retail,Revenue - Retail Sales New York - Red Wine,21945
+78,Retail,Revenue - Retail Sales New York - White Wine,26011
+78,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,41854
+78,Retail,Revenue - Retail Sales Detroit - Red Wine,40320
+78,Retail,Revenue - Retail Sales Detroit - White Wine,53460
+78,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+78,Rental Expense,Cash Payment - Rental - Chicago,-2400
+78,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+78,Rental Expense,Cash Payment - Rental - New York,-4020
+78,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-297
+78,Rental Expense,Cash Payment - Rental - Detroit,-1000
+77,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 13017 ,-131784
+77,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+77,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 13411 ,-11232
+77,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 13411 ,-32760
+77,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 13411 ,-74880
+77,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 13577 ,-7488
+77,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 13577 ,-32760
+77,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 13577 ,-187200
+77,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+77,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+77,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+77,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+77,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+77,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+77,Salary Expense,Cash Payment - Salary Expense,-24897
+77,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 13187,-166
+77,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 13192,-338
+77,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5265
+77,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3630
+77,Retail,Revenue - Retail Sales Los Angeles - White Wine,4864
+77,Retail,Revenue - Retail Sales New York - Red Wine,8260
+77,Retail,Revenue - Retail Sales New York - White Wine,11766
+77,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,10472
+77,Retail,Revenue - Retail Sales Detroit - Red Wine,9972
+77,Retail,Revenue - Retail Sales Detroit - White Wine,12240
+77,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+77,Rental Expense,Cash Payment - Rental - Chicago,-2400
+77,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+77,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,-975
+77,Rental Expense,Cash Payment - Rental - New York,-4020
+77,Rental Expense,Cash Payment - Rental - Detroit,-1000
+76,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+76,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+76,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+76,Human Resource Expense,Counselled,-2000
+76,Human Resource Expense,Counselled,-2000
+76,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+76,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+76,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+76,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+76,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+76,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+76,Salary Expense,Cash Payment - Salary Expense,-24509
+76,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 13197,-67
+76,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 13218,-261
+76,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5508
+76,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3660
+76,Retail,Revenue - Retail Sales Los Angeles - White Wine,4576
+76,Retail,Revenue - Retail Sales New York - Red Wine,9170
+76,Retail,Revenue - Retail Sales New York - White Wine,11100
+76,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,11118
+76,Retail,Revenue - Retail Sales Detroit - Red Wine,10332
+76,Retail,Revenue - Retail Sales Detroit - White Wine,12132
+76,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+76,Rental Expense,Cash Payment - Rental - Chicago,-2400
+76,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+76,Rental Expense,Cash Payment - Rental - New York,-4020
+76,Rental Expense,Cash Payment - Rental - Detroit,-1000
+75,Human Resource Expense,Counselled,-2000
+75,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+75,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+75,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+75,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+75,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+75,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+75,Salary Expense,Cash Payment - Salary Expense,-23186
+75,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5400
+75,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3330
+75,Retail,Revenue - Retail Sales Los Angeles - White Wine,4736
+75,Retail,Revenue - Retail Sales New York - Red Wine,5145
+75,Retail,Revenue - Retail Sales New York - White Wine,7770
+75,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,8330
+75,Retail,Revenue - Retail Sales Detroit - Red Wine,8568
+75,Retail,Revenue - Retail Sales Detroit - White Wine,10080
+75,Services,Revenue - Service Sales Order ID: 11697,59700
+75,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+75,Rental Expense,Cash Payment - Rental - Chicago,-2400
+75,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+75,Rental Expense,Cash Payment - Rental - New York,-4020
+75,Rental Expense,Cash Payment - Rental - Detroit,-1000
+74,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+74,Wholesales (B2B),Revenue - B2B SO ID: 12628,555170
+74,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+74,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+74,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+74,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+74,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+74,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+74,Salary Expense,Cash Payment - Salary Expense,-24057
+74,Shipping Expense,Cash Payment - Move Stock ID: 12606,-10064
+74,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5886
+74,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3360
+74,Retail,Revenue - Retail Sales Los Angeles - White Wine,4576
+74,Retail,Revenue - Retail Sales New York - Red Wine,5180
+74,Retail,Revenue - Retail Sales New York - White Wine,7548
+74,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,9044
+74,Retail,Revenue - Retail Sales Detroit - Red Wine,8316
+74,Retail,Revenue - Retail Sales Detroit - White Wine,9576
+74,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+74,Rental Expense,Cash Payment - Rental - Chicago,-2400
+74,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+74,Rental Expense,Cash Payment - Rental - New York,-4020
+74,Rental Expense,Cash Payment - Rental - Detroit,-1000
+73,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+73,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 12439 ,-23760
+73,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 12439 ,-27720
+73,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+73,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 12609 ,-6336
+73,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 12609 ,-18480
+73,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+73,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+73,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+73,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+73,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,-300
+73,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,-300
+73,Marketing Expense,Cash Payment - Marketing - New York - White Wine,-300
+73,Salary Expense,Cash Payment - Salary Expense,-23629
+73,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5886
+73,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3210
+73,Retail,Revenue - Retail Sales Los Angeles - White Wine,4576
+73,Retail,Revenue - Retail Sales New York - Red Wine,5145
+73,Retail,Revenue - Retail Sales New York - White Wine,6956
+73,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,8330
+73,Retail,Revenue - Retail Sales Detroit - Red Wine,8496
+73,Retail,Revenue - Retail Sales Detroit - White Wine,9684
+73,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+73,Rental Expense,Cash Payment - Rental - Chicago,-2400
+73,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+73,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,-3225
+73,Rental Expense,Cash Payment - Rental - New York,-4020
+73,Rental Expense,Cash Payment - Rental - Detroit,-1000
+72,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+72,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+72,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+72,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+72,Salary Expense,Cash Payment - Salary Expense,-22653
+72,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5238
+72,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3480
+72,Retail,Revenue - Retail Sales Los Angeles - White Wine,4832
+72,Retail,Revenue - Retail Sales New York - Red Wine,4830
+72,Retail,Revenue - Retail Sales New York - White Wine,5032
+72,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,11016
+72,Retail,Revenue - Retail Sales Detroit - Red Wine,11088
+72,Retail,Revenue - Retail Sales Detroit - White Wine,13932
+72,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+72,Rental Expense,Cash Payment - Rental - Chicago,-2400
+72,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+72,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,-3300
+72,Rental Expense,Cash Payment - Rental - New York,-4020
+72,Rental Expense,Cash Payment - Rental - Detroit,-1000
+71,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+71,Human Resource Expense,Counselled,-2000
+71,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+71,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+71,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+71,Salary Expense,Cash Payment - Salary Expense,-22843
+71,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,-15000
+71,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,6021
+71,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3270
+71,Retail,Revenue - Retail Sales Los Angeles - White Wine,4768
+71,Retail,Revenue - Retail Sales New York - Sparkling Wine,7552
+71,Retail,Revenue - Retail Sales New York - Red Wine,4900
+71,Retail,Revenue - Retail Sales New York - White Wine,5180
+71,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,12036
+71,Retail,Revenue - Retail Sales Detroit - Red Wine,10980
+71,Retail,Revenue - Retail Sales Detroit - White Wine,12492
+71,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+71,Rental Expense,Cash Payment - Rental - Chicago,-2400
+71,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+71,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,-3300
+71,Rental Expense,Cash Payment - Rental - New York,-4020
+71,Rental Expense,Cash Payment - Rental - Detroit,-1000
+70,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+70,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+70,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+70,Salary Expense,Cash Payment - Salary Expense,-21876
+70,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5400
+70,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3450
+70,Retail,Revenue - Retail Sales Los Angeles - White Wine,4992
+70,Retail,Revenue - Retail Sales New York - Sparkling Wine,7680
+70,Retail,Revenue - Retail Sales New York - Red Wine,5040
+70,Retail,Revenue - Retail Sales New York - White Wine,4551
+70,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,8500
+70,Retail,Revenue - Retail Sales Detroit - Red Wine,7848
+70,Retail,Revenue - Retail Sales Detroit - White Wine,9180
+70,Services,Revenue - Service Sales Order ID: 10758,73300
+70,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+70,Rental Expense,Cash Payment - Rental - Chicago,-2400
+70,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+70,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,-3450
+70,Rental Expense,Cash Payment - Rental - New York,-4020
+70,Rental Expense,Cash Payment - Rental - Detroit,-1000
+69,Wholesales (B2B),Revenue - B2B SO ID: 9703,802500
+69,Penalty Expense,Cash Payment - Late penalty - B2B SO ID: 9703,-42000
+69,Wholesales (B2B),Revenue - B2B SO ID: 11680,175260
+69,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+69,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+69,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+69,Salary Expense,Cash Payment - Salary Expense,-21792
+69,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5589
+69,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3420
+69,Retail,Revenue - Retail Sales Los Angeles - White Wine,4960
+69,Retail,Revenue - Retail Sales New York - Sparkling Wine,7315
+69,Retail,Revenue - Retail Sales New York - Red Wine,5069
+69,Retail,Revenue - Retail Sales New York - White Wine,4400
+69,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,8505
+69,Retail,Revenue - Retail Sales Detroit - Red Wine,7448
+69,Retail,Revenue - Retail Sales Detroit - White Wine,8800
+69,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+69,Rental Expense,Cash Payment - Rental - Chicago,-2400
+69,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+69,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,-3525
+69,Rental Expense,Cash Payment - Rental - New York,-4020
+69,Rental Expense,Cash Payment - Rental - Detroit,-1000
+68,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 11500 ,-22776
+68,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 11663 ,-19032
+68,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 11663 ,-22776
+68,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+68,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+68,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+68,Salary Expense,Cash Payment - Salary Expense,-21669
+68,Shipping Expense,Cash Payment - Move Stock ID: 8206,-121870
+68,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5346
+68,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3510
+68,Retail,Revenue - Retail Sales Los Angeles - White Wine,4960
+68,Retail,Revenue - Retail Sales New York - Sparkling Wine,7245
+68,Retail,Revenue - Retail Sales New York - Red Wine,4477
+68,Retail,Revenue - Retail Sales New York - White Wine,4320
+68,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,8505
+68,Retail,Revenue - Retail Sales Detroit - Red Wine,8284
+68,Retail,Revenue - Retail Sales Detroit - White Wine,9680
+68,Services,Revenue - Service Sales Order ID: 10062,120900
+68,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+68,Rental Expense,Cash Payment - Rental - Chicago,-2400
+68,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+68,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,-3675
+68,Rental Expense,Cash Payment - Rental - New York,-4020
+68,Rental Expense,Cash Payment - Rental - Detroit,-1000
+67,Sales E Commerce,Revenue - ECM SO ID: 10778,4238
+67,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+67,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+67,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+67,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+67,Salary Expense,Cash Payment - Salary Expense,-22055
+67,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5805
+67,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3510
+67,Retail,Revenue - Retail Sales Los Angeles - White Wine,5056
+67,Retail,Revenue - Retail Sales New York - Sparkling Wine,7245
+67,Retail,Revenue - Retail Sales New York - Red Wine,4921
+67,Retail,Revenue - Retail Sales New York - White Wine,4960
+67,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,10640
+67,Retail,Revenue - Retail Sales Detroit - Red Wine,10982
+67,Retail,Revenue - Retail Sales Detroit - White Wine,12440
+67,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+67,Rental Expense,Cash Payment - Rental - Chicago,-2400
+67,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-1710
+67,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+67,Rental Expense,Cash Payment - Rental - New York,-4020
+67,Rental Expense,Cash Payment - Rental - Detroit,-1000
+66,Human Resource Expense,Counselled,-2000
+66,Wholesales (B2B),Revenue - B2B SO ID: 11132,57348
+66,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+66,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+66,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+66,Salary Expense,Cash Payment - Salary Expense,-21650
+66,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5346
+66,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3360
+66,Retail,Revenue - Retail Sales Los Angeles - White Wine,4704
+66,Retail,Revenue - Retail Sales New York - Sparkling Wine,7700
+66,Retail,Revenue - Retail Sales New York - Red Wine,4736
+66,Retail,Revenue - Retail Sales New York - White Wine,4960
+66,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,11655
+66,Retail,Revenue - Retail Sales Detroit - Red Wine,10754
+66,Retail,Revenue - Retail Sales Detroit - White Wine,12800
+66,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+66,Rental Expense,Cash Payment - Rental - Chicago,-2400
+66,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-1770
+66,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+66,Rental Expense,Cash Payment - Rental - New York,-4020
+66,Rental Expense,Cash Payment - Rental - Detroit,-1000
+65,Maintenance Expense,Cash Payment - Periodic Maintenance,-7000
+65,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+65,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+65,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+65,Salary Expense,Cash Payment - Salary Expense,-22118
+65,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5697
+65,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3690
+65,Retail,Revenue - Retail Sales Los Angeles - White Wine,4640
+65,Retail,Revenue - Retail Sales New York - Sparkling Wine,7980
+65,Retail,Revenue - Retail Sales New York - Red Wine,5069
+65,Retail,Revenue - Retail Sales New York - White Wine,4320
+65,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,10780
+65,Retail,Revenue - Retail Sales Detroit - Red Wine,11058
+65,Retail,Revenue - Retail Sales Detroit - White Wine,12920
+65,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+65,Rental Expense,Cash Payment - Rental - Chicago,-2400
+65,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-1800
+65,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+65,Rental Expense,Cash Payment - Rental - New York,-4020
+65,Rental Expense,Cash Payment - Rental - Detroit,-1000
+64,Wholesales (B2B),Revenue - B2B SO ID: 10597,74048
+64,Human Resource Expense,Counselled,-2000
+64,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+64,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+64,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+64,Salary Expense,Cash Payment - Salary Expense,-22118
+64,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 10778,-25
+64,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,3473
+64,Retail,Revenue - Retail Sales Los Angeles - Red Wine,2256
+64,Retail,Revenue - Retail Sales Los Angeles - White Wine,3240
+64,Retail,Revenue - Retail Sales New York - Sparkling Wine,4370
+64,Retail,Revenue - Retail Sales New York - Red Wine,2736
+64,Retail,Revenue - Retail Sales New York - White Wine,2584
+64,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,6468
+64,Retail,Revenue - Retail Sales Detroit - Red Wine,5724
+64,Retail,Revenue - Retail Sales Detroit - White Wine,8954
+64,Services,Revenue - Service Sales Order ID: 9692,12300
+64,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+64,Rental Expense,Cash Payment - Rental - Chicago,-2400
+64,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-1860
+64,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+64,Rental Expense,Cash Payment - Rental - New York,-4020
+64,Rental Expense,Cash Payment - Rental - Detroit,-1000
+63,Maintenance Expense,Cash Payment - Periodic Maintenance,-8000
+63,Human Resource Expense,Counselled,-2000
+63,Human Resource Expense,Counselled,-2000
+63,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+63,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+63,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+63,Salary Expense,Cash Payment - Salary Expense,-22096
+63,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,3933
+63,Retail,Revenue - Retail Sales Los Angeles - Red Wine,2088
+63,Retail,Revenue - Retail Sales Los Angeles - White Wine,3051
+63,Retail,Revenue - Retail Sales New York - Sparkling Wine,4408
+63,Retail,Revenue - Retail Sales New York - Red Wine,3306
+63,Retail,Revenue - Retail Sales New York - White Wine,3382
+63,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,8580
+63,Retail,Revenue - Retail Sales Detroit - Red Wine,7056
+63,Retail,Revenue - Retail Sales Detroit - White Wine,7992
+63,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+63,Rental Expense,Cash Payment - Rental - Chicago,-2400
+63,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-1890
+63,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+63,Rental Expense,Cash Payment - Rental - New York,-4020
+63,Rental Expense,Cash Payment - Rental - Detroit,-1000
+62,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+62,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+62,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+62,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+62,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+62,Salary Expense,Cash Payment - Salary Expense,-22479
+62,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,-15000
+62,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,3036
+62,Retail,Revenue - Retail Sales Los Angeles - Red Wine,2088
+62,Retail,Revenue - Retail Sales Los Angeles - White Wine,3915
+62,Retail,Revenue - Retail Sales New York - Sparkling Wine,4902
+62,Retail,Revenue - Retail Sales New York - Red Wine,2888
+62,Retail,Revenue - Retail Sales New York - White Wine,3116
+62,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,7689
+62,Retail,Revenue - Retail Sales Detroit - Red Wine,7164
+62,Retail,Revenue - Retail Sales Detroit - White Wine,8214
+62,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+62,Rental Expense,Cash Payment - Rental - Chicago,-2400
+62,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-1920
+62,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+62,Rental Expense,Cash Payment - Rental - New York,-4020
+62,Rental Expense,Cash Payment - Rental - Detroit,-1000
+61,Sales E Commerce,Revenue - ECM SO ID: 9710,10443
+61,Sales E Commerce,Revenue - ECM SO ID: 9715,5088
+61,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+61,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 10288 ,-145800
+61,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 10288 ,-121176
+61,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 10288 ,-155952
+61,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 10437 ,-16560
+61,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 10437 ,-36018
+61,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+61,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+61,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+61,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+61,Salary Expense,Cash Payment - Salary Expense,-22725
+61,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5221
+61,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3408
+61,Retail,Revenue - Retail Sales Los Angeles - White Wine,5643
+61,Retail,Revenue - Retail Sales New York - Sparkling Wine,4370
+61,Retail,Revenue - Retail Sales New York - Red Wine,2508
+61,Retail,Revenue - Retail Sales New York - White Wine,2660
+61,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,7920
+61,Retail,Revenue - Retail Sales Detroit - Red Wine,6948
+61,Retail,Revenue - Retail Sales Detroit - White Wine,6438
+61,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+61,Rental Expense,Cash Payment - Rental - Chicago,-2400
+61,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-1920
+61,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+61,Rental Expense,Cash Payment - Rental - New York,-4020
+61,Rental Expense,Cash Payment - Rental - Detroit,-1000
+60,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 10054 ,-16650
+60,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 10054 ,-19890
+60,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 10054 ,-25650
+60,Wholesales (B2B),Revenue - B2B SO ID: 10072,68718
+60,Human Resource Expense,Counselled,-2000
+60,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+60,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+60,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+60,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+60,Salary Expense,Cash Payment - Salary Expense,-22300
+60,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5428
+60,Retail,Revenue - Retail Sales Los Angeles - Red Wine,2592
+60,Retail,Revenue - Retail Sales Los Angeles - White Wine,5265
+60,Retail,Revenue - Retail Sales New York - Sparkling Wine,4180
+60,Retail,Revenue - Retail Sales New York - Red Wine,3154
+60,Retail,Revenue - Retail Sales New York - White Wine,2736
+60,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,7326
+60,Retail,Revenue - Retail Sales Detroit - Red Wine,6732
+60,Retail,Revenue - Retail Sales Detroit - White Wine,6253
+60,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+60,Rental Expense,Cash Payment - Rental - Chicago,-2400
+60,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-2010
+60,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+60,Rental Expense,Cash Payment - Rental - New York,-4020
+60,Rental Expense,Cash Payment - Rental - Detroit,-1000
+59,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+59,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 10255 ,-145800
+59,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 10255 ,-139536
+59,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 10255 ,-188784
+59,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+59,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 10266 ,-10143
+59,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 10266 ,-20452
+59,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 10266 ,-23405
+59,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+59,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+59,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+59,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+59,Salary Expense,Cash Payment - Salary Expense,-22220
+59,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5819
+59,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3600
+59,Retail,Revenue - Retail Sales Los Angeles - White Wine,4671
+59,Retail,Revenue - Retail Sales New York - Sparkling Wine,4598
+59,Retail,Revenue - Retail Sales New York - Red Wine,2546
+59,Retail,Revenue - Retail Sales New York - White Wine,2508
+59,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,7920
+59,Retail,Revenue - Retail Sales Detroit - Red Wine,7200
+59,Retail,Revenue - Retail Sales Detroit - White Wine,7696
+59,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+59,Rental Expense,Cash Payment - Rental - Chicago,-2400
+59,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-2070
+59,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+59,Rental Expense,Cash Payment - Rental - New York,-4020
+59,Rental Expense,Cash Payment - Rental - Detroit,-1000
+58,Wholesales (B2B),Revenue - B2B SO ID: 9531,202500
+58,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+58,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+58,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+58,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+58,Salary Expense,Cash Payment - Salary Expense,-22103
+58,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 9710,-98
+58,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 9715,-47
+58,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,11408
+58,Retail,Revenue - Retail Sales Los Angeles - Red Wine,7632
+58,Retail,Revenue - Retail Sales Los Angeles - White Wine,10989
+58,Retail,Revenue - Retail Sales New York - Sparkling Wine,20938
+58,Retail,Revenue - Retail Sales New York - Red Wine,11666
+58,Retail,Revenue - Retail Sales New York - White Wine,11248
+58,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,15345
+58,Retail,Revenue - Retail Sales Detroit - Red Wine,12816
+58,Retail,Revenue - Retail Sales Detroit - White Wine,14615
+58,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+58,Rental Expense,Cash Payment - Rental - Chicago,-2400
+58,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-2100
+58,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+58,Rental Expense,Cash Payment - Rental - New York,-4020
+58,Rental Expense,Cash Payment - Rental - Detroit,-1000
+57,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+57,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+57,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+57,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+57,Salary Expense,Cash Payment - Salary Expense,-22082
+57,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,12213
+57,Retail,Revenue - Retail Sales Los Angeles - Red Wine,5760
+57,Retail,Revenue - Retail Sales Los Angeles - White Wine,7317
+57,Retail,Revenue - Retail Sales New York - Sparkling Wine,12008
+57,Retail,Revenue - Retail Sales New York - Red Wine,9234
+57,Retail,Revenue - Retail Sales New York - White Wine,7904
+57,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,11682
+57,Retail,Revenue - Retail Sales Detroit - Red Wine,10548
+57,Retail,Revenue - Retail Sales Detroit - White Wine,11507
+57,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+57,Rental Expense,Cash Payment - Rental - Chicago,-2400
+57,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-2190
+57,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+57,Rental Expense,Cash Payment - Rental - New York,-4020
+57,Rental Expense,Cash Payment - Rental - Detroit,-1000
+56,Sales E Commerce,Revenue - ECM SO ID: 8954,8937
+56,Wholesales (B2B),Revenue - B2B SO ID: 9302,259380
+56,Wholesales (B2B),Revenue - B2B SO ID: 9317,129740
+56,Wholesales (B2B),Revenue - B2B SO ID: 9337,161760
+56,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+56,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+56,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+56,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+56,Salary Expense,Cash Payment - Salary Expense,-22082
+56,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,13800
+56,Retail,Revenue - Retail Sales Los Angeles - Red Wine,6648
+56,Retail,Revenue - Retail Sales Los Angeles - White Wine,8802
+56,Retail,Revenue - Retail Sales New York - Sparkling Wine,16036
+56,Retail,Revenue - Retail Sales New York - Red Wine,10222
+56,Retail,Revenue - Retail Sales New York - White Wine,12806
+56,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,16599
+56,Retail,Revenue - Retail Sales Detroit - Red Wine,14112
+56,Retail,Revenue - Retail Sales Detroit - White Wine,13431
+56,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+56,Rental Expense,Cash Payment - Rental - Chicago,-2400
+56,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-2310
+56,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+56,Rental Expense,Cash Payment - Rental - New York,-4020
+56,Rental Expense,Cash Payment - Rental - Detroit,-1000
+55,Sales E Commerce,Revenue - ECM SO ID: 8787,13986
+55,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+55,Wholesales (B2B),Revenue - B2B SO ID: 9143,293930
+55,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+55,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+55,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+55,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+55,Salary Expense,Cash Payment - Salary Expense,-22082
+55,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,10787
+55,Retail,Revenue - Retail Sales Los Angeles - Red Wine,5544
+55,Retail,Revenue - Retail Sales Los Angeles - White Wine,9207
+55,Retail,Revenue - Retail Sales New York - Sparkling Wine,13110
+55,Retail,Revenue - Retail Sales New York - Red Wine,9120
+55,Retail,Revenue - Retail Sales New York - White Wine,8246
+55,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,10692
+55,Retail,Revenue - Retail Sales Detroit - Red Wine,9324
+55,Retail,Revenue - Retail Sales Detroit - White Wine,10027
+55,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+55,Rental Expense,Cash Payment - Rental - Chicago,-2400
+55,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-2430
+55,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+55,Rental Expense,Cash Payment - Rental - New York,-4020
+55,Rental Expense,Cash Payment - Rental - Detroit,-1000
+54,Sales E Commerce,Revenue - ECM SO ID: 8335,1458
+54,Sales E Commerce,Revenue - ECM SO ID: 8378,773
+54,Sales E Commerce,Revenue - ECM SO ID: 8389,1993
+54,Sales E Commerce,Revenue - ECM SO ID: 8414,8839
+54,Sales E Commerce,Revenue - ECM SO ID: 8417,10161
+54,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+54,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+54,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+54,Salary Expense,Cash Payment - Salary Expense,-22548
+54,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5405
+54,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3336
+54,Retail,Revenue - Retail Sales Los Angeles - White Wine,4590
+54,Retail,Revenue - Retail Sales New York - Sparkling Wine,6574
+54,Retail,Revenue - Retail Sales New York - Red Wine,4180
+54,Retail,Revenue - Retail Sales New York - White Wine,5206
+54,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,5808
+54,Retail,Revenue - Retail Sales Detroit - Red Wine,5688
+54,Retail,Revenue - Retail Sales Detroit - White Wine,6845
+54,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+54,Rental Expense,Cash Payment - Rental - Chicago,-2400
+54,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-2640
+54,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+54,Rental Expense,Cash Payment - Rental - New York,-4020
+54,Rental Expense,Cash Payment - Rental - Detroit,-1000
+53,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 8752 ,-191216
+53,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 8752 ,-213416
+53,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 8752 ,-247456
+53,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 8768 ,-244644
+53,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 8768 ,-233988
+53,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 8768 ,-337440
+53,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 8790 ,-14514
+53,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 8790 ,-20336
+53,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 8790 ,-104960
+53,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 8790 ,-94464
+53,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+53,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+53,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+53,Salary Expense,Cash Payment - Salary Expense,-22527
+53,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8954,-72
+53,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,-15000
+53,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5543
+53,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3600
+53,Retail,Revenue - Retail Sales Los Angeles - White Wine,5589
+53,Retail,Revenue - Retail Sales New York - Sparkling Wine,6612
+53,Retail,Revenue - Retail Sales New York - Red Wine,3648
+53,Retail,Revenue - Retail Sales New York - White Wine,4522
+53,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,6039
+53,Retail,Revenue - Retail Sales Detroit - Red Wine,6696
+53,Retail,Revenue - Retail Sales Detroit - White Wine,6808
+53,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+53,Rental Expense,Cash Payment - Rental - Chicago,-2400
+53,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-2670
+53,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+53,Rental Expense,Cash Payment - Rental - New York,-4020
+53,Rental Expense,Cash Payment - Rental - Detroit,-1000
+52,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 8971 ,-12136
+52,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 8971 ,-19680
+52,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 8971 ,-16794
+52,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 8971 ,-86100
+52,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 8971 ,-59040
+52,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+52,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 8979 ,-20424
+52,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 8979 ,-28379
+52,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 8979 ,-59910
+52,Human Resource Expense,Counselled,-2000
+52,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+52,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+52,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+52,Salary Expense,Cash Payment - Salary Expense,-22506
+52,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8787,-122
+52,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,6026
+52,Retail,Revenue - Retail Sales Los Angeles - Red Wine,2904
+52,Retail,Revenue - Retail Sales Los Angeles - White Wine,5697
+52,Retail,Revenue - Retail Sales New York - Sparkling Wine,6308
+52,Retail,Revenue - Retail Sales New York - Red Wine,4104
+52,Retail,Revenue - Retail Sales New York - White Wine,4028
+52,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,6105
+52,Retail,Revenue - Retail Sales Detroit - Red Wine,6984
+52,Retail,Revenue - Retail Sales Detroit - White Wine,6475
+52,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+52,Rental Expense,Cash Payment - Rental - Chicago,-2400
+52,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-2760
+52,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+52,Rental Expense,Cash Payment - Rental - New York,-4020
+52,Rental Expense,Cash Payment - Rental - Detroit,-1000
+51,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+51,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+51,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+51,Salary Expense,Cash Payment - Salary Expense,-21865
+51,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8335,-11
+51,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8378,-6
+51,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8389,-17
+51,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8414,-81
+51,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8417,-79
+51,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5336
+51,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3240
+51,Retail,Revenue - Retail Sales Los Angeles - White Wine,4617
+51,Retail,Revenue - Retail Sales New York - Sparkling Wine,6308
+51,Retail,Revenue - Retail Sales New York - Red Wine,4332
+51,Retail,Revenue - Retail Sales New York - White Wine,4294
+51,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,4158
+51,Retail,Revenue - Retail Sales Detroit - Red Wine,5148
+51,Retail,Revenue - Retail Sales Detroit - White Wine,5661
+51,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+51,Rental Expense,Cash Payment - Rental - Chicago,-2400
+51,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-2790
+51,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+51,Rental Expense,Cash Payment - Rental - New York,-4020
+51,Rental Expense,Cash Payment - Rental - Detroit,-1000
+50,Sales E Commerce,Revenue - ECM SO ID: 7506,28299
+50,Sales E Commerce,Revenue - ECM SO ID: 7578,2464
+50,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 8189 ,-193435
+50,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+50,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+50,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+50,Salary Expense,Cash Payment - Salary Expense,-21789
+50,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,6854
+50,Retail,Revenue - Retail Sales Los Angeles - Red Wine,4560
+50,Retail,Revenue - Retail Sales Los Angeles - White Wine,7020
+50,Retail,Revenue - Retail Sales New York - Sparkling Wine,7562
+50,Retail,Revenue - Retail Sales New York - Red Wine,6270
+50,Retail,Revenue - Retail Sales New York - White Wine,5092
+50,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,5940
+50,Retail,Revenue - Retail Sales Detroit - Red Wine,4860
+50,Retail,Revenue - Retail Sales Detroit - White Wine,5624
+50,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+50,Rental Expense,Cash Payment - Rental - Chicago,-2400
+50,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-2880
+50,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+50,Rental Expense,Cash Payment - Rental - New York,-4020
+50,Rental Expense,Cash Payment - Rental - Detroit,-1000
+49,Sales E Commerce,Revenue - ECM SO ID: 7477,8078
+49,Sales E Commerce,Revenue - ECM SO ID: 7485,9890
+49,Sales E Commerce,Revenue - ECM SO ID: 7494,4992
+49,Sales E Commerce,Revenue - ECM SO ID: 7500,16337
+49,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+49,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+49,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+49,Salary Expense,Cash Payment - Salary Expense,-21695
+49,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,6371
+49,Retail,Revenue - Retail Sales Los Angeles - Red Wine,3816
+49,Retail,Revenue - Retail Sales Los Angeles - White Wine,6318
+49,Retail,Revenue - Retail Sales New York - Sparkling Wine,8588
+49,Retail,Revenue - Retail Sales New York - Red Wine,5016
+49,Retail,Revenue - Retail Sales New York - White Wine,6232
+49,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,4686
+49,Retail,Revenue - Retail Sales Detroit - Red Wine,4932
+49,Retail,Revenue - Retail Sales Detroit - White Wine,6697
+49,Services,Revenue - Service Sales Order ID: 6942,45500
+49,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+49,Rental Expense,Cash Payment - Rental - Chicago,-2400
+49,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-2940
+49,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+49,Rental Expense,Cash Payment - Rental - New York,-4020
+49,Rental Expense,Cash Payment - Rental - Detroit,-1000
+48,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+48,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+48,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+48,Salary Expense,Cash Payment - Salary Expense,-21581
+48,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,5658
+48,Retail,Revenue - Retail Sales Los Angeles - Red Wine,4752
+48,Retail,Revenue - Retail Sales Los Angeles - White Wine,7668
+48,Retail,Revenue - Retail Sales New York - Sparkling Wine,8892
+48,Retail,Revenue - Retail Sales New York - Red Wine,5236
+48,Retail,Revenue - Retail Sales New York - White Wine,5355
+48,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,4125
+48,Retail,Revenue - Retail Sales Detroit - Red Wine,3816
+48,Retail,Revenue - Retail Sales Detroit - White Wine,6201
+48,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+48,Rental Expense,Cash Payment - Rental - Chicago,-2400
+48,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-3000
+48,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+48,Rental Expense,Cash Payment - Rental - New York,-4020
+48,Rental Expense,Cash Payment - Rental - Detroit,-1000
+47,Human Resource Expense,Counselled,-2000
+47,Human Resource Expense,Counselled,-2000
+47,Human Resource Expense,Counselled,-2000
+47,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+47,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+47,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+47,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+47,Salary Expense,Cash Payment - Salary Expense,-21561
+47,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7506,-283
+47,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7578,-25
+47,Shipping Expense,Cash Payment - Move Stock ID: 4383,-114623
+47,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,9879
+47,Retail,Revenue - Retail Sales Los Angeles - Red Wine,5694
+47,Retail,Revenue - Retail Sales Los Angeles - White Wine,10004
+47,Retail,Revenue - Retail Sales New York - Sparkling Wine,12306
+47,Retail,Revenue - Retail Sales New York - Red Wine,8888
+47,Retail,Revenue - Retail Sales New York - White Wine,8685
+47,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,8910
+47,Retail,Revenue - Retail Sales Detroit - Red Wine,7992
+47,Retail,Revenue - Retail Sales Detroit - White Wine,8463
+47,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+47,Rental Expense,Cash Payment - Rental - Chicago,-2400
+47,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-3060
+47,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+47,Rental Expense,Cash Payment - Rental - New York,-4020
+47,Rental Expense,Cash Payment - Rental - Detroit,-1000
+46,Sales E Commerce,Revenue - ECM SO ID: 7024,991
+46,Sales E Commerce,Revenue - ECM SO ID: 7108,1685
+46,Sales E Commerce,Revenue - ECM SO ID: 7110,5981
+46,Sales E Commerce,Revenue - ECM SO ID: 7119,10440
+46,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 7492 ,-32736
+46,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 7492 ,-38016
+46,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 7492 ,-145024
+46,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+46,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+46,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+46,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+46,Salary Expense,Cash Payment - Salary Expense,-21561
+46,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7477,-81
+46,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7485,-99
+46,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7494,-50
+46,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7500,-163
+46,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,9953
+46,Retail,Revenue - Retail Sales Los Angeles - Red Wine,6279
+46,Retail,Revenue - Retail Sales Los Angeles - White Wine,9307
+46,Retail,Revenue - Retail Sales New York - Sparkling Wine,12432
+46,Retail,Revenue - Retail Sales New York - Red Wine,9064
+46,Retail,Revenue - Retail Sales New York - White Wine,9495
+46,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,8514
+46,Retail,Revenue - Retail Sales Detroit - Red Wine,7524
+46,Retail,Revenue - Retail Sales Detroit - White Wine,8853
+46,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+46,Rental Expense,Cash Payment - Rental - Chicago,-2400
+46,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-150
+46,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+46,Rental Expense,Cash Payment - Rental - New York,-4020
+46,Rental Expense,Cash Payment - Rental - Detroit,-1000
+45,Sales E Commerce,Revenue - ECM SO ID: 6931,12852
+45,Sales E Commerce,Revenue - ECM SO ID: 6945,1889
+45,Human Resource Expense,Counselled,-2000
+45,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+45,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+45,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+45,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+45,Salary Expense,Cash Payment - Salary Expense,-21561
+45,Shipping Expense,Cash Payment - Move Stock ID: 4999,-70309
+45,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,9361
+45,Retail,Revenue - Retail Sales Los Angeles - Red Wine,6279
+45,Retail,Revenue - Retail Sales Los Angeles - White Wine,10086
+45,Retail,Revenue - Retail Sales New York - Sparkling Wine,12390
+45,Retail,Revenue - Retail Sales New York - Red Wine,8844
+45,Retail,Revenue - Retail Sales New York - White Wine,8370
+45,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,9009
+45,Retail,Revenue - Retail Sales Detroit - Red Wine,7452
+45,Retail,Revenue - Retail Sales Detroit - White Wine,8931
+45,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+45,Rental Expense,Cash Payment - Rental - Chicago,-2400
+45,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,-210
+45,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+45,Rental Expense,Cash Payment - Rental - New York,-4020
+45,Rental Expense,Cash Payment - Rental - Detroit,-1000
+44,Human Resource Expense,Counselled,-2000
+44,Human Resource Expense,Counselled,-2000
+44,Human Resource Expense,Counselled,-2000
+44,Human Resource Expense,Counselled,-2000
+44,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+44,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+44,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+44,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+44,Salary Expense,Cash Payment - Salary Expense,-21561
+44,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,-15000
+44,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,9990
+44,Retail,Revenue - Retail Sales Los Angeles - Red Wine,5889
+44,Retail,Revenue - Retail Sales Los Angeles - White Wine,9512
+44,Retail,Revenue - Retail Sales New York - Sparkling Wine,14238
+44,Retail,Revenue - Retail Sales New York - Red Wine,9328
+44,Retail,Revenue - Retail Sales New York - White Wine,9180
+44,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,9108
+44,Retail,Revenue - Retail Sales Detroit - Red Wine,8316
+44,Retail,Revenue - Retail Sales Detroit - White Wine,9594
+44,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+44,Rental Expense,Cash Payment - Rental - Chicago,-2400
+44,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+44,Rental Expense,Cash Payment - Rental - New York,-4020
+44,Rental Expense,Cash Payment - Rental - Detroit,-1000
+43,Sales E Commerce,Revenue - ECM SO ID: 6128,2402
+43,Sales E Commerce,Revenue - ECM SO ID: 6480,2643
+43,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 7311 ,-50688
+43,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+43,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+43,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+43,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+43,Salary Expense,Cash Payment - Salary Expense,-21541
+43,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7024,-10
+43,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7108,-17
+43,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7110,-60
+43,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7119,-104
+43,Shipping Expense,Cash Payment - Move Stock ID: 6892,-8501
+43,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,9694
+43,Retail,Revenue - Retail Sales Los Angeles - Red Wine,6318
+43,Retail,Revenue - Retail Sales Los Angeles - White Wine,9594
+43,Retail,Revenue - Retail Sales New York - Sparkling Wine,14364
+43,Retail,Revenue - Retail Sales New York - Red Wine,8976
+43,Retail,Revenue - Retail Sales New York - White Wine,9450
+43,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,9306
+43,Retail,Revenue - Retail Sales Detroit - Red Wine,8640
+43,Retail,Revenue - Retail Sales Detroit - White Wine,9321
+43,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+43,Rental Expense,Cash Payment - Rental - Chicago,-2400
+43,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+43,Rental Expense,Cash Payment - Rental - New York,-4020
+43,Rental Expense,Cash Payment - Rental - Detroit,-1000
+42,Wholesales (B2B),Revenue - B2B SO ID: 6713,708400
+42,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+42,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+42,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+42,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+42,Salary Expense,Cash Payment - Salary Expense,-21521
+42,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6931,-129
+42,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6945,-19
+42,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,9805
+42,Retail,Revenue - Retail Sales Los Angeles - Red Wine,6318
+42,Retail,Revenue - Retail Sales Los Angeles - White Wine,8692
+42,Retail,Revenue - Retail Sales New York - Sparkling Wine,14112
+42,Retail,Revenue - Retail Sales New York - Red Wine,8712
+42,Retail,Revenue - Retail Sales New York - White Wine,9450
+42,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,8745
+42,Retail,Revenue - Retail Sales Detroit - Red Wine,8532
+42,Retail,Revenue - Retail Sales Detroit - White Wine,9594
+42,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+42,Rental Expense,Cash Payment - Rental - Chicago,-2400
+42,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+42,Rental Expense,Cash Payment - Rental - New York,-4020
+42,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-513
+42,Rental Expense,Cash Payment - Rental - Detroit,-1000
+41,Sales E Commerce,Revenue - ECM SO ID: 5367,9778
+41,Sales E Commerce,Revenue - ECM SO ID: 5375,14492
+41,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+41,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+41,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+41,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+41,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+41,Salary Expense,Cash Payment - Salary Expense,-21666
+41,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,9879
+41,Retail,Revenue - Retail Sales Los Angeles - Red Wine,5889
+41,Retail,Revenue - Retail Sales Los Angeles - White Wine,9102
+41,Retail,Revenue - Retail Sales New York - Sparkling Wine,14196
+41,Retail,Revenue - Retail Sales New York - Red Wine,9064
+41,Retail,Revenue - Retail Sales New York - White Wine,8640
+41,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,9405
+41,Retail,Revenue - Retail Sales Detroit - Red Wine,7632
+41,Retail,Revenue - Retail Sales Detroit - White Wine,9204
+41,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+41,Rental Expense,Cash Payment - Rental - Chicago,-2400
+41,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+41,Rental Expense,Cash Payment - Rental - New York,-4020
+41,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-594
+41,Rental Expense,Cash Payment - Rental - Detroit,-1000
+40,Sales E Commerce,Revenue - ECM SO ID: 5177,1384
+40,Sales E Commerce,Revenue - ECM SO ID: 5184,2274
+40,Sales E Commerce,Revenue - ECM SO ID: 5188,1101
+40,Sales E Commerce,Revenue - ECM SO ID: 5361,6600
+40,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+40,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+40,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+40,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+40,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+40,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+40,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+40,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+40,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+40,Salary Expense,Cash Payment - Salary Expense,-21223
+40,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6128,-24
+40,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6480,-26
+40,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,10138
+40,Retail,Revenue - Retail Sales Los Angeles - Red Wine,5967
+40,Retail,Revenue - Retail Sales Los Angeles - White Wine,8938
+40,Retail,Revenue - Retail Sales New York - Sparkling Wine,13818
+40,Retail,Revenue - Retail Sales New York - Red Wine,8756
+40,Retail,Revenue - Retail Sales New York - White Wine,8865
+40,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,8745
+40,Retail,Revenue - Retail Sales Detroit - Red Wine,7956
+40,Retail,Revenue - Retail Sales Detroit - White Wine,9009
+40,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+40,Rental Expense,Cash Payment - Rental - Chicago,-2400
+40,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+40,Rental Expense,Cash Payment - Rental - New York,-4020
+40,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-621
+40,Rental Expense,Cash Payment - Rental - Detroit,-1000
+39,Sales E Commerce,Revenue - ECM SO ID: 5378,17802
+39,Sales E Commerce,Revenue - ECM SO ID: 5386,11007
+39,Sales E Commerce,Revenue - ECM SO ID: 5396,1670
+39,Sales E Commerce,Revenue - ECM SO ID: 5546,2044
+39,Sales E Commerce,Revenue - ECM SO ID: 5558,8655
+39,Sales E Commerce,Revenue - ECM SO ID: 5737,8976
+39,Sales E Commerce,Revenue - ECM SO ID: 5739,8755
+39,Sales E Commerce,Revenue - ECM SO ID: 5741,18508
+39,Sales E Commerce,Revenue - ECM SO ID: 5756,12148
+39,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+39,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+39,Wholesales (B2B),Revenue - B2B SO ID: 6113,733500
+39,Maintenance Expense,Cash Payment - Periodic Maintenance,-5000
+39,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+39,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+39,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+39,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+39,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+39,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+39,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+39,Salary Expense,Cash Payment - Salary Expense,-19328
+39,Shipping Expense,Cash Payment - Move Stock ID: 5949,-14103
+39,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,39812
+39,Retail,Revenue - Retail Sales Los Angeles - Red Wine,29055
+39,Retail,Revenue - Retail Sales Los Angeles - White Wine,28946
+39,Retail,Revenue - Retail Sales New York - Sparkling Wine,50904
+39,Retail,Revenue - Retail Sales New York - Red Wine,35948
+39,Retail,Revenue - Retail Sales New York - White Wine,32265
+39,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,45606
+39,Retail,Revenue - Retail Sales Detroit - Red Wine,41076
+39,Retail,Revenue - Retail Sales Detroit - White Wine,49881
+39,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+39,Rental Expense,Cash Payment - Rental - Chicago,-2400
+39,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+39,Rental Expense,Cash Payment - Rental - New York,-4020
+39,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-702
+39,Rental Expense,Cash Payment - Rental - Detroit,-1000
+38,Sales E Commerce,Revenue - ECM SO ID: 5564,8207
+38,Sales E Commerce,Revenue - ECM SO ID: 5571,19780
+38,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 6129 ,-16348
+38,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 6129 ,-38592
+38,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 6146 ,-24120
+38,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 6146 ,-38592
+38,Wholesales (B2B),Revenue - B2B SO ID: 5167,217800
+38,Human Resource Expense,Counselled,-2000
+38,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 6354 ,-47250
+38,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 6354 ,-57570
+38,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+38,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+38,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+38,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+38,Salary Expense,Cash Payment - Salary Expense,-17378
+38,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5367,-98
+38,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5375,-145
+38,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,40515
+38,Retail,Revenue - Retail Sales Los Angeles - Red Wine,25662
+38,Retail,Revenue - Retail Sales Los Angeles - White Wine,30135
+38,Retail,Revenue - Retail Sales New York - Sparkling Wine,35910
+38,Retail,Revenue - Retail Sales New York - Red Wine,22616
+38,Retail,Revenue - Retail Sales New York - White Wine,23130
+38,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,32274
+38,Retail,Revenue - Retail Sales Detroit - Red Wine,25488
+38,Retail,Revenue - Retail Sales Detroit - White Wine,29757
+38,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+38,Rental Expense,Cash Payment - Rental - Chicago,-2400
+38,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+38,Rental Expense,Cash Payment - Rental - New York,-4020
+38,Rental Expense,Cash Payment - Rental - Detroit,-1000
+37,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 5584 ,-228480
+37,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 5584 ,-235824
+37,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 5584 ,-266152
+37,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,-300
+37,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,-300
+37,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,-300
+37,Salary Expense,Cash Payment - Salary Expense,-18536
+37,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5177,-14
+37,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5184,-23
+37,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5188,-11
+37,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5361,-66
+37,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,46920
+37,Retail,Revenue - Retail Sales Los Angeles - Red Wine,29614
+37,Retail,Revenue - Retail Sales Los Angeles - White Wine,31104
+37,Retail,Revenue - Retail Sales New York - Sparkling Wine,40005
+37,Retail,Revenue - Retail Sales New York - Red Wine,23680
+37,Retail,Revenue - Retail Sales New York - White Wine,25789
+37,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,31900
+37,Retail,Revenue - Retail Sales Detroit - Red Wine,27852
+37,Retail,Revenue - Retail Sales Detroit - White Wine,35070
+37,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+37,Rental Expense,Cash Payment - Rental - Chicago,-2400
+37,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+37,Rental Expense,Cash Payment - Rental - New York,-4020
+37,Rental Expense,Cash Payment - Rental - Detroit,-1000
+36,Salary Expense,Cash Payment - Salary Expense,-18922
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5378,-178
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5386,-110
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5396,-17
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5546,-20
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5558,-87
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5737,-90
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5739,-88
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5741,-185
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5756,-121
+36,Shipping Expense,Cash Payment - Move Stock ID: 5576,-6517
+36,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,9010
+36,Retail,Revenue - Retail Sales Los Angeles - Red Wine,5882
+36,Retail,Revenue - Retail Sales Los Angeles - White Wine,5616
+36,Retail,Revenue - Retail Sales New York - Sparkling Wine,7665
+36,Retail,Revenue - Retail Sales New York - Red Wine,5106
+36,Retail,Revenue - Retail Sales New York - White Wine,5180
+36,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,6583
+36,Retail,Revenue - Retail Sales Detroit - Red Wine,5808
+36,Retail,Revenue - Retail Sales Detroit - White Wine,7280
+36,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+36,Rental Expense,Cash Payment - Rental - Chicago,-2400
+36,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+36,Rental Expense,Cash Payment - Rental - New York,-4020
+36,Rental Expense,Cash Payment - Rental - Detroit,-1000
+35,Sales E Commerce,Revenue - ECM SO ID: 4394,2223
+35,Sales E Commerce,Revenue - ECM SO ID: 4410,14872
+35,Sales E Commerce,Revenue - ECM SO ID: 4417,1847
+35,Sales E Commerce,Revenue - ECM SO ID: 4418,1989
+35,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 5360 ,-16348
+35,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 5570 ,-228480
+35,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 5570 ,-235824
+35,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 5570 ,-266152
+35,Wholesales (B2B),Revenue - B2B SO ID: 5174,331400
+35,Penalty Expense,Cash Payment - Late penalty - B2B SO ID: 5174,-5000
+35,Salary Expense,Cash Payment - Salary Expense,-19732
+35,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5564,-82
+35,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5571,-198
+35,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,-15000
+35,Shipping Expense,Cash Payment - Move Stock ID: 2108,-61472
+35,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,8500
+35,Retail,Revenue - Retail Sales Los Angeles - Red Wine,6222
+35,Retail,Revenue - Retail Sales Los Angeles - White Wine,6192
+35,Retail,Revenue - Retail Sales New York - Sparkling Wine,8050
+35,Retail,Revenue - Retail Sales New York - Red Wine,4625
+35,Retail,Revenue - Retail Sales New York - White Wine,5106
+35,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,14355
+35,Retail,Revenue - Retail Sales Detroit - Red Wine,11022
+35,Retail,Revenue - Retail Sales Detroit - White Wine,14175
+35,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+35,Rental Expense,Cash Payment - Rental - Chicago,-2400
+35,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+35,Rental Expense,Cash Payment - Rental - New York,-4020
+35,Rental Expense,Cash Payment - Rental - Detroit,-1000
+34,Sales E Commerce,Revenue - ECM SO ID: 4429,11389
+34,Sales E Commerce,Revenue - ECM SO ID: 4610,27467
+34,Sales E Commerce,Revenue - ECM SO ID: 4617,21053
+34,Sales E Commerce,Revenue - ECM SO ID: 4634,17545
+34,Wholesales (B2B),Revenue - B2B SO ID: 5173,537810
+34,Maintenance Expense,Cash Payment - Periodic Maintenance,-8000
+34,Salary Expense,Cash Payment - Salary Expense,-19732
+34,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,9112
+34,Retail,Revenue - Retail Sales Los Angeles - Red Wine,6222
+34,Retail,Revenue - Retail Sales Los Angeles - White Wine,6084
+34,Retail,Revenue - Retail Sales New York - Sparkling Wine,7595
+34,Retail,Revenue - Retail Sales New York - Red Wine,4884
+34,Retail,Revenue - Retail Sales New York - White Wine,4736
+34,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,12760
+34,Retail,Revenue - Retail Sales Detroit - Red Wine,11583
+34,Retail,Revenue - Retail Sales Detroit - White Wine,13055
+34,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+34,Rental Expense,Cash Payment - Rental - Chicago,-2400
+34,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+34,Rental Expense,Cash Payment - Rental - New York,-4020
+34,Rental Expense,Cash Payment - Rental - Detroit,-1000
+33,Wholesales (B2B),Revenue - B2B SO ID: 4995,471150
+33,Salary Expense,Cash Payment - Salary Expense,-19713
+33,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,8840
+33,Retail,Revenue - Retail Sales Los Angeles - Red Wine,6086
+33,Retail,Revenue - Retail Sales Los Angeles - White Wine,5436
+33,Retail,Revenue - Retail Sales New York - Sparkling Wine,7245
+33,Retail,Revenue - Retail Sales New York - Red Wine,4958
+33,Retail,Revenue - Retail Sales New York - White Wine,5180
+33,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,13833
+33,Retail,Revenue - Retail Sales Detroit - Red Wine,11022
+33,Retail,Revenue - Retail Sales Detroit - White Wine,13195
+33,Penalty Expense,Cash Payment - Late penalty - SRV SO ID: 1933,-3300
+33,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+33,Rental Expense,Cash Payment - Rental - Chicago,-2400
+33,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+33,Rental Expense,Cash Payment - Rental - New York,-4020
+33,Rental Expense,Cash Payment - Rental - Detroit,-1000
+32,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4807 ,-10394
+32,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4807 ,-12780
+32,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4807 ,-68160
+32,Overdraft,,1250000
+32,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4807 ,-85200
+32,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4807 ,-68160
+32,Wholesales (B2B),Revenue - B2B SO ID: 4803,534600
+32,Overdraft,Repayment,-625000
+32,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 5182 ,-9809
+32,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 5182 ,-30150
+32,Salary Expense,Cash Payment - Salary Expense,-19694
+32,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4394,-22
+32,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4410,-149
+32,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4417,-18
+32,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4418,-20
+32,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,8126
+32,Overdraft,Repayment,-625000
+32,Retail,Revenue - Retail Sales Los Angeles - Red Wine,6120
+32,Retail,Revenue - Retail Sales Los Angeles - White Wine,6120
+32,Retail,Revenue - Retail Sales New York - Sparkling Wine,8225
+32,Retail,Revenue - Retail Sales New York - Red Wine,4921
+32,Retail,Revenue - Retail Sales New York - White Wine,5291
+32,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,14239
+32,Retail,Revenue - Retail Sales Detroit - Red Wine,12408
+32,Retail,Revenue - Retail Sales Detroit - White Wine,12670
+32,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+32,Rental Expense,Cash Payment - Rental - Chicago,-2400
+32,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+32,Rental Expense,Cash Payment - Rental - New York,-4020
+32,Rental Expense,Cash Payment - Rental - Detroit,-1000
+31,Sales E Commerce,Revenue - ECM SO ID: 3872,11693
+31,Sales E Commerce,Revenue - ECM SO ID: 3877,10739
+31,Sales E Commerce,Revenue - ECM SO ID: 3882,15879
+31,Sales E Commerce,Revenue - ECM SO ID: 3978,11088
+31,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4700 ,-10224
+31,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4700 ,-12524
+31,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4700 ,-68160
+31,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4700 ,-85200
+31,Overdraft,,1250000
+31,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4700 ,-68160
+31,Wholesales (B2B),Revenue - B2B SO ID: 4571,232540
+31,Overdraft,Repayment,-625000
+31,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4988 ,-68160
+31,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4988 ,-68160
+31,Salary Expense,Cash Payment - Salary Expense,-19371
+31,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4429,-114
+31,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4610,-275
+31,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4617,-211
+31,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4634,-175
+31,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,8738
+31,Overdraft,Repayment,-625000
+31,Retail,Revenue - Retail Sales Los Angeles - Red Wine,5916
+31,Retail,Revenue - Retail Sales Los Angeles - White Wine,5580
+31,Retail,Revenue - Retail Sales New York - Sparkling Wine,7630
+31,Retail,Revenue - Retail Sales New York - Red Wine,5032
+31,Retail,Revenue - Retail Sales New York - White Wine,5439
+31,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,12499
+31,Retail,Revenue - Retail Sales Detroit - Red Wine,11484
+31,Retail,Revenue - Retail Sales Detroit - White Wine,14280
+31,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+31,Rental Expense,Cash Payment - Rental - Chicago,-2400
+31,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+31,Rental Expense,Cash Payment - Rental - New York,-4020
+31,Rental Expense,Cash Payment - Rental - Detroit,-1000
+30,Sales E Commerce,Revenue - ECM SO ID: 4044,7188
+30,Salary Expense,Cash Payment - Salary Expense,-19264
+30,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,8080
+30,Retail,Revenue - Retail Sales Los Angeles - Red Wine,5292
+30,Retail,Revenue - Retail Sales Los Angeles - White Wine,5160
+30,Retail,Revenue - Retail Sales New York - Sparkling Wine,6765
+30,Retail,Revenue - Retail Sales New York - Red Wine,4300
+30,Retail,Revenue - Retail Sales New York - White Wine,4312
+30,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,14239
+30,Retail,Revenue - Retail Sales Detroit - Red Wine,12309
+30,Retail,Revenue - Retail Sales Detroit - White Wine,13055
+30,Services,Revenue - Service Sales Order ID: 3192,17400
+30,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+30,Rental Expense,Cash Payment - Rental - Chicago,-2400
+30,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+30,Rental Expense,Cash Payment - Rental - New York,-4020
+30,Rental Expense,Cash Payment - Rental - Detroit,-1000
+29,Sales E Commerce,Revenue - ECM SO ID: 3687,7603
+29,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4220 ,-31968
+29,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 4506 ,-199980
+29,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 4506 ,-228888
+29,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 4506 ,-253308
+29,Wholesales (B2B),Revenue - B2B SO ID: 4229,428880
+29,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 4622 ,-209880
+29,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 4622 ,-228888
+29,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 4622 ,-253308
+29,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4633 ,-17040
+29,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4633 ,-20874
+29,Salary Expense,Cash Payment - Salary Expense,-19264
+29,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,7760
+29,Retail,Revenue - Retail Sales Los Angeles - Red Wine,5208
+29,Retail,Revenue - Retail Sales Los Angeles - White Wine,5504
+29,Retail,Revenue - Retail Sales New York - Sparkling Wine,6560
+29,Retail,Revenue - Retail Sales New York - Red Wine,4644
+29,Retail,Revenue - Retail Sales New York - White Wine,4180
+29,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,13978
+29,Retail,Revenue - Retail Sales Detroit - Red Wine,11121
+29,Retail,Revenue - Retail Sales Detroit - White Wine,12810
+29,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+29,Rental Expense,Cash Payment - Rental - Chicago,-2400
+29,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+29,Rental Expense,Cash Payment - Rental - New York,-4020
+29,Rental Expense,Cash Payment - Rental - Detroit,-1000
+28,Overdraft,,1152344
+28,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 4049 ,-86832
+28,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 4049 ,-91120
+28,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 4049 ,-102858
+28,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 4057 ,-21312
+28,Wholesales (B2B),Revenue - B2B SO ID: 3674,1471350
+28,Overdraft,Repayment,-625000
+28,Salary Expense,Cash Payment - Salary Expense,-20368
+28,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3872,-117
+28,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3877,-107
+28,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3882,-159
+28,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3978,-111
+28,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,10640
+28,Overdraft,Repayment,-722657
+28,Retail,Revenue - Retail Sales Los Angeles - Red Wine,6258
+28,Retail,Revenue - Retail Sales Los Angeles - White Wine,6536
+28,Retail,Revenue - Retail Sales New York - Sparkling Wine,6847
+28,Retail,Revenue - Retail Sales New York - Red Wine,4257
+28,Retail,Revenue - Retail Sales New York - White Wine,4840
+28,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,13166
+28,Retail,Revenue - Retail Sales Detroit - Red Wine,12078
+28,Retail,Revenue - Retail Sales Detroit - White Wine,13055
+28,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+28,Rental Expense,Cash Payment - Rental - Chicago,-2400
+28,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+28,Rental Expense,Cash Payment - Rental - New York,-4020
+28,Rental Expense,Cash Payment - Rental - Detroit,-1000
+27,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 3857 ,-261800
+27,Overdraft,,429688
+27,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 3925 ,-392700
+27,Wholesales (B2B),Revenue - B2B SO ID: 2603,1704880
+27,Penalty Expense,Cash Payment - Late penalty - B2B SO ID: 2603,-16000
+27,Salary Expense,Cash Payment - Salary Expense,-20314
+27,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4044,-72
+27,Retail,Revenue - Retail Sales Los Angeles - Red Wine,9282
+27,Overdraft,Repayment,-625000
+27,Retail,Revenue - Retail Sales Los Angeles - White Wine,10234
+27,Overdraft,Repayment,-625000
+27,Retail,Revenue - Retail Sales New York - Sparkling Wine,6437
+27,Overdraft,Repayment,-625000
+27,Retail,Revenue - Retail Sales New York - Red Wine,4300
+27,Retail,Revenue - Retail Sales New York - White Wine,4444
+27,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,13340
+27,Retail,Revenue - Retail Sales Detroit - Red Wine,10890
+27,Retail,Revenue - Retail Sales Detroit - White Wine,12810
+27,Interest Expense ,Cash Payment - Interest - For Overdraft,-321
+27,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+27,Rental Expense,Cash Payment - Rental - Chicago,-2400
+27,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+27,Rental Expense,Cash Payment - Rental - New York,-4020
+27,Rental Expense,Cash Payment - Rental - Detroit,-1000
+26,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 3675 ,-31080
+26,Salary Expense,Cash Payment - Salary Expense,-21454
+26,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3687,-76
+26,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,-15000
+26,Retail,Revenue - Retail Sales Los Angeles - Red Wine,10164
+26,Retail,Revenue - Retail Sales Los Angeles - White Wine,10965
+26,Retail,Revenue - Retail Sales New York - Sparkling Wine,10127
+26,Retail,Revenue - Retail Sales New York - Red Wine,6321
+26,Retail,Revenue - Retail Sales New York - White Wine,7128
+26,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,14007
+26,Retail,Revenue - Retail Sales Detroit - Red Wine,12078
+26,Retail,Revenue - Retail Sales Detroit - White Wine,13475
+26,Interest Expense ,Cash Payment - Interest - For Overdraft,-2697
+26,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+26,Rental Expense,Cash Payment - Rental - Chicago,-2400
+26,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+26,Rental Expense,Cash Payment - Rental - New York,-4020
+26,Rental Expense,Cash Payment - Rental - Detroit,-1000
+25,Salary Expense,Cash Payment - Salary Expense,-22208
+25,Shipping Expense,Cash Payment - Move Stock ID: 3495,-10952
+25,Retail,Revenue - Retail Sales Los Angeles - Red Wine,9912
+25,Retail,Revenue - Retail Sales Los Angeles - White Wine,10019
+25,Retail,Revenue - Retail Sales New York - Sparkling Wine,13858
+25,Retail,Revenue - Retail Sales New York - Red Wine,9374
+25,Retail,Revenue - Retail Sales New York - White Wine,9416
+25,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,12818
+25,Retail,Revenue - Retail Sales Detroit - Red Wine,11583
+25,Retail,Revenue - Retail Sales Detroit - White Wine,14175
+25,Interest Expense ,Cash Payment - Interest - For Overdraft,-2697
+25,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+25,Rental Expense,Cash Payment - Rental - Chicago,-2400
+25,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+25,Rental Expense,Cash Payment - Rental - New York,-4020
+25,Rental Expense,Cash Payment - Rental - Detroit,-1000
+24,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 3322 ,-13306
+24,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 3322 ,-39564
+24,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+24,Salary Expense,Cash Payment - Salary Expense,-22208
+24,Shipping Expense,Cash Payment - Move Stock ID: 3255,-10064
+24,Retail,Revenue - Retail Sales Los Angeles - Red Wine,9408
+24,Retail,Revenue - Retail Sales Los Angeles - White Wine,9632
+24,Retail,Revenue - Retail Sales New York - Sparkling Wine,14391
+24,Retail,Revenue - Retail Sales New York - Red Wine,9460
+24,Retail,Revenue - Retail Sales New York - White Wine,8624
+24,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,13485
+24,Retail,Revenue - Retail Sales Detroit - Red Wine,11715
+24,Retail,Revenue - Retail Sales Detroit - White Wine,12810
+24,Interest Expense ,Cash Payment - Interest - For Overdraft,-2697
+24,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+24,Rental Expense,Cash Payment - Rental - Chicago,-2400
+24,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+24,Rental Expense,Cash Payment - Rental - New York,-4020
+24,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-1107
+24,Rental Expense,Cash Payment - Rental - Detroit,-1000
+23,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+23,Salary Expense,Cash Payment - Salary Expense,-22172
+23,Retail,Revenue - Retail Sales Los Angeles - Red Wine,10332
+23,Retail,Revenue - Retail Sales Los Angeles - White Wine,9632
+23,Retail,Revenue - Retail Sales New York - Sparkling Wine,13981
+23,Retail,Revenue - Retail Sales New York - Red Wine,8213
+23,Retail,Revenue - Retail Sales New York - White Wine,8360
+23,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,13079
+23,Retail,Revenue - Retail Sales Detroit - Red Wine,11715
+23,Retail,Revenue - Retail Sales Detroit - White Wine,13055
+23,Interest Expense ,Cash Payment - Interest - For Overdraft,-2697
+23,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+23,Rental Expense,Cash Payment - Rental - Chicago,-2400
+23,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+23,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,-3000
+23,Rental Expense,Cash Payment - Rental - New York,-4020
+23,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-1188
+23,Rental Expense,Cash Payment - Rental - Detroit,-1000
+22,Sales E Commerce,Revenue - ECM SO ID: 2588,17488
+22,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+22,Salary Expense,Cash Payment - Salary Expense,-22522
+22,Retail,Revenue - Retail Sales Los Angeles - Red Wine,9828
+22,Retail,Revenue - Retail Sales Los Angeles - White Wine,10707
+22,Retail,Revenue - Retail Sales New York - Sparkling Wine,13325
+22,Retail,Revenue - Retail Sales New York - Red Wine,8471
+22,Retail,Revenue - Retail Sales New York - White Wine,9240
+22,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,13862
+22,Retail,Revenue - Retail Sales Detroit - Red Wine,11847
+22,Retail,Revenue - Retail Sales Detroit - White Wine,12810
+22,Interest Expense ,Cash Payment - Interest - For Overdraft,-2697
+22,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+22,Rental Expense,Cash Payment - Rental - Chicago,-2400
+22,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+22,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,-3150
+22,Rental Expense,Cash Payment - Rental - New York,-4020
+22,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-1269
+22,Rental Expense,Cash Payment - Rental - Detroit,-1000
+21,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+21,Wholesales (B2B),Revenue - B2B SO ID: 2417,385730
+21,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+21,Salary Expense,Cash Payment - Salary Expense,-22144
+21,Shipping Expense,Cash Payment - Move Stock ID: 2781,-10952
+21,Retail,Revenue - Retail Sales Los Angeles - Red Wine,10500
+21,Overdraft,Repayment,-625000
+21,Retail,Revenue - Retail Sales Los Angeles - White Wine,10019
+21,Retail,Revenue - Retail Sales New York - Sparkling Wine,13161
+21,Retail,Revenue - Retail Sales New York - Red Wine,8944
+21,Retail,Revenue - Retail Sales New York - White Wine,9152
+21,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,13485
+21,Retail,Revenue - Retail Sales Detroit - Red Wine,11253
+21,Retail,Revenue - Retail Sales Detroit - White Wine,14560
+21,Services,Revenue - Service Sales Order ID: 2091,59900
+21,Interest Expense ,Cash Payment - Interest - For Overdraft,-2697
+21,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+21,Rental Expense,Cash Payment - Rental - Chicago,-2400
+21,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+21,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,-3150
+21,Rental Expense,Cash Payment - Rental - New York,-4020
+21,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-1377
+21,Rental Expense,Cash Payment - Rental - Detroit,-1000
+20,Maintenance Expense,Cash Payment - Periodic Maintenance,-7000
+20,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+20,Salary Expense,Cash Payment - Salary Expense,-21640
+20,Retail,Revenue - Retail Sales Los Angeles - Red Wine,10332
+20,Retail,Revenue - Retail Sales Los Angeles - White Wine,10406
+20,Retail,Revenue - Retail Sales New York - Sparkling Wine,13448
+20,Retail,Revenue - Retail Sales New York - Red Wine,8385
+20,Retail,Revenue - Retail Sales New York - White Wine,8228
+20,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,12441
+20,Retail,Revenue - Retail Sales Detroit - Red Wine,11484
+20,Retail,Revenue - Retail Sales Detroit - White Wine,14560
+20,Interest Expense ,Cash Payment - Interest - For Overdraft,-3724
+20,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+20,Rental Expense,Cash Payment - Rental - Chicago,-2400
+20,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+20,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,-3375
+20,Rental Expense,Cash Payment - Rental - New York,-4020
+20,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-162
+20,Rental Expense,Cash Payment - Rental - Detroit,-1000
+19,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+19,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 2613 ,-8784
+19,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 2613 ,-27000
+19,Overdraft,,234375
+19,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 2613 ,-59328
+19,Wholesales (B2B),Revenue - B2B SO ID: 2433,326910
+19,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+19,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+19,Salary Expense,Cash Payment - Salary Expense,-21640
+19,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 2588,-175
+19,Shipping Expense,Cash Payment - Move Stock ID: 1923,-23949
+19,Shipping Expense,Cash Payment - Move Stock ID: 2249,-14831
+19,Shipping Expense,Cash Payment - Move Stock ID: 2255,-12745
+19,Retail,Revenue - Retail Sales Los Angeles - Red Wine,9618
+19,Retail,Revenue - Retail Sales Los Angeles - White Wine,10836
+19,Retail,Revenue - Retail Sales New York - Sparkling Wine,13981
+19,Retail,Revenue - Retail Sales New York - Red Wine,8600
+19,Retail,Revenue - Retail Sales New York - White Wine,9152
+19,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,13862
+19,Retail,Revenue - Retail Sales Detroit - Red Wine,11847
+19,Retail,Revenue - Retail Sales Detroit - White Wine,14420
+19,Interest Expense ,Cash Payment - Interest - For Overdraft,-3724
+19,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+19,Rental Expense,Cash Payment - Rental - Chicago,-2400
+19,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+19,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,-3600
+19,Rental Expense,Cash Payment - Rental - New York,-4020
+19,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,-270
+19,Rental Expense,Cash Payment - Rental - Detroit,-1000
+18,Sales E Commerce,Revenue - ECM SO ID: 1935,14394
+18,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+18,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+18,Human Resource Expense,Counselled,-2000
+18,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+18,Human Resource Expense,Counselled,-2000
+18,Human Resource Expense,Counselled,-2000
+18,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+18,Salary Expense,Cash Payment - Salary Expense,-20922
+18,Shipping Expense,Cash Payment - Move Stock ID: 1774,-7898
+18,Retail,Revenue - Retail Sales Los Angeles - Red Wine,9744
+18,Retail,Revenue - Retail Sales Los Angeles - White Wine,9632
+18,Retail,Revenue - Retail Sales New York - Red Wine,8471
+18,Retail,Revenue - Retail Sales New York - White Wine,8976
+18,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,13485
+18,Retail,Revenue - Retail Sales Detroit - Red Wine,11583
+18,Retail,Revenue - Retail Sales Detroit - White Wine,12950
+18,Interest Expense ,Cash Payment - Interest - For Overdraft,-3339
+18,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+18,Rental Expense,Cash Payment - Rental - Chicago,-2400
+18,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+18,Rental Expense,Cash Payment - Rental - New York,-4020
+18,Rental Expense,Cash Payment - Rental - Detroit,-1000
+17,Overdraft,,937500
+17,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1465 ,-421200
+17,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1465 ,-403920
+17,Overdraft,,468750
+17,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1465 ,-455544
+17,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 2111 ,-21120
+17,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 2111 ,-37752
+17,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 2111 ,-84480
+17,Human Resource Expense,Counselled,-2000
+17,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+17,Salary Expense,Cash Payment - Salary Expense,-20554
+17,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,-15000
+17,Retail,Revenue - Retail Sales Los Angeles - Red Wine,9954
+17,Retail,Revenue - Retail Sales Los Angeles - White Wine,10105
+17,Retail,Revenue - Retail Sales New York - Red Wine,7869
+17,Retail,Revenue - Retail Sales New York - White Wine,9240
+17,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,12296
+17,Retail,Revenue - Retail Sales Detroit - Red Wine,11583
+17,Retail,Revenue - Retail Sales Detroit - White Wine,12950
+17,Interest Expense ,Cash Payment - Interest - For Overdraft,-3339
+17,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+17,Rental Expense,Cash Payment - Rental - Chicago,-2400
+17,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+17,Rental Expense,Cash Payment - Rental - New York,-4020
+17,Rental Expense,Cash Payment - Rental - Detroit,-1000
+16,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 1772 ,-21912
+16,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 1772 ,-27888
+16,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 1772 ,-138112
+16,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 1772 ,-172640
+16,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 1772 ,-138112
+16,Wholesales (B2B),Revenue - B2B SO ID: 1282,1300360
+16,Penalty Expense,Cash Payment - Late penalty - B2B SO ID: 1282,-24000
+16,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+16,Salary Expense,Cash Payment - Salary Expense,-20536
+16,Retail,Revenue - Retail Sales Los Angeles - Red Wine,9954
+16,Overdraft,Repayment,-625000
+16,Retail,Revenue - Retail Sales Los Angeles - White Wine,10621
+16,Overdraft,Repayment,-625000
+16,Retail,Revenue - Retail Sales New York - Red Wine,7869
+16,Retail,Revenue - Retail Sales New York - White Wine,9372
+16,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,12818
+16,Retail,Revenue - Retail Sales Detroit - Red Wine,11946
+16,Retail,Revenue - Retail Sales Detroit - White Wine,13195
+16,Interest Expense ,Cash Payment - Interest - For Overdraft,-1027
+16,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+16,Rental Expense,Cash Payment - Rental - Chicago,-2400
+16,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+16,Rental Expense,Cash Payment - Rental - New York,-4020
+16,Rental Expense,Cash Payment - Rental - Detroit,-1000
+15,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1786 ,-72390
+15,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1786 ,-74936
+15,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1786 ,-84474
+15,Wholesales (B2B),Revenue - B2B SO ID: 1173,1125180
+15,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 2094 ,-8518
+15,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 2094 ,-24640
+15,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 2094 ,-142208
+15,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+15,Salary Expense,Cash Payment - Salary Expense,-20904
+15,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 1935,-144
+15,Retail,Revenue - Retail Sales Los Angeles - Red Wine,9828
+15,Overdraft,Repayment,-625000
+15,Retail,Revenue - Retail Sales Los Angeles - White Wine,10148
+15,Retail,Revenue - Retail Sales New York - Red Wine,9073
+15,Retail,Revenue - Retail Sales New York - White Wine,8272
+15,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,12702
+15,Retail,Revenue - Retail Sales Detroit - Red Wine,11484
+15,Retail,Revenue - Retail Sales Detroit - White Wine,13475
+15,Services,Revenue - Service Sales Order ID: 1106,122100
+15,Interest Expense ,Cash Payment - Interest - For Overdraft,-3082
+15,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+15,Rental Expense,Cash Payment - Rental - Chicago,-2400
+15,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+15,Rental Expense,Cash Payment - Rental - New York,-4020
+15,Rental Expense,Cash Payment - Rental - Detroit,-1000
+14,Overdraft,,546875
+14,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1140 ,-392040
+14,Overdraft,,273438
+14,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1140 ,-385560
+14,Overdraft,,273437
+14,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1140 ,-430920
+14,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+14,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+14,Marketing Expense,Cash Payment - Marketing Report Subscription,-20000
+14,Salary Expense,Cash Payment - Salary Expense,-20904
+14,Retail,Revenue - Retail Sales Los Angeles - Red Wine,67536
+14,Retail,Revenue - Retail Sales Los Angeles - White Wine,74175
+14,Retail,Revenue - Retail Sales New York - Sparkling Wine,52644
+14,Retail,Revenue - Retail Sales New York - Red Wine,57061
+14,Retail,Revenue - Retail Sales New York - White Wine,63360
+14,Interest Expense ,Cash Payment - Interest - For Overdraft,-4110
+14,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+14,Rental Expense,Cash Payment - Rental - Chicago,-2400
+14,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+14,Rental Expense,Cash Payment - Rental - New York,-4020
+14,Rental Expense,Cash Payment - Rental - Detroit,-1000
+13,Sales E Commerce,Revenue - ECM SO ID: 1067,11601
+13,Sales E Commerce,Revenue - ECM SO ID: 1108,14159
+13,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 1773 ,-13411
+13,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 1773 ,-10771
+13,Overdraft,,468750
+13,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 1773 ,-86170
+13,Human Resource Expense,Counselled,-2000
+13,Salary Expense,Cash Payment - Salary Expense,-20922
+13,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,82640
+13,Retail,Revenue - Retail Sales Los Angeles - Red Wine,68754
+13,Retail,Revenue - Retail Sales Los Angeles - White Wine,76411
+13,Retail,Revenue - Retail Sales New York - Sparkling Wine,90323
+13,Overdraft,Repayment,-625000
+13,Retail,Revenue - Retail Sales New York - Red Wine,60630
+13,Retail,Revenue - Retail Sales New York - White Wine,62832
+13,Interest Expense ,Cash Payment - Interest - For Overdraft,-2312
+13,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+13,Rental Expense,Cash Payment - Rental - Chicago,-2400
+13,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+13,Rental Expense,Cash Payment - Rental - New York,-4020
+13,Rental Expense,Cash Payment - Rental - Detroit,-1000
+12,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1627 ,-74100
+12,Overdraft,,312500
+12,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1627 ,-76874
+12,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1627 ,-85918
+12,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+12,Salary Expense,Cash Payment - Salary Expense,-21640
+12,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,103640
+12,Retail,Revenue - Retail Sales Los Angeles - Red Wine,68040
+12,Retail,Revenue - Retail Sales Los Angeles - White Wine,66392
+12,Retail,Revenue - Retail Sales New York - Sparkling Wine,85075
+12,Retail,Revenue - Retail Sales New York - Red Wine,56631
+12,Retail,Revenue - Retail Sales New York - White Wine,56144
+12,Retail,Revenue - Retail Sales Detroit - Red Wine,38808
+12,Retail,Revenue - Retail Sales Detroit - White Wine,13300
+12,Overdraft,Repayment,-625000
+12,Services,Revenue - Service Sales Order ID: 478,50300
+12,Interest Expense ,Cash Payment - Interest - For Overdraft,-2568
+12,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+12,Rental Expense,Cash Payment - Rental - Chicago,-2400
+12,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+12,Rental Expense,Cash Payment - Rental - New York,-4020
+12,Rental Expense,Cash Payment - Rental - Detroit,-1000
+11,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 952 ,-20800
+11,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 952 ,-25600
+11,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 952 ,-130560
+11,Overdraft,,327148
+11,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 952 ,-166400
+11,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 952 ,-130560
+11,Sales E Commerce,Revenue - ECM SO ID: 692,22252
+11,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 1304 ,-34188
+11,Human Resource Expense,Attended Training,-15000
+11,Human Resource Expense,Cash Payment - Staff Recruiting,-15000
+11,Maintenance Expense,Cash Payment - Machines ,-30000
+11,Overdraft,,163574
+11,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1464 ,-112320
+11,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1464 ,-107712
+11,Overdraft,,163574
+11,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 1464 ,-121478
+11,Human Resource Expense,Attended Training,-15000
+11,Salary Expense,Cash Payment - Salary Expense,-21298
+11,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,124476
+11,Retail,Revenue - Retail Sales Los Angeles - Red Wine,82620
+11,Retail,Revenue - Retail Sales Los Angeles - White Wine,84744
+11,Retail,Revenue - Retail Sales New York - Sparkling Wine,94815
+11,Retail,Revenue - Retail Sales New York - Red Wine,69301
+11,Retail,Revenue - Retail Sales New York - White Wine,70629
+11,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,61277
+11,Retail,Revenue - Retail Sales Detroit - Red Wine,75504
+11,Retail,Revenue - Retail Sales Detroit - White Wine,97195
+11,Overdraft,Repayment,-625000
+11,Interest Expense ,Cash Payment - Interest - For Overdraft,-3082
+11,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+11,Rental Expense,Cash Payment - Rental - Chicago,-2400
+11,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+11,Rental Expense,Cash Payment - Rental - New York,-4020
+11,Rental Expense,Cash Payment - Rental - Detroit,-1000
+10,Sales E Commerce,Revenue - ECM SO ID: 640,17681
+10,Sales E Commerce,Revenue - ECM SO ID: 662,26194
+10,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 1224 ,-8448
+10,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 1224 ,-51840
+10,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 1224 ,-79872
+10,Salary Expense,Cash Payment - Salary Expense,-20300
+10,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 1067,-116
+10,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 1108,-142
+10,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,120846
+10,Retail,Revenue - Retail Sales Los Angeles - Red Wine,80988
+10,Retail,Revenue - Retail Sales Los Angeles - White Wine,75060
+10,Retail,Revenue - Retail Sales New York - Sparkling Wine,95830
+10,Retail,Revenue - Retail Sales New York - Red Wine,64713
+10,Retail,Revenue - Retail Sales New York - White Wine,68640
+10,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,90683
+10,Retail,Revenue - Retail Sales Detroit - Red Wine,79563
+10,Overdraft,Repayment,-625000
+10,Retail,Revenue - Retail Sales Detroit - White Wine,90545
+10,Services,Revenue - Service Sales Order ID: 124,63500
+10,Interest Expense ,Cash Payment - Interest - For Overdraft,-3034
+10,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+10,Rental Expense,Cash Payment - Rental - Chicago,-2400
+10,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+10,Rental Expense,Cash Payment - Rental - New York,-4020
+10,Rental Expense,Cash Payment - Rental - Detroit,-1000
+9,Sales E Commerce,Revenue - ECM SO ID: 504,25265
+9,Salary Expense,Cash Payment - Salary Expense,-20300
+9,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,17457
+9,Retail,Revenue - Retail Sales Los Angeles - Red Wine,12274
+9,Retail,Revenue - Retail Sales Los Angeles - White Wine,11772
+9,Retail,Revenue - Retail Sales New York - Sparkling Wine,14245
+9,Retail,Revenue - Retail Sales New York - Red Wine,8769
+9,Retail,Revenue - Retail Sales New York - White Wine,9126
+9,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,13862
+9,Retail,Revenue - Retail Sales Detroit - Red Wine,11946
+9,Retail,Revenue - Retail Sales Detroit - White Wine,12670
+9,Interest Expense ,Cash Payment - Interest - For Overdraft,-4061
+9,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+9,Rental Expense,Cash Payment - Rental - Chicago,-2400
+9,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+9,Rental Expense,Cash Payment - Rental - New York,-4020
+9,Rental Expense,Cash Payment - Rental - Detroit,-1000
+8,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 641 ,-252720
+8,Overdraft,,468750
+8,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 641 ,-271728
+8,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 641 ,-300960
+8,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 919 ,-20636
+8,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 919 ,-24178
+8,Overdraft,,234375
+8,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 919 ,-129360
+8,Overdraft,,117188
+8,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 919 ,-160160
+8,Overdraft,,58594
+8,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 919 ,-128128
+8,Overdraft,,29297
+8,Salary Expense,Cash Payment - Salary Expense,-20300
+8,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 692,-223
+8,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,16566
+8,Retail,Revenue - Retail Sales Los Angeles - Red Wine,10880
+8,Retail,Revenue - Retail Sales Los Angeles - White Wine,11880
+8,Retail,Revenue - Retail Sales New York - Sparkling Wine,13580
+8,Retail,Revenue - Retail Sales New York - Red Wine,9176
+8,Retail,Revenue - Retail Sales New York - White Wine,9828
+8,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,13746
+8,Retail,Revenue - Retail Sales Detroit - Red Wine,11121
+8,Retail,Revenue - Retail Sales Detroit - White Wine,13055
+8,Interest Expense ,Cash Payment - Interest - For Overdraft,-4061
+8,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+8,Rental Expense,Cash Payment - Rental - Chicago,-2400
+8,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+8,Rental Expense,Cash Payment - Rental - New York,-4020
+8,Rental Expense,Cash Payment - Rental - Detroit,-1000
+7,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 663 ,-252720
+7,Overdraft,,937500
+7,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 663 ,-271728
+7,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 663 ,-300960
+7,Machines,Cash Payment - Machines,-200000
+7,Human Resource Expense,Cash Payment - Staff Recruiting - Production,-15000
+7,Salary Expense,Cash Payment - Salary Expense,-20300
+7,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 640,-177
+7,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 662,-262
+7,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,16236
+7,Retail,Revenue - Retail Sales Los Angeles - Red Wine,10982
+7,Retail,Revenue - Retail Sales Los Angeles - White Wine,11088
+7,Retail,Revenue - Retail Sales New York - Sparkling Wine,14140
+7,Retail,Revenue - Retail Sales New York - Red Wine,9731
+7,Retail,Revenue - Retail Sales New York - White Wine,8814
+7,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,12180
+7,Retail,Revenue - Retail Sales Detroit - Red Wine,12078
+7,Retail,Revenue - Retail Sales Detroit - White Wine,12670
+7,Interest Expense ,Cash Payment - Interest - For Overdraft,-2568
+7,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+7,Rental Expense,Cash Payment - Rental - Chicago,-2400
+7,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+7,Rental Expense,Cash Payment - Rental - New York,-4020
+7,Rental Expense,Cash Payment - Rental - Detroit,-1000
+6,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 323 ,-180000
+6,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 323 ,-204000
+6,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 323 ,-228000
+6,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 376 ,-36000
+6,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 376 ,-42000
+6,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 376 ,-96000
+6,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 376 ,-120000
+6,Overdraft,,1250000
+6,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 376 ,-96000
+6,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 377 ,-9600
+6,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 377 ,-11200
+6,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 377 ,-64000
+6,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 377 ,-80000
+6,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 377 ,-64000
+6,Human Resource Expense,Attended Training,-15000
+6,Salary Expense,Cash Payment - Salary Expense,-19950
+6,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 504,-253
+6,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,18480
+6,Overdraft,Repayment,-625000
+6,Retail,Revenue - Retail Sales Los Angeles - Red Wine,11220
+6,Retail,Revenue - Retail Sales Los Angeles - White Wine,11412
+6,Retail,Revenue - Retail Sales New York - Sparkling Wine,13790
+6,Retail,Revenue - Retail Sales New York - Red Wine,9065
+6,Retail,Revenue - Retail Sales New York - White Wine,8736
+6,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,13485
+6,Retail,Revenue - Retail Sales Detroit - Red Wine,11715
+6,Retail,Revenue - Retail Sales Detroit - White Wine,12670
+6,Interest Expense ,Cash Payment - Interest - For Overdraft,-1027
+6,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+6,Rental Expense,Cash Payment - Rental - Chicago,-2400
+6,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+6,Rental Expense,Cash Payment - Rental - New York,-4020
+6,Rental Expense,Cash Payment - Rental - Detroit,-1000
+5,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 233 ,-120000
+5,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 233 ,-136000
+5,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 233 ,-152000
+5,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 482 ,-9600
+5,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 482 ,-11200
+5,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 482 ,-64000
+5,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 482 ,-80000
+5,Procurement Raw Material,Cash Payment - Procurement Raw Material - PO ID: 482 ,-64000
+5,Human Resource Expense,Attended Training,-15000
+5,Salary Expense,Cash Payment - Salary Expense,-19950
+5,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,16566
+5,Retail,Revenue - Retail Sales Los Angeles - Red Wine,11900
+5,Retail,Revenue - Retail Sales Los Angeles - White Wine,12240
+5,Retail,Revenue - Retail Sales New York - Sparkling Wine,13930
+5,Retail,Revenue - Retail Sales New York - Red Wine,8991
+5,Retail,Revenue - Retail Sales New York - White Wine,8619
+5,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,14007
+5,Retail,Revenue - Retail Sales Detroit - Red Wine,12078
+5,Retail,Revenue - Retail Sales Detroit - White Wine,14035
+5,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+5,Rental Expense,Cash Payment - Rental - Chicago,-2400
+5,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+5,Rental Expense,Cash Payment - Rental - New York,-4020
+5,Rental Expense,Cash Payment - Rental - Detroit,-1000
+4,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 247 ,-120000
+4,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 247 ,-136000
+4,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 247 ,-152000
+4,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 249 ,-180000
+4,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 249 ,-204000
+4,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 249 ,-228000
+4,Human Resource Expense,Attended Training,-15000
+4,Salary Expense,Cash Payment - Salary Expense,-19950
+4,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,16566
+4,Retail,Revenue - Retail Sales Los Angeles - Red Wine,11900
+4,Retail,Revenue - Retail Sales Los Angeles - White Wine,11412
+4,Retail,Revenue - Retail Sales Detroit - Sparkling Wine,12760
+4,Retail,Revenue - Retail Sales Detroit - Red Wine,11187
+4,Retail,Revenue - Retail Sales Detroit - White Wine,13860
+4,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+4,Rental Expense,Cash Payment - Rental - Chicago,-2400
+4,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+4,Rental Expense,Cash Payment - Rental - New York,-4020
+4,Rental Expense,Cash Payment - Rental - Detroit,-1000
+3,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 221 ,-120000
+3,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 221 ,-136000
+3,Procurement Finished Goods,Cash Payment - Procurement Finished Goods - PO ID: 221 ,-152000
+3,Machines,Cash Payment - Machines,-200000
+3,Human Resource Expense,Cash Payment - Staff Recruiting - Production,-15000
+3,Salary Expense,Cash Payment - Salary Expense,-19950
+3,Retail,Revenue - Retail Sales Los Angeles - Sparkling Wine,21372
+3,Retail,Revenue - Retail Sales Los Angeles - Red Wine,12122
+3,Retail,Revenue - Retail Sales Los Angeles - White Wine,12896
+3,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+3,Rental Expense,Cash Payment - Rental - Chicago,-2400
+3,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+3,Rental Expense,Cash Payment - Rental - New York,-4020
+3,Rental Expense,Cash Payment - Rental - Detroit,-1000
+2,Human Resource Expense,"Cash Payment - Staff Recruiting - Washington, D.C.",-60000
+2,Human Resource Expense,Cash Payment - Staff Recruiting - Chicago,-60000
+2,Human Resource Expense,Cash Payment - Staff Recruiting - Los Angeles,-60000
+2,Human Resource Expense,Cash Payment - Staff Recruiting - New York,-60000
+2,Human Resource Expense,Cash Payment - Staff Recruiting - Detroit,-60000
+2,Salary Expense,Cash Payment - Salary Expense,-19600
+2,Rental Expense,"Cash Payment - Rental - Washington, D.C.",-3600
+2,Rental Expense,Cash Payment - Rental - Chicago,-2400
+2,Rental Expense,Cash Payment - Rental - Los Angeles,-1620
+2,Rental Expense,Cash Payment - Rental - New York,-4020
+2,Rental Expense,Cash Payment - Rental - Detroit,-1000
+1,Salary Expense,Cash Payment - Salary Expense,-12600
+0,Paid-In Capital, Cash,3500000
