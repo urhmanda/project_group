@@ -12,4 +12,10 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
     # create an empty lists to store overhead record
     overhead = []
 
+    # append overhead record into the overhead list
+    for row in reader:
+        #get the day, items and amount for each record
+        #and append the overhead list
+        overhead.append([row[0],row[1],row[3]])   
 
+print(overhead)
