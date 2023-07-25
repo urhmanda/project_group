@@ -1,2 +1,2 @@
-from Pathlib import path
+from pathlib import path
 import csv
