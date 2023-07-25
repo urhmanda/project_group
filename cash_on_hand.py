@@ -37,7 +37,7 @@ def calculate_difference_between_days(cash_on_hand):
         elif items[3] >= items[3]:
             items[3] - items[3]
         else: 
-
+# use panda or num.py
            
       
 summary_list = []
