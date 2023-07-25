@@ -11,3 +11,5 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
 profit_and_loss=[]
 
 #append profit and loss onto the profit and loss records
+for row in reader:
+    profit_and_loss.append

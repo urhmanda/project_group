@@ -7,7 +7,7 @@ fp = Path.cwd() / 'csv_reports' / 'cash_on_hand.csv'
 # read the csv file to append from the csv.
 with fp.open(mode="r", encoding="UTF-8", newline="") as file:
     reader = csv.reader(file)
-    next(reader) 
+    next(reader) #To skip the header
 
     # create empty list to store cash on hand records
     cash_on_hand = []
@@ -23,4 +23,3 @@ for items in cash_on_hand:
 
 for items in cash_on_hand:
     if (items[] == ""):
-        helo
