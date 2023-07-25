@@ -21,3 +21,7 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
 for items in cash_on_hand:
     print(items)
 
+for items[3] in cash_on_hand:
+
+def diff_btw_days(amount):
+    diff_btw_days = 0
