@@ -15,7 +15,7 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
     # append cash on hand records into the cash_on_hand list
     for row in reader:
         # get the data for each record
-        #and append the cash_on_hand list
+        #nand append relevant data(Day and Amount) to cash_on_hand list
         cash_on_hand.append([row[0],row[3]])   
 
 for items in cash_on_hand:
@@ -28,6 +28,9 @@ for items[0] in cash_on_hand:
 
 
 def calculate_difference_between_days(cash_on_hand):
+     """
+     - To calculate 
+     """
      for items[3] in cash_on_hand:
         if items[3] <= items[3]:
            items[3] - items[3]
