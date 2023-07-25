@@ -18,25 +18,26 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
         #nand append relevant data(Day and Amount) to cash_on_hand list
         cash_on_hand.append([row[0],row[3]])   
 
-for items in cash_on_hand:
-    print(items)
+for item in cash_on_hand:
+    print(item)
 
 # grp data all according to each day first
-for items[0] in cash_on_hand:
-    items[4] = 0
-    if items[0] == 90:
-        #sum up all items[3] where items[0]= 90 and subsequent
+for item[0] in cash_on_hand:
+    item[3] = 0
+    if item[0] == :
+        item[3] += item[3]
+        #sum up all item[3] where item[0]= 90 and subsequent days
 # use list
 
 def calculate_difference_between_days(cash_on_hand):
      """
      - To calculate 
      """
-     for items[3] in cash_on_hand:
-        if items[3] <= items[3]:
-           items[3] - items[3]
-        elif items[3] >= items[3]:
-            items[3] - items[3]
+     for item[3] in cash_on_hand:
+        if item[3] <= item[3]:
+           item[3] - item[3]
+        elif item[3] >= item[3]:
+            item[3] - item[3]
         else: 
 # use panda or num.py
            
