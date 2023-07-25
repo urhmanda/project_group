@@ -1,8 +1,13 @@
 from pathlib import Path
 import csv
-fp = Path.cwd() / 'PFB_grp_proj' / 'cash on hand.csv'
+
+# create a file to csv file.
+fp = Path.cwd() / 'PFB_grp_proj' / 'project_group' / 'cash on hand.csv'
+
+# read the csv file to append from the csv.
 with fp.open(mode="r", encoding="UTF-8", newline="") as file:
     reader = csv.reader(file)
     next(reader) 
 
-cash_on_hand = 
+# create empty list to store cash on hand records
+cash_on_hand = []
