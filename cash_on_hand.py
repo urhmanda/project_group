@@ -13,4 +13,5 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
     cash_on_hand = []
 
     # append cash on hand records into the cash_on_hand list
-    for row in reader:
+    for row in reader: 
+        hello
