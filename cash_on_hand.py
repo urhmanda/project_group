@@ -14,7 +14,7 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
 
     # append cash on hand records into the cash_on_hand list
     for row in reader:
-        # get the yea for each record
+        # get the data for each record
         #and append the cash_on_hand list
         cash_on_hand.append([row[0],row[1],row[2],row[3]])   
 
@@ -23,4 +23,3 @@ for items in cash_on_hand:
 
 for items in cash_on_hand:
     if (items[] == ""):
-        
