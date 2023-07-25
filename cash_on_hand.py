@@ -21,5 +21,3 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
 for items in cash_on_hand:
     print(items)
 
-for items in cash_on_hand:
-    if (items[] == ""):
