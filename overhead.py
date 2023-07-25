@@ -19,3 +19,10 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
         overhead.append([row[0],row[1],row[3]])   
 
 print(overhead)
+
+# create an empty list to store days from overhead
+days_list = [] 
+for item in overhead:
+    # if day not in days_list, append day to days_list
+    if item[0] not in days_list:
+        days_list.append(item[0])
