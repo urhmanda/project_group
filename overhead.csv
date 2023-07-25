@@ -1,0 +1,1112 @@
+Day ,Items ,Note ,Amount 
+90,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+90,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+90,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+90,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+90,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+90,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+90,Salary Expense,Cash Payment - Salary Expense,24496
+90,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 14896,13
+90,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 15064,21
+90,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+90,Rental Expense,Cash Payment - Rental - Chicago,2400
+90,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+90,Rental Expense,Cash Payment - Rental - New York,4020
+90,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,378
+90,Rental Expense,Cash Payment - Rental - Detroit,1000
+89,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+89,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+89,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+89,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+89,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+89,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+89,Salary Expense,Cash Payment - Salary Expense,24917
+89,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+89,Rental Expense,Cash Payment - Rental - Chicago,2400
+89,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+89,Rental Expense,Cash Payment - Rental - New York,4020
+89,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,405
+89,Rental Expense,Cash Payment - Rental - Detroit,1000
+88,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+88,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+88,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+88,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+88,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+88,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+88,Salary Expense,Cash Payment - Salary Expense,25234
+88,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+88,Rental Expense,Cash Payment - Rental - Chicago,2400
+88,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+88,Rental Expense,Cash Payment - Rental - New York,4020
+88,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,540
+88,Rental Expense,Cash Payment - Rental - Detroit,1000
+87,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+87,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+87,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+87,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+87,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+87,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+87,Salary Expense,Cash Payment - Salary Expense,25214
+87,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 14891,13
+87,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+87,Rental Expense,Cash Payment - Rental - Chicago,2400
+87,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+87,Rental Expense,Cash Payment - Rental - New York,4020
+87,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,648
+87,Rental Expense,Cash Payment - Rental - Detroit,1000
+86,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+86,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+86,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+86,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+86,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+86,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+86,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+86,Salary Expense,Cash Payment - Salary Expense,25175
+86,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 15047,22
+86,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 15074,90
+86,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+86,Rental Expense,Cash Payment - Rental - Chicago,2400
+86,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+86,Rental Expense,Cash Payment - Rental - New York,4020
+86,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,729
+86,Rental Expense,Cash Payment - Rental - Detroit,1000
+85,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+85,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+85,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+85,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+85,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+85,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+85,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+85,Salary Expense,Cash Payment - Salary Expense,25577
+85,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+85,Rental Expense,Cash Payment - Rental - Chicago,2400
+85,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+85,Rental Expense,Cash Payment - Rental - New York,4020
+85,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,810
+85,Rental Expense,Cash Payment - Rental - Detroit,1000
+84,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+84,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+84,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+84,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+84,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+84,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+84,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+84,Salary Expense,Cash Payment - Salary Expense,25577
+84,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+84,Rental Expense,Cash Payment - Rental - Chicago,2400
+84,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+84,Rental Expense,Cash Payment - Rental - New York,4020
+84,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,891
+84,Rental Expense,Cash Payment - Rental - Detroit,1000
+83,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+83,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+83,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+83,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+83,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+83,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+83,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+83,Salary Expense,Cash Payment - Salary Expense,25532
+83,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+83,Rental Expense,Cash Payment - Rental - Chicago,2400
+83,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+83,Rental Expense,Cash Payment - Rental - New York,4020
+83,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,1026
+83,Rental Expense,Cash Payment - Rental - Detroit,1000
+82,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+82,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+82,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+82,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+82,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+82,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+82,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+82,Salary Expense,Cash Payment - Salary Expense,25441
+82,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+82,Rental Expense,Cash Payment - Rental - Chicago,2400
+82,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+82,Rental Expense,Cash Payment - Rental - New York,4020
+82,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,1107
+82,Rental Expense,Cash Payment - Rental - Detroit,1000
+81,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+81,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+81,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+81,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+81,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+81,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+81,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+81,Salary Expense,Cash Payment - Salary Expense,25146
+81,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+81,Rental Expense,Cash Payment - Rental - Chicago,2400
+81,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+81,Rental Expense,Cash Payment - Rental - New York,4020
+81,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,1458
+81,Rental Expense,Cash Payment - Rental - Detroit,1000
+80,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+80,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+80,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+80,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+80,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+80,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+80,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+80,Salary Expense,Cash Payment - Salary Expense,24599
+80,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 13932,15
+80,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,15000
+80,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+80,Rental Expense,Cash Payment - Rental - Chicago,2400
+80,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+80,Rental Expense,Cash Payment - Rental - New York,4020
+80,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,1836
+80,Rental Expense,Cash Payment - Rental - Detroit,1000
+79,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+79,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+79,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+79,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+79,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+79,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+79,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+79,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+79,Salary Expense,Cash Payment - Salary Expense,24533
+79,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 13751,361
+79,Shipping Expense,Cash Payment - Move Stock ID: 10952,31446
+79,Shipping Expense,Cash Payment - Move Stock ID: 13143,14761
+79,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+79,Rental Expense,Cash Payment - Rental - Chicago,2400
+79,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+79,Rental Expense,Cash Payment - Rental - New York,4020
+79,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,2160
+79,Rental Expense,Cash Payment - Rental - Detroit,1000
+78,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+78,Human Resource Expense,Counselled,2000
+78,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+78,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+78,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+78,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+78,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+78,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+78,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+78,Salary Expense,Cash Payment - Salary Expense,24877
+78,Shipping Expense,Cash Payment - Move Stock ID: 12610,28077
+78,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+78,Rental Expense,Cash Payment - Rental - Chicago,2400
+78,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+78,Rental Expense,Cash Payment - Rental - New York,4020
+78,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,297
+78,Rental Expense,Cash Payment - Rental - Detroit,1000
+77,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+77,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+77,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+77,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+77,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+77,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+77,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+77,Salary Expense,Cash Payment - Salary Expense,24897
+77,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 13187,166
+77,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 13192,338
+77,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+77,Rental Expense,Cash Payment - Rental - Chicago,2400
+77,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+77,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,975
+77,Rental Expense,Cash Payment - Rental - New York,4020
+77,Rental Expense,Cash Payment - Rental - Detroit,1000
+76,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+76,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+76,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+76,Human Resource Expense,Counselled,2000
+76,Human Resource Expense,Counselled,2000
+76,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+76,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+76,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+76,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+76,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+76,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+76,Salary Expense,Cash Payment - Salary Expense,24509
+76,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 13197,67
+76,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 13218,261
+76,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+76,Rental Expense,Cash Payment - Rental - Chicago,2400
+76,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+76,Rental Expense,Cash Payment - Rental - New York,4020
+76,Rental Expense,Cash Payment - Rental - Detroit,1000
+75,Human Resource Expense,Counselled,2000
+75,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+75,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+75,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+75,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+75,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+75,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+75,Salary Expense,Cash Payment - Salary Expense,23186
+75,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+75,Rental Expense,Cash Payment - Rental - Chicago,2400
+75,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+75,Rental Expense,Cash Payment - Rental - New York,4020
+75,Rental Expense,Cash Payment - Rental - Detroit,1000
+74,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+74,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+74,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+74,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+74,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+74,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+74,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+74,Salary Expense,Cash Payment - Salary Expense,24057
+74,Shipping Expense,Cash Payment - Move Stock ID: 12606,10064
+74,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+74,Rental Expense,Cash Payment - Rental - Chicago,2400
+74,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+74,Rental Expense,Cash Payment - Rental - New York,4020
+74,Rental Expense,Cash Payment - Rental - Detroit,1000
+73,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+73,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+73,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+73,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+73,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+73,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+73,Marketing Expense,Cash Payment - Marketing - New York - Sparkling Wine,300
+73,Marketing Expense,Cash Payment - Marketing - New York - Red Wine,300
+73,Marketing Expense,Cash Payment - Marketing - New York - White Wine,300
+73,Salary Expense,Cash Payment - Salary Expense,23629
+73,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+73,Rental Expense,Cash Payment - Rental - Chicago,2400
+73,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+73,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,3225
+73,Rental Expense,Cash Payment - Rental - New York,4020
+73,Rental Expense,Cash Payment - Rental - Detroit,1000
+72,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+72,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+72,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+72,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+72,Salary Expense,Cash Payment - Salary Expense,22653
+72,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+72,Rental Expense,Cash Payment - Rental - Chicago,2400
+72,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+72,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,3300
+72,Rental Expense,Cash Payment - Rental - New York,4020
+72,Rental Expense,Cash Payment - Rental - Detroit,1000
+71,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+71,Human Resource Expense,Counselled,2000
+71,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+71,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+71,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+71,Salary Expense,Cash Payment - Salary Expense,22843
+71,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,15000
+71,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+71,Rental Expense,Cash Payment - Rental - Chicago,2400
+71,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+71,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,3300
+71,Rental Expense,Cash Payment - Rental - New York,4020
+71,Rental Expense,Cash Payment - Rental - Detroit,1000
+70,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+70,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+70,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+70,Salary Expense,Cash Payment - Salary Expense,21876
+70,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+70,Rental Expense,Cash Payment - Rental - Chicago,2400
+70,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+70,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,3450
+70,Rental Expense,Cash Payment - Rental - New York,4020
+70,Rental Expense,Cash Payment - Rental - Detroit,1000
+69,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+69,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+69,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+69,Salary Expense,Cash Payment - Salary Expense,21792
+69,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+69,Rental Expense,Cash Payment - Rental - Chicago,2400
+69,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+69,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,3525
+69,Rental Expense,Cash Payment - Rental - New York,4020
+69,Rental Expense,Cash Payment - Rental - Detroit,1000
+68,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+68,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+68,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+68,Salary Expense,Cash Payment - Salary Expense,21669
+68,Shipping Expense,Cash Payment - Move Stock ID: 8206,121870
+68,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+68,Rental Expense,Cash Payment - Rental - Chicago,2400
+68,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+68,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,3675
+68,Rental Expense,Cash Payment - Rental - New York,4020
+68,Rental Expense,Cash Payment - Rental - Detroit,1000
+67,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+67,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+67,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+67,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+67,Salary Expense,Cash Payment - Salary Expense,22055
+67,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+67,Rental Expense,Cash Payment - Rental - Chicago,2400
+67,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,1710
+67,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+67,Rental Expense,Cash Payment - Rental - New York,4020
+67,Rental Expense,Cash Payment - Rental - Detroit,1000
+66,Human Resource Expense,Counselled,2000
+66,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+66,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+66,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+66,Salary Expense,Cash Payment - Salary Expense,21650
+66,Depreciation Expense,Non-Cash Expense - Depreciation,3333
+66,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+66,Rental Expense,Cash Payment - Rental - Chicago,2400
+66,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,1770
+66,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+66,Rental Expense,Cash Payment - Rental - New York,4020
+66,Rental Expense,Cash Payment - Rental - Detroit,1000
+65,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+65,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+65,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+65,Salary Expense,Cash Payment - Salary Expense,22118
+65,Depreciation Expense,Non-Cash Expense - Depreciation,3333
+65,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+65,Rental Expense,Cash Payment - Rental - Chicago,2400
+65,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,1800
+65,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+65,Rental Expense,Cash Payment - Rental - New York,4020
+65,Rental Expense,Cash Payment - Rental - Detroit,1000
+64,Human Resource Expense,Counselled,2000
+64,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+64,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+64,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+64,Salary Expense,Cash Payment - Salary Expense,22118
+64,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 10778,25
+64,Depreciation Expense,Non-Cash Expense - Depreciation,3333
+64,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+64,Rental Expense,Cash Payment - Rental - Chicago,2400
+64,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,1860
+64,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+64,Rental Expense,Cash Payment - Rental - New York,4020
+64,Rental Expense,Cash Payment - Rental - Detroit,1000
+63,Human Resource Expense,Counselled,2000
+63,Human Resource Expense,Counselled,2000
+63,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+63,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+63,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+63,Salary Expense,Cash Payment - Salary Expense,22096
+63,Depreciation Expense,Non-Cash Expense - Depreciation,3333
+63,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+63,Rental Expense,Cash Payment - Rental - Chicago,2400
+63,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,1890
+63,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+63,Rental Expense,Cash Payment - Rental - New York,4020
+63,Rental Expense,Cash Payment - Rental - Detroit,1000
+62,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+62,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+62,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+62,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+62,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+62,Salary Expense,Cash Payment - Salary Expense,22479
+62,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,15000
+62,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+62,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+62,Rental Expense,Cash Payment - Rental - Chicago,2400
+62,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,1920
+62,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+62,Rental Expense,Cash Payment - Rental - New York,4020
+62,Rental Expense,Cash Payment - Rental - Detroit,1000
+61,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+61,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+61,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+61,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+61,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+61,Salary Expense,Cash Payment - Salary Expense,22725
+61,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+61,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+61,Rental Expense,Cash Payment - Rental - Chicago,2400
+61,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,1920
+61,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+61,Rental Expense,Cash Payment - Rental - New York,4020
+61,Rental Expense,Cash Payment - Rental - Detroit,1000
+60,Human Resource Expense,Counselled,2000
+60,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+60,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+60,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+60,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+60,Salary Expense,Cash Payment - Salary Expense,22300
+60,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+60,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+60,Rental Expense,Cash Payment - Rental - Chicago,2400
+60,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,2010
+60,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+60,Rental Expense,Cash Payment - Rental - New York,4020
+60,Rental Expense,Cash Payment - Rental - Detroit,1000
+59,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+59,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+59,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+59,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+59,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+59,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+59,Salary Expense,Cash Payment - Salary Expense,22220
+59,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+59,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+59,Rental Expense,Cash Payment - Rental - Chicago,2400
+59,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,2070
+59,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+59,Rental Expense,Cash Payment - Rental - New York,4020
+59,Rental Expense,Cash Payment - Rental - Detroit,1000
+58,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+58,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+58,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+58,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+58,Salary Expense,Cash Payment - Salary Expense,22103
+58,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 9710,98
+58,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 9715,47
+58,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+58,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+58,Rental Expense,Cash Payment - Rental - Chicago,2400
+58,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,2100
+58,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+58,Rental Expense,Cash Payment - Rental - New York,4020
+58,Rental Expense,Cash Payment - Rental - Detroit,1000
+57,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+57,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+57,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+57,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+57,Salary Expense,Cash Payment - Salary Expense,22082
+57,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+57,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+57,Rental Expense,Cash Payment - Rental - Chicago,2400
+57,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,2190
+57,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+57,Rental Expense,Cash Payment - Rental - New York,4020
+57,Rental Expense,Cash Payment - Rental - Detroit,1000
+56,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+56,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+56,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+56,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+56,Salary Expense,Cash Payment - Salary Expense,22082
+56,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+56,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+56,Rental Expense,Cash Payment - Rental - Chicago,2400
+56,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,2310
+56,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+56,Rental Expense,Cash Payment - Rental - New York,4020
+56,Rental Expense,Cash Payment - Rental - Detroit,1000
+55,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+55,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+55,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+55,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+55,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+55,Salary Expense,Cash Payment - Salary Expense,22082
+55,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+55,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+55,Rental Expense,Cash Payment - Rental - Chicago,2400
+55,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,2430
+55,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+55,Rental Expense,Cash Payment - Rental - New York,4020
+55,Rental Expense,Cash Payment - Rental - Detroit,1000
+54,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+54,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+54,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+54,Salary Expense,Cash Payment - Salary Expense,22548
+54,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+54,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+54,Rental Expense,Cash Payment - Rental - Chicago,2400
+54,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,2640
+54,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+54,Rental Expense,Cash Payment - Rental - New York,4020
+54,Rental Expense,Cash Payment - Rental - Detroit,1000
+53,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+53,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+53,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+53,Salary Expense,Cash Payment - Salary Expense,22527
+53,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8954,72
+53,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,15000
+53,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+53,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+53,Rental Expense,Cash Payment - Rental - Chicago,2400
+53,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,2670
+53,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+53,Rental Expense,Cash Payment - Rental - New York,4020
+53,Rental Expense,Cash Payment - Rental - Detroit,1000
+52,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+52,Human Resource Expense,Counselled,2000
+52,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+52,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+52,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+52,Salary Expense,Cash Payment - Salary Expense,22506
+52,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8787,122
+52,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+52,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+52,Rental Expense,Cash Payment - Rental - Chicago,2400
+52,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,2760
+52,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+52,Rental Expense,Cash Payment - Rental - New York,4020
+52,Rental Expense,Cash Payment - Rental - Detroit,1000
+51,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+51,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+51,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+51,Salary Expense,Cash Payment - Salary Expense,21865
+51,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8335,11
+51,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8378,6
+51,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8389,17
+51,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8414,81
+51,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 8417,79
+51,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+51,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+51,Rental Expense,Cash Payment - Rental - Chicago,2400
+51,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,2790
+51,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+51,Rental Expense,Cash Payment - Rental - New York,4020
+51,Rental Expense,Cash Payment - Rental - Detroit,1000
+50,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+50,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+50,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+50,Salary Expense,Cash Payment - Salary Expense,21789
+50,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+50,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+50,Rental Expense,Cash Payment - Rental - Chicago,2400
+50,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,2880
+50,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+50,Rental Expense,Cash Payment - Rental - New York,4020
+50,Rental Expense,Cash Payment - Rental - Detroit,1000
+49,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+49,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+49,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+49,Salary Expense,Cash Payment - Salary Expense,21695
+49,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+49,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+49,Rental Expense,Cash Payment - Rental - Chicago,2400
+49,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,2940
+49,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+49,Rental Expense,Cash Payment - Rental - New York,4020
+49,Rental Expense,Cash Payment - Rental - Detroit,1000
+48,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+48,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+48,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+48,Salary Expense,Cash Payment - Salary Expense,21581
+48,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+48,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+48,Rental Expense,Cash Payment - Rental - Chicago,2400
+48,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,3000
+48,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+48,Rental Expense,Cash Payment - Rental - New York,4020
+48,Rental Expense,Cash Payment - Rental - Detroit,1000
+47,Human Resource Expense,Counselled,2000
+47,Human Resource Expense,Counselled,2000
+47,Human Resource Expense,Counselled,2000
+47,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+47,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+47,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+47,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+47,Salary Expense,Cash Payment - Salary Expense,21561
+47,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7506,283
+47,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7578,25
+47,Shipping Expense,Cash Payment - Move Stock ID: 4383,114623
+47,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+47,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+47,Rental Expense,Cash Payment - Rental - Chicago,2400
+47,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,3060
+47,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+47,Rental Expense,Cash Payment - Rental - New York,4020
+47,Rental Expense,Cash Payment - Rental - Detroit,1000
+46,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+46,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+46,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+46,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+46,Salary Expense,Cash Payment - Salary Expense,21561
+46,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7477,81
+46,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7485,99
+46,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7494,50
+46,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7500,163
+46,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+46,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+46,Rental Expense,Cash Payment - Rental - Chicago,2400
+46,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,150
+46,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+46,Rental Expense,Cash Payment - Rental - New York,4020
+46,Rental Expense,Cash Payment - Rental - Detroit,1000
+45,Human Resource Expense,Counselled,2000
+45,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+45,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+45,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+45,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+45,Salary Expense,Cash Payment - Salary Expense,21561
+45,Shipping Expense,Cash Payment - Move Stock ID: 4999,70309
+45,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+45,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+45,Rental Expense,Cash Payment - Rental - Chicago,2400
+45,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Los Angeles,210
+45,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+45,Rental Expense,Cash Payment - Rental - New York,4020
+45,Rental Expense,Cash Payment - Rental - Detroit,1000
+44,Human Resource Expense,Counselled,2000
+44,Human Resource Expense,Counselled,2000
+44,Human Resource Expense,Counselled,2000
+44,Human Resource Expense,Counselled,2000
+44,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+44,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+44,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+44,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+44,Salary Expense,Cash Payment - Salary Expense,21561
+44,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,15000
+44,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+44,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+44,Rental Expense,Cash Payment - Rental - Chicago,2400
+44,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+44,Rental Expense,Cash Payment - Rental - New York,4020
+44,Rental Expense,Cash Payment - Rental - Detroit,1000
+43,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+43,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+43,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+43,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+43,Salary Expense,Cash Payment - Salary Expense,21541
+43,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7024,10
+43,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7108,17
+43,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7110,60
+43,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 7119,104
+43,Shipping Expense,Cash Payment - Move Stock ID: 6892,8501
+43,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+43,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+43,Rental Expense,Cash Payment - Rental - Chicago,2400
+43,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+43,Rental Expense,Cash Payment - Rental - New York,4020
+43,Rental Expense,Cash Payment - Rental - Detroit,1000
+42,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+42,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+42,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+42,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+42,Salary Expense,Cash Payment - Salary Expense,21521
+42,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6931,129
+42,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6945,19
+42,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+42,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+42,Rental Expense,Cash Payment - Rental - Chicago,2400
+42,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+42,Rental Expense,Cash Payment - Rental - New York,4020
+42,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,513
+42,Rental Expense,Cash Payment - Rental - Detroit,1000
+41,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+41,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+41,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+41,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+41,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+41,Salary Expense,Cash Payment - Salary Expense,21666
+41,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+41,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+41,Rental Expense,Cash Payment - Rental - Chicago,2400
+41,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+41,Rental Expense,Cash Payment - Rental - New York,4020
+41,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,594
+41,Rental Expense,Cash Payment - Rental - Detroit,1000
+40,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+40,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+40,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+40,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+40,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+40,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+40,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+40,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+40,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+40,Salary Expense,Cash Payment - Salary Expense,21223
+40,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6128,24
+40,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 6480,26
+40,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+40,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+40,Rental Expense,Cash Payment - Rental - Chicago,2400
+40,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+40,Rental Expense,Cash Payment - Rental - New York,4020
+40,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,621
+40,Rental Expense,Cash Payment - Rental - Detroit,1000
+39,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+39,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+39,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+39,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+39,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+39,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+39,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+39,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+39,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+39,Salary Expense,Cash Payment - Salary Expense,19328
+39,Shipping Expense,Cash Payment - Move Stock ID: 5949,14103
+39,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+39,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+39,Rental Expense,Cash Payment - Rental - Chicago,2400
+39,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+39,Rental Expense,Cash Payment - Rental - New York,4020
+39,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,702
+39,Rental Expense,Cash Payment - Rental - Detroit,1000
+38,Human Resource Expense,Counselled,2000
+38,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+38,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+38,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+38,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+38,Salary Expense,Cash Payment - Salary Expense,17378
+38,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5367,98
+38,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5375,145
+38,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+38,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+38,Rental Expense,Cash Payment - Rental - Chicago,2400
+38,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+38,Rental Expense,Cash Payment - Rental - New York,4020
+38,Rental Expense,Cash Payment - Rental - Detroit,1000
+37,Marketing Expense,Cash Payment - Marketing - Los Angeles - Sparkling Wine,300
+37,Marketing Expense,Cash Payment - Marketing - Los Angeles - Red Wine,300
+37,Marketing Expense,Cash Payment - Marketing - Los Angeles - White Wine,300
+37,Salary Expense,Cash Payment - Salary Expense,18536
+37,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5177,14
+37,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5184,23
+37,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5188,11
+37,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5361,66
+37,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+37,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+37,Rental Expense,Cash Payment - Rental - Chicago,2400
+37,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+37,Rental Expense,Cash Payment - Rental - New York,4020
+37,Rental Expense,Cash Payment - Rental - Detroit,1000
+36,Salary Expense,Cash Payment - Salary Expense,18922
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5378,178
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5386,110
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5396,17
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5546,20
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5558,87
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5737,90
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5739,88
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5741,185
+36,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5756,121
+36,Shipping Expense,Cash Payment - Move Stock ID: 5576,6517
+36,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+36,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+36,Rental Expense,Cash Payment - Rental - Chicago,2400
+36,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+36,Rental Expense,Cash Payment - Rental - New York,4020
+36,Rental Expense,Cash Payment - Rental - Detroit,1000
+35,Salary Expense,Cash Payment - Salary Expense,19732
+35,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5564,82
+35,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 5571,198
+35,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,15000
+35,Shipping Expense,Cash Payment - Move Stock ID: 2108,61472
+35,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+35,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+35,Rental Expense,Cash Payment - Rental - Chicago,2400
+35,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+35,Rental Expense,Cash Payment - Rental - New York,4020
+35,Rental Expense,Cash Payment - Rental - Detroit,1000
+34,Salary Expense,Cash Payment - Salary Expense,19732
+34,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+34,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+34,Rental Expense,Cash Payment - Rental - Chicago,2400
+34,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+34,Rental Expense,Cash Payment - Rental - New York,4020
+34,Rental Expense,Cash Payment - Rental - Detroit,1000
+33,Salary Expense,Cash Payment - Salary Expense,19713
+33,Penalty Expense,Cash Payment - Late penalty - SRV SO ID: 1933,3300
+33,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+33,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+33,Rental Expense,Cash Payment - Rental - Chicago,2400
+33,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+33,Rental Expense,Cash Payment - Rental - New York,4020
+33,Rental Expense,Cash Payment - Rental - Detroit,1000
+32,Salary Expense,Cash Payment - Salary Expense,19694
+32,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4394,22
+32,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4410,149
+32,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4417,18
+32,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4418,20
+32,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+32,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+32,Rental Expense,Cash Payment - Rental - Chicago,2400
+32,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+32,Rental Expense,Cash Payment - Rental - New York,4020
+32,Rental Expense,Cash Payment - Rental - Detroit,1000
+31,Salary Expense,Cash Payment - Salary Expense,19371
+31,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4429,114
+31,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4610,275
+31,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4617,211
+31,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4634,175
+31,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+31,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+31,Rental Expense,Cash Payment - Rental - Chicago,2400
+31,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+31,Rental Expense,Cash Payment - Rental - New York,4020
+31,Rental Expense,Cash Payment - Rental - Detroit,1000
+30,Salary Expense,Cash Payment - Salary Expense,19264
+30,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+30,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+30,Rental Expense,Cash Payment - Rental - Chicago,2400
+30,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+30,Rental Expense,Cash Payment - Rental - New York,4020
+30,Rental Expense,Cash Payment - Rental - Detroit,1000
+29,Salary Expense,Cash Payment - Salary Expense,19264
+29,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+29,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+29,Rental Expense,Cash Payment - Rental - Chicago,2400
+29,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+29,Rental Expense,Cash Payment - Rental - New York,4020
+29,Rental Expense,Cash Payment - Rental - Detroit,1000
+28,Salary Expense,Cash Payment - Salary Expense,20368
+28,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3872,117
+28,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3877,107
+28,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3882,159
+28,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3978,111
+28,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+28,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+28,Rental Expense,Cash Payment - Rental - Chicago,2400
+28,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+28,Rental Expense,Cash Payment - Rental - New York,4020
+28,Rental Expense,Cash Payment - Rental - Detroit,1000
+27,Salary Expense,Cash Payment - Salary Expense,20314
+27,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 4044,72
+27,Interest Expense ,Cash Payment - Interest - For Overdraft,321
+27,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+27,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+27,Rental Expense,Cash Payment - Rental - Chicago,2400
+27,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+27,Rental Expense,Cash Payment - Rental - New York,4020
+27,Rental Expense,Cash Payment - Rental - Detroit,1000
+26,Salary Expense,Cash Payment - Salary Expense,21454
+26,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 3687,76
+26,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,15000
+26,Interest Expense ,Cash Payment - Interest - For Overdraft,2697
+26,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+26,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+26,Rental Expense,Cash Payment - Rental - Chicago,2400
+26,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+26,Rental Expense,Cash Payment - Rental - New York,4020
+26,Rental Expense,Cash Payment - Rental - Detroit,1000
+25,Salary Expense,Cash Payment - Salary Expense,22208
+25,Shipping Expense,Cash Payment - Move Stock ID: 3495,10952
+25,Interest Expense ,Cash Payment - Interest - For Overdraft,2697
+25,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+25,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+25,Rental Expense,Cash Payment - Rental - Chicago,2400
+25,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+25,Rental Expense,Cash Payment - Rental - New York,4020
+25,Rental Expense,Cash Payment - Rental - Detroit,1000
+24,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+24,Salary Expense,Cash Payment - Salary Expense,22208
+24,Shipping Expense,Cash Payment - Move Stock ID: 3255,10064
+24,Interest Expense ,Cash Payment - Interest - For Overdraft,2697
+24,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+24,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+24,Rental Expense,Cash Payment - Rental - Chicago,2400
+24,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+24,Rental Expense,Cash Payment - Rental - New York,4020
+24,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,1107
+24,Rental Expense,Cash Payment - Rental - Detroit,1000
+23,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+23,Salary Expense,Cash Payment - Salary Expense,22172
+23,Interest Expense ,Cash Payment - Interest - For Overdraft,2697
+23,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+23,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+23,Rental Expense,Cash Payment - Rental - Chicago,2400
+23,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+23,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,3000
+23,Rental Expense,Cash Payment - Rental - New York,4020
+23,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,1188
+23,Rental Expense,Cash Payment - Rental - Detroit,1000
+22,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+22,Salary Expense,Cash Payment - Salary Expense,22522
+22,Interest Expense ,Cash Payment - Interest - For Overdraft,2697
+22,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+22,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+22,Rental Expense,Cash Payment - Rental - Chicago,2400
+22,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+22,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,3150
+22,Rental Expense,Cash Payment - Rental - New York,4020
+22,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,1269
+22,Rental Expense,Cash Payment - Rental - Detroit,1000
+21,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+21,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+21,Salary Expense,Cash Payment - Salary Expense,22144
+21,Shipping Expense,Cash Payment - Move Stock ID: 2781,10952
+21,Interest Expense ,Cash Payment - Interest - For Overdraft,2697
+21,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+21,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+21,Rental Expense,Cash Payment - Rental - Chicago,2400
+21,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+21,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,3150
+21,Rental Expense,Cash Payment - Rental - New York,4020
+21,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,1377
+21,Rental Expense,Cash Payment - Rental - Detroit,1000
+20,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+20,Salary Expense,Cash Payment - Salary Expense,21640
+20,Interest Expense ,Cash Payment - Interest - For Overdraft,3724
+20,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+20,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+20,Rental Expense,Cash Payment - Rental - Chicago,2400
+20,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+20,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,3375
+20,Rental Expense,Cash Payment - Rental - New York,4020
+20,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,162
+20,Rental Expense,Cash Payment - Rental - Detroit,1000
+19,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+19,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+19,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+19,Salary Expense,Cash Payment - Salary Expense,21640
+19,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 2588,175
+19,Shipping Expense,Cash Payment - Move Stock ID: 1923,23949
+19,Shipping Expense,Cash Payment - Move Stock ID: 2249,14831
+19,Shipping Expense,Cash Payment - Move Stock ID: 2255,12745
+19,Interest Expense ,Cash Payment - Interest - For Overdraft,3724
+19,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+19,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+19,Rental Expense,Cash Payment - Rental - Chicago,2400
+19,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+19,Overflow Expense - Retail,Cash Payment - Overflow Fee  - New York,3600
+19,Rental Expense,Cash Payment - Rental - New York,4020
+19,Overflow Expense - Retail,Cash Payment - Overflow Fee  - Detroit,270
+19,Rental Expense,Cash Payment - Rental - Detroit,1000
+18,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+18,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+18,Human Resource Expense,Counselled,2000
+18,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+18,Human Resource Expense,Counselled,2000
+18,Human Resource Expense,Counselled,2000
+18,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+18,Salary Expense,Cash Payment - Salary Expense,20922
+18,Shipping Expense,Cash Payment - Move Stock ID: 1774,7898
+18,Interest Expense ,Cash Payment - Interest - For Overdraft,3339
+18,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+18,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+18,Rental Expense,Cash Payment - Rental - Chicago,2400
+18,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+18,Rental Expense,Cash Payment - Rental - New York,4020
+18,Rental Expense,Cash Payment - Rental - Detroit,1000
+17,Human Resource Expense,Counselled,2000
+17,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+17,Salary Expense,Cash Payment - Salary Expense,20554
+17,Maintenance Expense,Cash Payment - Maintenance periodic Machine ID: 360,15000
+17,Interest Expense ,Cash Payment - Interest - For Overdraft,3339
+17,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+17,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+17,Rental Expense,Cash Payment - Rental - Chicago,2400
+17,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+17,Rental Expense,Cash Payment - Rental - New York,4020
+17,Rental Expense,Cash Payment - Rental - Detroit,1000
+16,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+16,Salary Expense,Cash Payment - Salary Expense,20536
+16,Interest Expense ,Cash Payment - Interest - For Overdraft,1027
+16,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+16,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+16,Rental Expense,Cash Payment - Rental - Chicago,2400
+16,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+16,Rental Expense,Cash Payment - Rental - New York,4020
+16,Rental Expense,Cash Payment - Rental - Detroit,1000
+15,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+15,Salary Expense,Cash Payment - Salary Expense,20904
+15,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 1935,144
+15,Interest Expense ,Cash Payment - Interest - For Overdraft,3082
+15,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+15,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+15,Rental Expense,Cash Payment - Rental - Chicago,2400
+15,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+15,Rental Expense,Cash Payment - Rental - New York,4020
+15,Rental Expense,Cash Payment - Rental - Detroit,1000
+14,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+14,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+14,Marketing Expense,Cash Payment - Marketing Report Subscription,20000
+14,Salary Expense,Cash Payment - Salary Expense,20904
+14,Interest Expense ,Cash Payment - Interest - For Overdraft,4110
+14,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+14,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+14,Rental Expense,Cash Payment - Rental - Chicago,2400
+14,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+14,Rental Expense,Cash Payment - Rental - New York,4020
+14,Rental Expense,Cash Payment - Rental - Detroit,1000
+13,Human Resource Expense,Counselled,2000
+13,Salary Expense,Cash Payment - Salary Expense,20922
+13,Interest Expense ,Cash Payment - Interest - For Overdraft,2312
+13,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+13,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+13,Rental Expense,Cash Payment - Rental - Chicago,2400
+13,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+13,Rental Expense,Cash Payment - Rental - New York,4020
+13,Rental Expense,Cash Payment - Rental - Detroit,1000
+12,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+12,Salary Expense,Cash Payment - Salary Expense,21640
+12,Interest Expense ,Cash Payment - Interest - For Overdraft,2568
+12,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+12,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+12,Rental Expense,Cash Payment - Rental - Chicago,2400
+12,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+12,Rental Expense,Cash Payment - Rental - New York,4020
+12,Rental Expense,Cash Payment - Rental - Detroit,1000
+11,Human Resource Expense,Attended Training,15000
+11,Human Resource Expense,Cash Payment - Staff Recruiting,15000
+11,Human Resource Expense,Attended Training,15000
+11,Salary Expense,Cash Payment - Salary Expense,21298
+11,Interest Expense ,Cash Payment - Interest - For Overdraft,3082
+11,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+11,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+11,Rental Expense,Cash Payment - Rental - Chicago,2400
+11,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+11,Rental Expense,Cash Payment - Rental - New York,4020
+11,Rental Expense,Cash Payment - Rental - Detroit,1000
+10,Salary Expense,Cash Payment - Salary Expense,20300
+10,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 1067,116
+10,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 1108,142
+10,Interest Expense ,Cash Payment - Interest - For Overdraft,3034
+10,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+10,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+10,Rental Expense,Cash Payment - Rental - Chicago,2400
+10,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+10,Rental Expense,Cash Payment - Rental - New York,4020
+10,Rental Expense,Cash Payment - Rental - Detroit,1000
+9,Salary Expense,Cash Payment - Salary Expense,20300
+9,Interest Expense ,Cash Payment - Interest - For Overdraft,4061
+9,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+9,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+9,Rental Expense,Cash Payment - Rental - Chicago,2400
+9,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+9,Rental Expense,Cash Payment - Rental - New York,4020
+9,Rental Expense,Cash Payment - Rental - Detroit,1000
+8,Salary Expense,Cash Payment - Salary Expense,20300
+8,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 692,223
+8,Interest Expense ,Cash Payment - Interest - For Overdraft,4061
+8,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+8,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+8,Rental Expense,Cash Payment - Rental - Chicago,2400
+8,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+8,Rental Expense,Cash Payment - Rental - New York,4020
+8,Rental Expense,Cash Payment - Rental - Detroit,1000
+7,Human Resource Expense,Cash Payment - Staff Recruiting - Production,15000
+7,Salary Expense,Cash Payment - Salary Expense,20300
+7,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 640,177
+7,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 662,262
+7,Interest Expense ,Cash Payment - Interest - For Overdraft,2568
+7,Depreciation Expense,Non-Cash Expense - Depreciation,6666
+7,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+7,Rental Expense,Cash Payment - Rental - Chicago,2400
+7,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+7,Rental Expense,Cash Payment - Rental - New York,4020
+7,Rental Expense,Cash Payment - Rental - Detroit,1000
+6,Human Resource Expense,Attended Training,15000
+6,Salary Expense,Cash Payment - Salary Expense,19950
+6,Shipping Expense,Cash Payment - Shipping Expense - WEB SO : 504,253
+6,Interest Expense ,Cash Payment - Interest - For Overdraft,1027
+6,Depreciation Expense,Non-Cash Expense - Depreciation,3333
+6,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+6,Rental Expense,Cash Payment - Rental - Chicago,2400
+6,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+6,Rental Expense,Cash Payment - Rental - New York,4020
+6,Rental Expense,Cash Payment - Rental - Detroit,1000
+5,Human Resource Expense,Attended Training,15000
+5,Salary Expense,Cash Payment - Salary Expense,19950
+5,Depreciation Expense,Non-Cash Expense - Depreciation,3333
+5,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+5,Rental Expense,Cash Payment - Rental - Chicago,2400
+5,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+5,Rental Expense,Cash Payment - Rental - New York,4020
+5,Rental Expense,Cash Payment - Rental - Detroit,1000
+4,Human Resource Expense,Attended Training,15000
+4,Salary Expense,Cash Payment - Salary Expense,19950
+4,Depreciation Expense,Non-Cash Expense - Depreciation,3333
+4,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+4,Rental Expense,Cash Payment - Rental - Chicago,2400
+4,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+4,Rental Expense,Cash Payment - Rental - New York,4020
+4,Rental Expense,Cash Payment - Rental - Detroit,1000
+3,Human Resource Expense,Cash Payment - Staff Recruiting - Production,15000
+3,Salary Expense,Cash Payment - Salary Expense,19950
+3,Depreciation Expense,Non-Cash Expense - Depreciation,3333
+3,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+3,Rental Expense,Cash Payment - Rental - Chicago,2400
+3,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+3,Rental Expense,Cash Payment - Rental - New York,4020
+3,Rental Expense,Cash Payment - Rental - Detroit,1000
+2,Human Resource Expense,"Cash Payment - Staff Recruiting - Washington, D.C.",60000
+2,Human Resource Expense,Cash Payment - Staff Recruiting - Chicago,60000
+2,Human Resource Expense,Cash Payment - Staff Recruiting - Los Angeles,60000
+2,Human Resource Expense,Cash Payment - Staff Recruiting - New York,60000
+2,Human Resource Expense,Cash Payment - Staff Recruiting - Detroit,60000
+2,Salary Expense,Cash Payment - Salary Expense,19600
+2,Rental Expense,"Cash Payment - Rental - Washington, D.C.",3600
+2,Rental Expense,Cash Payment - Rental - Chicago,2400
+2,Rental Expense,Cash Payment - Rental - Los Angeles,1620
+2,Rental Expense,Cash Payment - Rental - New York,4020
+2,Rental Expense,Cash Payment - Rental - Detroit,1000
+1,Salary Expense,Cash Payment - Salary Expense,12600
