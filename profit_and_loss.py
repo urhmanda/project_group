@@ -10,3 +10,4 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
 #Creates an empty list to store profit and loss records
 profit_and_loss=[]
 
+#append profit and loss onto the profit and loss records
