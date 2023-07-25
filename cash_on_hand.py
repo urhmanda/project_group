@@ -23,4 +23,5 @@ for items in cash_on_hand:
 
 for items[3] in cash_on_hand:
 
-
+def cal_amount(amount):
+    amount = 0
