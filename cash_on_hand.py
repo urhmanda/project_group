@@ -16,10 +16,15 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
     for row in reader:
         # get the data for each record
         #and append the cash_on_hand list
-        cash_on_hand.append([row[0],row[1],row[2],row[3]])   
+        cash_on_hand.append([row[0],row[3]])   
 
 for items in cash_on_hand:
     print(items)
+
+
+for items[0] in cash_on_hand:
+    items[0] = Day
+    Day = 0
 
 for items[3] in cash_on_hand:
 
