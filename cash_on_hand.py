@@ -23,3 +23,4 @@ for items in cash_on_hand:
 
 for items in cash_on_hand:
     if (items[] == ""):
+        helo
