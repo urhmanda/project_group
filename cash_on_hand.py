@@ -23,5 +23,4 @@ for items in cash_on_hand:
 
 for items[3] in cash_on_hand:
 
-def diff_btw_days(amount):
-    diff_btw_days = 0
+
