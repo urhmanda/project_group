@@ -61,8 +61,7 @@ def calculate_difference_between_days(cash_on_hand):
 # use panda or num.py
            
       
-summary_list = []
-summary_list.append(f"{items[0]},{calculate_difference_between_days})
+summary_list.append(f"{item[0]},{calculate_difference_between_days})
 
 
 
