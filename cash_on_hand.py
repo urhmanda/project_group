@@ -9,7 +9,7 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
     reader = csv.reader(file)
     next(reader) #To skip the header
 
-    # create empty list to store cash on hand records
+    # create empty list to store cash on_hand_records
     cash_on_hand = []
 
     # append cash on hand records into the cash_on_hand list
@@ -20,12 +20,12 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
         """
         cash_on_hand.append([row[0],row[3]])   
 
-cash_on_hand.sort(key = lambda record: float(record[0][90:]))
+cash_on_hand.sort(key = lambda record: int(record[0][90:]))
 
 for item in cash_on_hand:
     print(item)
 
-# To store the number of days
+# To store the number of days appended from cash_on_hand.csv into  cash_on_hand records
 days_set = set()
 
 for item in cash_on_hand:
