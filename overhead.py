@@ -18,14 +18,14 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
         #and append the overhead list
         overheadrecords.append([row[1],row[3]])   
 
-print(overheadrecords)
 
-# create an empty list to store days from overhead
-days_list = [] 
+
+# create an empty list to store unique overheads from overheadrecords
+overhead_list = [] 
 for item in overheadrecords:
     # if day not in days_list, append day to days_list
-    if item[0] not in days_list:
-        days_list.append(item[0])
+    if item[0] not in overhead_list:
+        overhead_list.append(item[0])
 
 # create an empty list to store results of overhead_summary for each overhead
 overhead_summary = []
@@ -40,4 +40,9 @@ def overhead_summary(overhead):
     amount = 0
     for item in overhead:
         if item[0] == overhead:
-            amount += float(item[1])    
+            amount += float(item[1])
+
+    # # calculate the overhead percentages
+    # overhead_percent = 0
+    # for item in overhead:
+    #     if item 
