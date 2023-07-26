@@ -23,7 +23,7 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
 # create an empty list to store unique overheads from overheadrecords
 overhead_list = [] 
 for item in overheadrecords:
-    # if day not in days_list, append day to days_list
+    # if overhead not in overhead_list, append overhead to overhead_list
     if item[0] not in overhead_list:
         overhead_list.append(item[0])
 
@@ -42,7 +42,7 @@ def overhead_summary(overhead):
         if item[0] == overhead:
             amount += float(item[1])
 
-    # # calculate the overhead percentages
-    # overhead_percent = 0
-    # for item in overhead:
-    #     if item 
+    # calculate the overhead percentages
+    overhead_percent = 0
+    for item in overhead:
+        if item 
