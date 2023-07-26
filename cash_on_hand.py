@@ -14,8 +14,10 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
 
     # append cash on hand records into the cash_on_hand list
     for row in reader:
-        # get the data for each record
-        #nand append relevant data(Day and Amount) to cash_on_hand list
+        """
+         get the data for each record
+        - and append relevant data(Day and Amount) to cash_on_hand list
+        """
         cash_on_hand.append([row[0],row[3]])   
 
 cash_on_hand.sort(key = lambda record: float(record[0][90:]))
@@ -44,22 +46,23 @@ for item[0] in cash_on_hand:
     """
     days += 1
     item[0] = 0
-    item[3] = 0
-    if item[0] >= 90:
-        item[3] += item[3]
-        #sum up all item[3] where item[0]= 90 and subsequent days
-# use list
+    amount = 0
+    for item[0] in cash_on_hand:
+        amount += float(item[3])
+print("amount")
 
 def calculate_difference_between_days(cash_on_hand):
      """
      - To calculate the difference in amount (increase or decrease) between each day 
      """
      for item[3] in cash_on_hand:
-        if item[3] <= item[3]:
+        if item[3] < item[3]:
            item[3] - item[3]
-        elif item[3] >= item[3]:
+        elif item[3] > item[3]:
             item[3] - item[3]
         else: 
-
-
+            # If item[3] == item[3]
+            print("0")
+            return item[3]
+        
 summary_list.append(f"{days},{calculate_difference_between_days})
