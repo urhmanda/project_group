@@ -52,8 +52,8 @@ for expense_category in expense_category_list:
     total_all_expenses += totalexpenses # get sum of expenses of all expense categories
 
     if totalexpenses > highest_expense:
-        highest_expense = totalexpenses # highest_expense will contain highest expense amount
-        highst_expense_category = expense_category # highest_expense_category will contain category with highest expense
+        highest_expense = totalexpenses 
+        highst_expense_category = expense_category 
 
 if total_all_expenses != 0:
     highest_expense_percentage = (highest_expense / total_all_expenses) * 100
