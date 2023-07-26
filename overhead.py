@@ -19,40 +19,46 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
         overheadrecords.append([row[1],row[3]])   
 
 
+# --------------------------------------------------------
 
-# create an empty list to store unique overheads from overheadrecords
-overhead_list = [] 
+
+# create an empty list to store unique expense categories from overheadrecords
+expense_category_list = [] 
 for item in overheadrecords:
-    # if overhead not in overhead_list, append overhead to overhead_list
-    if item[0] not in overhead_list:
-        overhead_list.append(item[0])
+    # if expense category not in expense_category, append expense category to expense_category 
+    if item[0] not in expense_category_list:
+        expense_category_list.append(item[0])
 
+def summary(expense_category):
+    '''
+    - This function returns the sum of overhead expenses based on expense_category
+    - Required parameters: expense category
+    '''
+    total_overhead_expenses = 0 
 
-# # create an empty list to store results of overhead_summary for each overhead
-# summary_list = []
-
-# calculate the total amount for the given overhead in each overhead record
-expenses = 0  
-for item in overheadrecords:
-    if item[1] not in expenses:
-        expenses.append(item[1])
-print(expenses)
+    for item in overheadrecords:
+        if item[0] == expense_category:
+            total_overhead_expenses += int(item[1])
     
+    return total_overhead_expenses
 
+total_all_expenses = 0 
+highest_expense = 0 
+highst_expense_category = 0 
 
-    # # calculate the overhead percentages
-    # overhead_percent = 0
-    # for item in overheadrecords:
-    #     if item[0] not in overhead_percent:
-    #         overhead_percent += float(item[1] / amount) * 100
+# for loop iterates through each expense category
+for expense_category in expense_category_list:
+    totalexpenses = summary(expense_category) # call summary function to get total expenses of a category
+    total_all_expenses += totalexpenses # get sum of expenses of all expense categories
 
-# # Iterate through each type of overhead 
-# for overhead in overhead_list:
-#     summary = overhead_summary(overhead) # call emp_summary function to get summary 
-#     summary_list.append(summary) # append summary into summary_list
+    if totalexpenses > highest_expense:
+        highest_expense = totalexpenses # highest_expense will contain highest expense amount
+        highst_expense_category = expense_category # highest_expense_category will contain category with highest expense
 
-# for summary in summary_list:
-#     print (f'{summary}')
+if total_all_expenses != 0:
+    highest_expense_percentage = (highest_expense / total_all_expenses) * 100
+    
+print(f"[HIGHEST OVERHEAD] {highst_expense_category.upper()}: {round(highest_expense_percentage,2)}%")
 
 
 
