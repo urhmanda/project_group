@@ -2,7 +2,7 @@ from pathlib import Path
 import csv
 
 # create a file to csv file.
-fp = Path.cwd() / 'csv_reports' / 'cash_on_hand.csv'
+fp = Path.cwd() / 'PFB_grp_proj' / 'csv_reports' / 'cash_on_hand.csv'
 
 # read the csv file to append from the csv.
 with fp.open(mode="r", encoding="UTF-8", newline="") as file:
@@ -30,7 +30,7 @@ currentdays = ""
 
 for item in cash_on_hand:
     """
-    - To calculate the number of days recorded in salesRecords
+    - To calculate the number of days recorded in cash_on_hand
     """
     if (item[0] != days):
         days.append([])
@@ -58,11 +58,12 @@ def calculate_difference_between_days(cash_on_hand):
      for item[3] in cash_on_hand:
         if item[3] < item[3]:
            item[3] - item[3]
+           return calculate_difference_between_days
         elif item[3] > item[3]:
             item[3] - item[3]
+            return calculate_difference_between_days
         else: 
             # If item[3] == item[3]
             print("0")
-            return item[3]
         
 summary_list.append(f"{days},{calculate_difference_between_days})
