@@ -26,7 +26,7 @@ for item in cash_on_hand:
     print(item)
 
 # To store the number of days
-days_set = set() 
+days_set = set()
 
 for item in cash_on_hand:
     """
@@ -35,7 +35,7 @@ for item in cash_on_hand:
     days_set.add(item[0])
 
 number_of_days = len(days_set)
-print("Number of unique days recorded:", number_of_days)
+print("Number of days recorded:", number_of_days)
 
 summary_list = []
 
