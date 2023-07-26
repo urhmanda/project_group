@@ -15,7 +15,7 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
     # append cash on hand records into the cash_on_hand list
     for row in reader:
         """
-         get the data for each record
+        - To get the data for each record
         - and append relevant data(Day and Amount) to cash_on_hand list
         """
         cash_on_hand.append([row[0],row[3]])   
@@ -25,45 +25,51 @@ cash_on_hand.sort(key = lambda record: float(record[0][90:]))
 for item in cash_on_hand:
     print(item)
 
-days = []
-currentdays = ""
+# To store the number of days
+days_set = set() 
 
 for item in cash_on_hand:
     """
     - To calculate the number of days recorded in cash_on_hand
     """
-    if (item[0] != days):
-        days.append([])
-        print("yes")
-        currentdays = item[0]
-    item[-1].append(item)
+    days_set.add(item[0])
+
+number_of_days = len(days_set)
+print("Number of unique days recorded:", number_of_days)
 
 summary_list = []
 
-for item[0] in cash_on_hand:
-    """
-    - To sum up amount for each day 
-    """
-    days += 1
-    item[0] = 0
-    amount = 0
-    for item[0] in cash_on_hand:
-        amount += float(item[3])
-print("amount")
+sum_of_each_day = []
+for item in cash_on_hand:
+    day = item[0]
+    amount = item[3]
+    if day not in sum_of_each_day:
+        """
+        - To add up current amount if day does not exist in cash_on_hand.csv
+        """
+        sum_of_each_day[day] = amount
+    else:
+        """
+        - To add amount to existing sum if day already exists in cash_on_hand.csv
+        """
+        sum_of_each_day[day] += amount
+
 
 def calculate_difference_between_days(cash_on_hand):
      """
      - To calculate the difference in amount (increase or decrease) between each day 
      """
-     for item[3] in cash_on_hand:
-        if item[3] < item[3]:
-           item[3] - item[3]
-           return calculate_difference_between_days
-        elif item[3] > item[3]:
-            item[3] - item[3]
-            return calculate_difference_between_days
-        else: 
-            # If item[3] == item[3]
-            print("0")
-        
-summary_list.append(f"{days},{calculate_difference_between_days})
+     differences = []
+     for i in range(3, len(cash_on_hand)):
+         previous_amount = float(cash_on_hand[i-1][1])
+         current_amount = float(cash_on_hand[i][1])
+         difference = current_amount - previous_amount
+         differences.append(difference)
+         return differences
+     differences= calculate_difference_between_days(cash_on_hand)
+
+for i, difference in enumerate( calculate_difference_between_days, item[3]):
+    """
+    - To collate values calculated for the number of Days and the difference in amount between each of the days
+    """
+    print(f"Day {i}: Difference in Amount: {difference}")
