@@ -27,28 +27,37 @@ for item in overheadrecords:
     if item[0] not in overhead_list:
         overhead_list.append(item[0])
 
-# create an empty list to store results of overhead_summary for each overhead
-overhead_summary = []
 
-def overhead_summary(overhead):
-    '''
-    - This function returns total amount based on type of overhead
-    - Required parameters: Type of overhead 
-    '''
+# # create an empty list to store results of overhead_summary for each overhead
+# summary_list = []
 
-    # calculate the total amount for the given overhead in each overhead record
-    amount = 0
-    for item in overheadrecords:
-        if item[0] == overhead:
-            amount += float(item[1])
-
-    # calculate the overhead percentages
-    overhead_percent = 0
-    for item in overheadrecords:
-        if item[0] not in overhead_percent:
-            overhead_percent += float(item[1]) / amount * 100
+# calculate the total amount for the given overhead in each overhead record
+expenses = 0  
+for item in overheadrecords:
+    if item[1] not in expenses:
+        expenses.append(item[1])
+print(expenses)
     
-    return (f'{}')
+
+
+    # # calculate the overhead percentages
+    # overhead_percent = 0
+    # for item in overheadrecords:
+    #     if item[0] not in overhead_percent:
+    #         overhead_percent += float(item[1] / amount) * 100
+
+# # Iterate through each type of overhead 
+# for overhead in overhead_list:
+#     summary = overhead_summary(overhead) # call emp_summary function to get summary 
+#     summary_list.append(summary) # append summary into summary_list
+
+# for summary in summary_list:
+#     print (f'{summary}')
+
+
+
+
+
 
 
 
