@@ -10,19 +10,34 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
     next(reader) # skip header
 
     # create an empty lists to store overhead record
-    overhead = []
+    overheadrecords = []
 
     # append overhead record into the overhead list
     for row in reader:
         #get the day, items and amount for each record
         #and append the overhead list
-        overhead.append([row[0],row[1],row[3]])   
+        overheadrecords.append([row[1],row[3]])   
 
-print(overhead)
+print(overheadrecords)
 
 # create an empty list to store days from overhead
 days_list = [] 
-for item in overhead:
+for item in overheadrecords:
     # if day not in days_list, append day to days_list
     if item[0] not in days_list:
         days_list.append(item[0])
+
+# create an empty list to store results of overhead_summary for each overhead
+overhead_summary = []
+
+def overhead_summary(overhead):
+    '''
+    - This function returns total amount based on type of overhead
+    - Required parameters: Type of overhead 
+    '''
+
+    # calculate the total amount for the given overhead in each overhead record
+    amount = 0
+    for item in overhead:
+        if item[0] == overhead:
+            amount += float(item[1])    
