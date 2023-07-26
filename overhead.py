@@ -25,7 +25,7 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
 # create an empty list to store unique expense categories from overheadrecords
 expense_category_list = [] 
 for item in overheadrecords:
-    # if expense category not in expense_category, append expense category to expense_category 
+    # if expense category not in expense_category_list, append expense category to expense_category_list 
     if item[0] not in expense_category_list:
         expense_category_list.append(item[0])
 
@@ -34,13 +34,13 @@ def summary(expense_category):
     - This function returns the sum of overhead expenses based on expense_category
     - Required parameters: expense category
     '''
-    total_overhead_expenses = 0 
+    total_expenses = 0 
 
     for item in overheadrecords:
         if item[0] == expense_category:
-            total_overhead_expenses += int(item[1])
+            total_expenses += int(item[1])
     
-    return total_overhead_expenses
+    return total_expenses
 
 total_all_expenses = 0 
 highest_expense = 0 
