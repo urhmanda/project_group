@@ -24,7 +24,7 @@ for item in cash_on_hand:
     print(item)
 
 days = []
-currentamount = ""
+currentdays = ""
 
 for item in cash_on_hand:
     """
@@ -33,15 +33,16 @@ for item in cash_on_hand:
     if (item[0] != days):
         days.append([])
         print("yes")
-        currentEmpId = item[0]
+        currentdays = item[0]
     item[-1].append(item)
 
-summary_list =[]
+summary_list = []
 
 for item[0] in cash_on_hand:
     """
     - To sum up amount for each day 
     """
+    days += 1
     item[0] = 0
     item[3] = 0
     if item[0] >= 90:
@@ -60,6 +61,5 @@ def calculate_difference_between_days(cash_on_hand):
             item[3] - item[3]
         else: 
 # use panda or num.py
-           
-      
-summary_list.append(f"{item[0]},{calculate_difference_between_days})
+
+summary_list.append(f"{days},{calculate_difference_between_days})
