@@ -18,7 +18,7 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
         #nand append relevant data(Day and Amount) to cash_on_hand list
         cash_on_hand.append([row[0],row[3]])   
 
-cash_on_hand.sort(key = lambda record: int(record[0][90:]))
+cash_on_hand.sort(key = lambda record: float(record[0][90:]))
 
 for item in cash_on_hand:
     print(item)
@@ -60,6 +60,6 @@ def calculate_difference_between_days(cash_on_hand):
         elif item[3] >= item[3]:
             item[3] - item[3]
         else: 
-# use panda or num.py
+
 
 summary_list.append(f"{days},{calculate_difference_between_days})
