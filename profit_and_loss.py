@@ -15,41 +15,39 @@
 #     profit_and_loss.append
 
 import csv
+import requests
 
-# Function to compute the difference in net profit and find the day and amount of the highest increment
-def compute_difference_and_max_increment(file_path):
-    net_profit_column = "Net Profit"
-    net_profit_diff_column = "Net Profit Difference"
+def compute_difference_and_max_increment(csv_url):
+    response = requests.get(csv_url)
+    lines = response.text.splitlines()
 
-    data = []
-    with open(file_path, newline='') as csvfile:
-        reader = csv.reader(csvfile)
-        for row in reader:
-            data.append(row)
+    # Assuming the first line contains the column headers
+    csv_reader = csv.DictReader(lines[1:])
 
-    # Convert net profit columns to numeric
+    data = list(csv_reader)
+
+    # Convert numeric values from strings to integers
     for row in data:
-        for i in range(len(row)):
-            if row[i].startswith("Day :"):
-                row[i] = int(row[i].split("-")[-1].strip())
-            elif "," in row[i]:
-                row[i] = int(row[i].replace(",", ""))
+        for key, value in row.items():
+            if value.isnumeric():
+                row[key] = int(value.replace(',', ''))
 
-    # Compute the difference in net profit
-    for i in range(1, len(data)):
-        data[i].append(data[i][data[0].index(net_profit_column)] - data[i - 1][data[0].index(net_profit_column)])
+    # Compute the difference in the net profit column
+    net_profit_values = [row['Net Profit'] for row in data]
+    difference_in_net_profit = [net_profit_values[i] - net_profit_values[i-1] for i in range(1, len(net_profit_values))]
 
     # Find the day and amount of the highest increment
-    max_increment_day = max(data[1:], key=lambda x: x[-1])
-    max_increment_amount = max_increment_day[-1]
+    max_increment_amount = max(difference_in_net_profit)
+    max_increment_day = difference_in_net_profit.index(max_increment_amount) + 1
 
-    return data, max_increment_day[0], max_increment_amount
+    return difference_in_net_profit, max_increment_day, max_increment_amount
 
-# Get the result and print it
-result, max_increment_day, max_increment_amount = compute_difference_and_max_increment('profit_and_loss.csv')
-for row in result:
-    print(row)
+# GitHub raw CSV URL
+csv_url = 'https://raw.githubusercontent.com/urhmanda/project_group/main/csv_reports/profit_and_loss/profit_and_loss.csv'
 
-print("\nDay and amount of highest increment:")
-print("Day:", max_increment_day)
-print("Amount:", max_increment_amount)
+# Call the function with the GitHub raw CSV URL
+result, max_increment_day, max_increment_amount = compute_difference_and_max_increment(csv_url)
+
+print("Difference in Net Profit Column:", result)
+print("Day of Highest Increment:", max_increment_day)
+print("Amount of Highest Increment:", max_increment_amount)
