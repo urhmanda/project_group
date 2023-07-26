@@ -5,16 +5,14 @@ def compute_difference_and_max_increment(csv_url):
     response = urllib.request.urlopen(csv_url)
     lines = response.read().decode('utf-8').splitlines()
 
-    # Assuming the first line contains the column headers
-    csv_reader = csv.reader(lines[1:])
-
-    # Skip the first row (header row) to get the data rows
-    next(csv_reader, None)
-
     # Convert numeric values from strings to integers and handle missing values
     data = []
     net_profit_values = []
-    for row in csv_reader:
+    for idx, row in enumerate(csv.reader(lines)):
+        # Skip the first row (assuming it contains column headers)
+        if idx == 0:
+            continue
+
         row_data = []
         for cell in row:
             try:
