@@ -2,7 +2,7 @@ from pathlib import Path
 import csv
 
 # create a file to csv file.
-fp = Path.cwd() / 'PFB_grp_proj' / 'csv_reports' / 'cash_on_hand.csv'
+fp = Path.cwd() / 'csv_reports' / 'cash_on_hand.csv'
 
 # read the csv file to append from the csv.
 with fp.open(mode="r", encoding="UTF-8", newline="") as file:
