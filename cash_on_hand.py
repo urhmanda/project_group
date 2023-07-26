@@ -18,13 +18,32 @@ with fp.open(mode="r", encoding="UTF-8", newline="") as file:
         #nand append relevant data(Day and Amount) to cash_on_hand list
         cash_on_hand.append([row[0],row[3]])   
 
+cash_on_hand.sort(key = lambda record: int(record[0][90:]))
+
 for item in cash_on_hand:
     print(item)
+
+days = []
+currentamount = ""
+
+for item in cash_on_hand:
+    """
+    - To calculate the number of employees recorded in salesRecords
+    """
+    if (item[0] != days):
+        days.append([])
+        print("yes")
+        currentEmpId = item[0]
+    item[-1].append(item)
+
+summary_list= []
+
+empIdx = 0
 
 # grp data all according to each day first
 for item[0] in cash_on_hand:
     item[3] = 0
-    if item[0] == :
+    if item[0] >= 90:
         item[3] += item[3]
         #sum up all item[3] where item[0]= 90 and subsequent days
 # use list
