@@ -24,24 +24,26 @@ for item in cash_on_hand:
     print(item)
 
 days = []
-currentamount = ""
+currentdays = ""
 
 for item in cash_on_hand:
     """
-    - To calculate the number of employees recorded in salesRecords
+    - To calculate the number of days recorded in salesRecords
     """
     if (item[0] != days):
         days.append([])
         print("yes")
-        currentEmpId = item[0]
+        currentdays = item[0]
     item[-1].append(item)
 
-summary_list= []
+summary_list = []
 
-empIdx = 0
-
-# grp data all according to each day first
 for item[0] in cash_on_hand:
+    """
+    - To sum up amount for each day 
+    """
+    days += 1
+    item[0] = 0
     item[3] = 0
     if item[0] >= 90:
         item[3] += item[3]
@@ -50,7 +52,7 @@ for item[0] in cash_on_hand:
 
 def calculate_difference_between_days(cash_on_hand):
      """
-     - To calculate 
+     - To calculate the difference in amount (increase or decrease) between each day 
      """
      for item[3] in cash_on_hand:
         if item[3] <= item[3]:
@@ -59,9 +61,5 @@ def calculate_difference_between_days(cash_on_hand):
             item[3] - item[3]
         else: 
 # use panda or num.py
-           
-      
-summary_list.append(f"{item[0]},{calculate_difference_between_days})
 
-
-
+summary_list.append(f"{days},{calculate_difference_between_days})
