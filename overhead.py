@@ -38,11 +38,18 @@ def overhead_summary(overhead):
 
     # calculate the total amount for the given overhead in each overhead record
     amount = 0
-    for item in overhead:
+    for item in overheadrecords:
         if item[0] == overhead:
             amount += float(item[1])
 
     # calculate the overhead percentages
     overhead_percent = 0
-    for item in overhead:
-        if item 
+    for item in overheadrecords:
+        if item[0] not in overhead_percent:
+            overhead_percent += float(item[1]) / amount * 100
+    
+    return (f'{}')
+
+
+
+
