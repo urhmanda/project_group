@@ -37,9 +37,7 @@ for item in cash_on_hand:
 number_of_days = len(days_set)
 print("Number of days recorded:", number_of_days)
 
-summary_list = []
-
-sum_of_each_day = []
+sum_of_each_day = {}
 for item in cash_on_hand:
     day = item[0]
     amount = item[3]
@@ -68,7 +66,7 @@ def calculate_difference_between_days(cash_on_hand):
          return differences
      differences= calculate_difference_between_days(cash_on_hand)
 
-for i, difference in enumerate( calculate_difference_between_days, item[3]):
+for i, difference in enumerate( calculate_difference_between_days, start = 3):
     """
     - To collate values calculated for the number of Days and the difference in amount between each of the days
     """
