@@ -53,7 +53,7 @@ def overhead_summary(overhead):
         if item[0] not in overhead_percent:
             overhead_percent += float(item[1]) / amount * 100
     
-    return (f'{}')
+    return (f'{overhead_percent}')
 
 
 
