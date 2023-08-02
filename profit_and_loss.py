@@ -43,7 +43,7 @@ def profit_loss_function():
 
     result_str = "" # result_str will store formatted profit deficits information as a string
     for day, deficit in profit_deficits:
-            result_str += f"[PROFIT DEFICIT] DAY: {day}, AMOUNT: USD{deficit}\n"
+        result_str += f"[PROFIT DEFICIT] DAY: {day}, AMOUNT: USD{deficit}\n"
     return result_str
 
         
