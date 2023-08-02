@@ -1,34 +1,33 @@
 def inside_PNL():
     import csv
 
-    # Function to check for cash deficit
-    def check_cash_deficit(data):
-        cash_deficit_days = []
-        prev_profit = None
+    def find_cash_deficit(data):
+        cash_deficit_list = []
+        for i in range(1, len(data)):
+            day, cash = data[i]
+            prev_day, prev_cash = data[i - 1]
+            if cash > prev_cash:
+                cash_deficit = cash - prev_cash
+                cash_deficit_list.append((day, cash_deficit))
+        return cash_deficit_list
 
-        for row in data:
-            day, _, _, _, net_profit = row
-            net_profit = int(net_profit)
+    def read_csv_data(file_path):
+        data = []
+        # Provide the relative file path directly
+        with open(file_path, newline='') as csvfile:
+            reader = csv.reader(csvfile)
+            next(reader)  # Skip the header if it exists
+            for row in reader:
+                day = int(row[0])
+                cash = int(row[1])
+                data.append((day, cash))
+        return data
 
-            if prev_profit is not None and net_profit < prev_profit:
-                deficit_amount = prev_profit - net_profit
-                cash_deficit_days.append((day, deficit_amount))
+    # Provide the relative file path directly for 'PNL.csv'
+    csv_file_path = "csv_reports/PNL.csv"
+    data = read_csv_data(csv_file_path)
 
-            prev_profit = net_profit
+    cash_deficits = find_cash_deficit(data)
 
-        return cash_deficit_days
-
-    # Read data from CSV file
-    data = []
-    with open("PNL.csv", "r") as file:
-        csv_reader = csv.reader(file)
-        headers = next(csv_reader)  # Skip header row
-        for row in csv_reader:
-            data.append(row)
-
-    # Check for cash deficit days
-    cash_deficit_days = check_cash_deficit(data)
-
-    # Print the messages for cash deficit days
-    for day, deficit_amount in cash_deficit_days:
-        print(f"[PROFIT DEFICIT] Day: {day}, Amount: USD{deficit_amount}")
+    for day, deficit in cash_deficits:
+        print(f"[PROFIT DEFICIT] Day: {day}, Amount: USD{deficit}")

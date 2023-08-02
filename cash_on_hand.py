@@ -22,7 +22,8 @@ def inside_COH():
                 data.append((day, cash))
         return data
 
-    csv_file_path = "COH.csv"
+    # Provide the relative file path directly
+    csv_file_path = "csv_reports/COH.csv"
     data = read_csv_data(csv_file_path)
 
     cash_deficits = find_cash_deficit(data)
