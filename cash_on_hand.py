@@ -29,4 +29,3 @@ def inside_COH():
 
     for day, deficit in cash_deficits:
         print(f"[CASH DEFICIT] DAY: {day}, AMOUNT: USD{deficit}")
-inside_COH()
