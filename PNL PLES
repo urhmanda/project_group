@@ -41,7 +41,7 @@ def profitandloss_function():
                 with fp_write.open(mode="a", encoding="UTF8", newline="") as file:
                     #Current day subtract the previous day net profit
                     difference=previous_pnl-current_pnl
-                    file.write(f"[PROFIT DEFICIT] Day:{row[0]}, AMOUN: USD({difference}\n)")
+                    file.write(f"[PROFIT DEFICIT] Day:{row[0]}, AMOUNT: USD({difference}\n)")
                 #assign the previous net profit to the new current net profit so that the process can continue
                 previous_pnl = current_pnl
 
