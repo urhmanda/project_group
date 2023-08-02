@@ -1,4 +1,4 @@
-def inside_PNL():
+def profit_loss_function():
     import csv
 
     def find_cash_deficit(data):

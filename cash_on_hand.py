@@ -1,4 +1,4 @@
-def inside_COH():
+def coh_function():
     import csv
 
     def find_cash_deficit(data):
