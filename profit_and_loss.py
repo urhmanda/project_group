@@ -7,9 +7,9 @@ def profit_loss_function():
         for i in range(1, len(data)):
             day, profit = data[i]
             prev_day, prev_profit = data[i - 1]
-            if profit > prev_profit:
+            if profit < prev_profit:
                 """
-                - To calculate difference in amount of profit if current day's profit is less than previous day's
+                - To calculate difference in amount of profit if current day's profit is lesser than previous day's
                 """
                 profit_deficit = profit - prev_profit
                 profit_deficit_list.append((day, profit_deficit))
