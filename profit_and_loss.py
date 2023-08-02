@@ -7,6 +7,9 @@ def inside_PNL():
             day, cash = data[i]
             prev_day, prev_cash = data[i - 1]
             if cash > prev_cash:
+                """
+                - To calculate difference in amount of cash if current day's cash is less than previous day's
+                """
                 cash_deficit = cash - prev_cash
                 cash_deficit_list.append((day, cash_deficit))
         return cash_deficit_list
@@ -18,6 +21,9 @@ def inside_PNL():
             reader = csv.reader(csvfile)
             next(reader)  # Skip the header if it exists
             for row in reader:
+                """
+                - To add data for number of days and amount of cash into "data", which is an empty list
+                """
                 day = int(row[0])
                 cash = int(row[1])
                 data.append((day, cash))
