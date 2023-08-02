@@ -31,4 +31,4 @@ def inside_PNL():
 
     # Print the messages for cash deficit days
     for day, deficit_amount in cash_deficit_days:
-        print(f"[PROFIT DEFICIT] Day: {day}, Amount: USD{deficit_amount}")
+        print(f"[PROFIT DEFICIT] DAY: {day}, AMOUNT: USD{deficit_amount}")
