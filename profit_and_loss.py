@@ -1,35 +1,41 @@
+def profit_loss_function():
+    import csv
 
-import csv
+    def find_profit_deficit(data):
+        '''
+        - This function finds profit deficits in data
+        '''
+        profit_deficit_list = []
+        for i in range(1, len(data)):
+            day, profit = data[i]
+            prev_day, prev_profit = data[i - 1]
+            if profit > prev_profit:
+                profit_deficit = profit - prev_profit
+                profit_deficit_list.append((day, profit_deficit))
+        return profit_deficit_list
 
-def read_csv(file_path):
-    with open(file_path, 'r') as file:
-        csv_reader = csv.reader(file)
-        header = next(csv_reader)
-        data = [list(map(int, row)) for row in csv_reader]
-    return header, data
+    def read_csv_data(file_path):
+        '''
+        - This function reads data from csv file and return a list of tuples
+        '''
+        data = []
+        # Provide the relative file path directly
+        with open(file_path, newline='') as csvfile:
+            reader = csv.reader(csvfile)
+            next(reader)  # Skip the header if it exists
+            for row in reader:
+                day = int(row[0])
+                profit = int(row[1])
+                data.append((day, profit))
+        return data
 
-def check_profit_deficit(data):
-    deficit_days = []
-    previous_net_profit = None
+    # Provide the relative file path directly for 'PNL.csv'
+    csv_file_path = "csv_reports/profit_loss.csv"
+    data = read_csv_data(csv_file_path)
 
-    for day, _, _, _, net_profit in data:
-        if previous_net_profit is not None and net_profit < previous_net_profit:
-            deficit_days.append((day, previous_net_profit - net_profit))
-        previous_net_profit = net_profit
+    profit_deficits = find_profit_deficit(data)
 
-    return deficit_days
-
-def main():
-    file_path = "csv_reports/Profit and Loss.csv"
-    header, data = read_csv(file_path)
-
-    deficit_days = check_profit_deficit(data)
-
-    if deficit_days:
-        for day, deficit in deficit_days:
-            print(f"[PROFIT DEFICIT] Day: {day}, Amount: USD {deficit}")
-    else:
-        print("No days with lower net profit than the previous day.")
-
-if __name__ == "__main__":
-    main()
+    result_str = "" # result_str will store formatted output as a string
+    for day, deficit in profit_deficits:
+        result_str += f"[PROFIT DEFICIT] Day: {day}, Amount: USD{deficit}\n"
+    return result_str

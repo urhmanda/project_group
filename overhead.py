@@ -1,4 +1,4 @@
-def inside_overhead():
+def overhead_function():
     from pathlib import Path
     import csv
 
@@ -20,8 +20,6 @@ def inside_overhead():
             - and append the overhead list
             """
             overheadrecords.append([row[1],row[3]])   
-
-
 
     # create an empty list to store unique overheads from overheadrecords
     overhead_list = [] 
@@ -67,10 +65,12 @@ def inside_overhead():
             highest_overhead = total_overhead 
             highest_overhead_category = overhead_category 
 
+    result_str = "" # result_str will store formatted output as a string
     # find the percentage of highest overhead if the total of all overhead expenses is not equal to 0 
     if total_all_overhead != 0:
         highest_overhead_percentage = (highest_overhead / total_all_overhead) * 100
-        print(f'[HIGHEST OVERHEAD] {highest_overhead_category.upper()}: {round(highest_overhead_percentage,2)}%')
+        result_str += f'[HIGHEST OVERHEAD] {highest_overhead_category.upper()}: {round(highest_overhead_percentage,2)}%\n'
+    return result_str
         
 
 
