@@ -40,7 +40,7 @@ def profit_loss_function():
                     with fp_write.open(mode="a", encoding="UTF8", newline="") as file:
                         #the difference between net profit on the previous day and the current day
                         difference = prev_pl - curr_pl
-                        file.write(f"[NET PROFIT DEFICIT] DAY:{row[0]}, AMOUNT: USD{difference}\n")
+                        file.write(f"[PROFIT DEFICIT] DAY:{row[0]}, AMOUNT: USD{difference}\n")
                 #assign the previous net profit to the current net profit so the loop can restart
                 prev_pl = curr_pl
 
@@ -48,7 +48,7 @@ def profit_loss_function():
         if output == 1:
             #write the result to a text file
             with fp_write.open(mode="a", encoding="UTF8", newline="") as file:
-                file.write(f"[NET PROFIT SURPLUS] CASH ON EACH DAY IS HIGHER THAN THE PREVIOUS DAY\n")
+                file.write(f"[PROFIT SURPLUS] CASH ON EACH DAY IS HIGHER THAN THE PREVIOUS DAY\n")
 
     #end the function
     PNL_F()
