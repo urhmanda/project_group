@@ -1,65 +1,31 @@
-def inside_cash():
-    from pathlib import Path
+def inside_COH():
     import csv
 
-    # Create a file path to the CSV file.
-    fp = Path.cwd() / 'csv_reports' / 'cash_on_hand.csv'
+    def find_cash_deficit(data):
+        cash_deficit_list = []
+        for i in range(1, len(data)):
+            day, cash = data[i]
+            prev_day, prev_cash = data[i - 1]
+            if cash < prev_cash:
+                cash_deficit = prev_cash - cash
+                cash_deficit_list.append((day, cash_deficit))
+        return cash_deficit_list
 
-    # Read the CSV file to append from the CSV.
-    with fp.open(mode="r", encoding="UTF-8", newline="") as file:
-        reader = csv.reader(file)
-        next(reader)  # To skip the header
+    def read_csv_data(file_path):
+        data = []
+        with open(file_path, newline='') as csvfile:
+            reader = csv.reader(csvfile)
+            next(reader)  # Skip the header if it exists
+            for row in reader:
+                day = int(row[0])
+                cash = int(row[1])
+                data.append((day, cash))
+        return data
 
-        # Create a dictionary to store cash on hand records for each day
-        cash_on_hand = {}
+    csv_file_path = "COH.csv"
+    data = read_csv_data(csv_file_path)
 
-        # Append cash on hand records into the cash_on_hand dictionary
-        for row in reader:
-            day = row[0]
-            amount = row[3]
+    cash_deficits = find_cash_deficit(data)
 
-            # Check if the amount is numeric or not
-            if not amount.replace('.', '', 1).isdigit():
-                # If the amount is non-numeric, ignore it and continue to the next record
-                continue
-
-            amount = float(amount)
-
-            if day not in cash_on_hand:
-                cash_on_hand[day] = amount
-            else:
-                cash_on_hand[day] += amount
-
-    # Generate a list of all possible days within the range (0 to 90)
-    all_days = [str(day) for day in range(0, 91)]
-
-    # Sort the list based on the day
-    sorted_cash_on_hand = sorted(cash_on_hand.items(), key=lambda item: item[0])
-
-    # Calculate the differences in Cash-on-Hand between each day
-    differences = []
-    current_cash = 0.0
-
-    for day in all_days:
-        if day in cash_on_hand:
-            current_cash = cash_on_hand[day]
-        differences.append(current_cash)
-
-    # Calculate the differences in Cash-on-Hand between each day
-    differences = [differences[i] - differences[i - 1] for i in range(1, len(differences))]
-
-    # Track the highest increment and its corresponding day and amount
-    highest_increment = max(differences)
-    highest_increment_index = differences.index(highest_increment)
-    highest_increment_day = all_days[highest_increment_index + 1]
-    highest_increment_amount = cash_on_hand[highest_increment_day]
-
-    number_of_days = len(all_days)
-    print("Number of days recorded:", number_of_days)
-
-    for i, difference in enumerate(differences, start=1):
-        print(f"Day {i}: Difference in Amount: {difference}")
-
-    print(f"\nHighest Increment:")
-    print(f"Day: {highest_increment_day}")
-    print(f"Amount: {highest_increment_amount}")
+    for day, deficit in cash_deficits:
+        print(f"[CASH DEFICIT] Day: {day}, Amount: USD{deficit}")
