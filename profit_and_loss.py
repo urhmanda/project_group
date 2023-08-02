@@ -33,8 +33,8 @@ def profit_loss_function():
             return data
 
         # Provide the relative file path directly
-        csv_file_path = "csv_reports/cash_on_hand.csv"
-        data = read_csv_data(csv_file_path)
+        csv_file_path = "csv_reports/profit_loss.csv"
+         data = read_csv_data(csv_file_path)
 
         cash_deficits = find_cash_deficit(data)
 
