@@ -1,41 +1,58 @@
 def profit_loss_function():
+    from pathlib import Path
     import csv
 
-    def find_profit_deficit(data):
-        '''
-        - This function finds profit deficits in data
-        '''
-        profit_deficit_list = []
-        for i in range(1, len(data)):
-            day, profit = data[i]
-            prev_day, prev_profit = data[i - 1]
-            if profit > prev_profit:
-                profit_deficit = profit - prev_profit
-                profit_deficit_list.append((day, profit_deficit))
-        return profit_deficit_list
+    #define the funciton being used for the calculation of cash surplus or deficit
+    def PNL_F():
+        """"
+        This calculates either the net profit surplus for each day or the net profit deficit for each day.
+        """
+        #Read the Profit and Loss excel from csv_reports
+        fp_read = Path.cwd() /"csv_reports\Profit and Loss.csv"
+        #Put the output into a new .txt file
+        fp_write = Path.cwd() /"summary_report.txt"
+        fp_write.touch()
 
-    def read_csv_data(file_path):
-        '''
-        - This function reads data from csv file and return a list of tuples
-        '''
-        data = []
-        # Provide the relative file path directly
-        with open(file_path, newline='') as csvfile:
-            reader = csv.reader(csvfile)
-            next(reader)  # Skip the header if it exists
+        #assign the variable for the net profit on the previous day, equate it to 0
+        prev_pl = 0
+        #assign the variable for the net profit on the current day, equate it to 0
+        curr_pl = 0
+
+        #assign a variable for the output type for the possible outcomes (deficit/surplus)
+        output = 1
+
+        #open the excel file and begin the commands needed on the excel file
+        with fp_read.open(mode="r", encoding="UTF8", newline="") as file:
+            # create csv reader object using csv
+            reader = csv.reader(file)
+            # to skip reading header
+            next(reader)
+            # iterate each row with loop
             for row in reader:
-                day = int(row[0])
-                profit = int(row[1])
-                data.append((day, profit))
-        return data
+                #assign the value in the second columnn with index to the current net profit
+                curr_pl = float(row[4])
+                #create an event where if the current net profit is less than the previous net profit
+                if curr_pl < prev_pl:
+                    #assign the output to a different value to indicate a different output type
+                    output = 2
 
-    # Provide the relative file path directly for 'PNL.csv'
-    csv_file_path = "csv_reports/profit_loss.csv"
-    data = read_csv_data(csv_file_path)
+                    # write the result to a text file
+                    with fp_write.open(mode="a", encoding="UTF8", newline="") as file:
+                        #the difference between net profit on the previous day and the current day
+                        difference = prev_pl - curr_pl
+                        file.write(f"[NET PROFIT DEFICIT] DAY:{row[0]}, AMOUNT: USD{difference}\n")
+                #assign the previous net profit to the current net profit so the loop can restart
+                prev_pl = curr_pl
 
-    profit_deficits = find_profit_deficit(data)
+        #create a condition where ouput = 1, which is when the deficit condition is not fufilled, meaning that the result is a surplus
+        if output == 1:
+            #write the result to a text file
+            with fp_write.open(mode="a", encoding="UTF8", newline="") as file:
+                file.write(f"[NET PROFIT SURPLUS] CASH ON EACH DAY IS HIGHER THAN THE PREVIOUS DAY\n")
 
-    result_str = "" # result_str will store formatted output as a string
-    for day, deficit in profit_deficits:
-        result_str += f"[PROFIT DEFICIT] Day: {day}, Amount: USD{deficit}\n"
-    return result_str
+    #end the function
+    PNL_F()
+
+
+
+
