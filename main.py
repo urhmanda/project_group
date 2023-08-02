@@ -1,4 +1,4 @@
-import cash_on_hand, overhead, profit_and_loss, PNL
+import cash_on_hand, overhead, profit_and_loss
 
 def main():
     overhead_output = overhead.overhead_function()
