@@ -1,61 +1,33 @@
-def inside_profitnloss():
-    import csv
-    import urllib.request
+import csv
 
-    def compute_difference_and_max_increment(csv_url):
-        response = urllib.request.urlopen(csv_url)
-        lines = response.read().decode('utf-8').splitlines()
+# Function to check for cash deficit
+def check_cash_deficit(data):
+    cash_deficit_days = []
+    prev_profit = None
 
-        # Convert numeric values from strings to integers and handle missing values
-        data = []
-        net_profit_values = []
-        for idx, row in enumerate(csv.reader(lines)):
-            # Skip the first row (assuming it contains column headers)
-            if idx == 0:
-                continue
+    for row in data:
+        day, _, _, _, net_profit = row
+        net_profit = int(net_profit)
 
-            row_data = []
-            for cell in row:
-                try:
-                    value = int(cell.replace(',', '').replace('(', '').replace(')', ''))
-                except ValueError:
-                    value = None
-                row_data.append(value)
-            data.append(row_data)
-            if row_data[-1] is not None:
-                net_profit_values.append(row_data[-1])
+        if prev_profit is not None and net_profit < prev_profit:
+            deficit_amount = prev_profit - net_profit
+            cash_deficit_days.append((day, deficit_amount))
 
-        # Consider data for the first 90 days if available
-        if len(net_profit_values) >= 90:
-            net_profit_values = net_profit_values[:90]
+        prev_profit = net_profit
 
-            # Compute the difference in the net profit column
-            difference_in_net_profit = []
-            for i in range(1, len(net_profit_values)):
-                difference = net_profit_values[i] - net_profit_values[i-1]
-                difference_in_net_profit.append(difference)
+    return cash_deficit_days
 
-            # Find the day and amount of the highest increment
-            max_increment_amount = max(difference_in_net_profit)
-            max_increment_day = difference_in_net_profit.index(max_increment_amount) + 1
+# Read data from CSV file
+data = []
+with open("PNL.csv", "r") as file:
+    csv_reader = csv.reader(file)
+    headers = next(csv_reader)  # Skip header row
+    for row in csv_reader:
+        data.append(row)
 
-            return data, difference_in_net_profit, max_increment_day, max_increment_amount
+# Check for cash deficit days
+cash_deficit_days = check_cash_deficit(data)
 
-        else:
-            return None, None, None, None
-
-    csv_url = 'https://raw.githubusercontent.com/urhmanda/project_group/main/csv_reports/profit_and_loss/profit_and_loss.csv'
-
-    try:
-        # Call the function with the provided CSV URL
-        data, result, max_increment_day, max_increment_amount = compute_difference_and_max_increment(csv_url)
-
-        if data is not None and max_increment_amount is not None:
-            print("Difference in Net Profit Column:", result)
-            print("Day of Highest Increment:", max_increment_day)
-            print("Amount of Highest Increment:", max_increment_amount)
-        else:
-            print("No data or invalid data in the 'Net Profit' column.")
-
-    except Exception as e:
-        print("Error:", e)
+# Print the messages for cash deficit days
+for day, deficit_amount in cash_deficit_days:
+    print(f"[CASH DEFICIT] Day: {day}, Amount: USD{deficit_amount}")
