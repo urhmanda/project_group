@@ -29,7 +29,7 @@ def profit_loss_function():
 
     cash_deficits = find_cash_deficit(data)
 
-    result_str = ""
+    result_str = "" # result_str will store formatted output as a string
     for day, deficit in cash_deficits:
         result_str += f"[PROFIT DEFICIT] Day: {day}, Amount: USD{deficit}\n"
     return result_str

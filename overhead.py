@@ -67,8 +67,8 @@ def overhead_function():
             highest_overhead = total_overhead 
             highest_overhead_category = overhead_category 
 
+    result_str = "" # result_str will store formatted output as a string
     # find the percentage of highest overhead if the total of all overhead expenses is not equal to 0 
-    result_str = ""
     if total_all_overhead != 0:
         highest_overhead_percentage = (highest_overhead / total_all_overhead) * 100
         result_str += f'[HIGHEST OVERHEAD] {highest_overhead_category.upper()}: {round(highest_overhead_percentage,2)}%\n'
