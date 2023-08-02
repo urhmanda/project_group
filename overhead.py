@@ -21,8 +21,6 @@ def overhead_function():
             """
             overheadrecords.append([row[1],row[3]])   
 
-
-
     # create an empty list to store unique overheads from overheadrecords
     overhead_list = [] 
 
