@@ -36,7 +36,7 @@ def inside_overhead():
     # create an empty list to store results of overhead_summary for each overhead
     overhead_summary = []
 
-    def overhead_summary(overhead_category):
+    def overhead_amount(overhead_category):
         """
         - This function returns total amount based on overhead category
         - Required parameters: Overhead category 
@@ -53,19 +53,21 @@ def inside_overhead():
     total_all_overhead = 0
     highest_overhead = 0 
     highest_overhead_category = ""
-    for overhead_category in overhead_list:
-        total_overhead = overhead_summary(overhead_category) 
-        total_all_overhead += total_overhead
 
-        if total_overhead > highest_overhead:
+    for overhead_category in overhead_list:
+        total_overhead = overhead_amount(overhead_category) # call overhead_amount(overhead_category) 
+        total_all_overhead += total_overhead # get the sum of total overhead amount for all categories
+
+        if total_overhead > highest_overhead: 
             highest_overhead = total_overhead
             highest_overhead_category = overhead_category
 
+    # find the percentage of highest overhead if the total of all overhead expenses is not equal to 0 
     if total_all_overhead != 0:
         highest_overhead_percentage = (highest_overhead / total_all_overhead) * 100
         print(f'[HIGHEST OVERHEAD] {highest_overhead_category.upper()}: {round(highest_overhead_percentage,2)}%')
         
-inside_overhead()
+inside_overhead() 
 
 
 
