@@ -1,8 +1,11 @@
 def profit_loss_function():
-    from pathlib import Path
+    # from pathlib import Path
     import csv
 
     def find_profit_deficit(data):
+        '''
+        - This function finds profit deficits in data
+        '''
         profit_deficit_list = []
         for i in range(1, len(data)):
             day, profit = data[i]
@@ -11,7 +14,7 @@ def profit_loss_function():
                 """
                 - To calculate difference in amount of profit if current day's profit is lesser than previous day's
                 """
-                profit_deficit = profit - prev_profit
+                profit_deficit = prev_profit - profit
                 profit_deficit_list.append((day, profit_deficit))
         return profit_deficit_list
 
