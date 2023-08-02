@@ -1,33 +1,35 @@
-def inside_PNL():
-    import csv
 
-    def find_cash_deficit(data):
-        cash_deficit_list = []
-        for i in range(1, len(data)):
-            day, cash = data[i]
-            prev_day, prev_cash = data[i - 1]
-            if cash > prev_cash:
-                cash_deficit = cash - prev_cash
-                cash_deficit_list.append((day, cash_deficit))
-        return cash_deficit_list
+import csv
 
-    def read_csv_data(file_path):
-        data = []
-        # Provide the relative file path directly
-        with open(file_path, newline='') as csvfile:
-            reader = csv.reader(csvfile)
-            next(reader)  # Skip the header if it exists
-            for row in reader:
-                day = int(row[0])
-                cash = int(row[1])
-                data.append((day, cash))
-        return data
+def read_csv(file_path):
+    with open(file_path, 'r') as file:
+        csv_reader = csv.reader(file)
+        header = next(csv_reader)
+        data = [list(map(int, row)) for row in csv_reader]
+    return header, data
 
-    # Provide the relative file path directly for 'PNL.csv'
-    csv_file_path = "csv_reports/PNL.csv"
-    data = read_csv_data(csv_file_path)
+def check_profit_deficit(data):
+    deficit_days = []
+    previous_net_profit = None
 
-    cash_deficits = find_cash_deficit(data)
+    for day, _, _, _, net_profit in data:
+        if previous_net_profit is not None and net_profit < previous_net_profit:
+            deficit_days.append((day, previous_net_profit - net_profit))
+        previous_net_profit = net_profit
 
-    for day, deficit in cash_deficits:
-        print(f"[PROFIT DEFICIT] Day: {day}, Amount: USD{deficit}")
+    return deficit_days
+
+def main():
+    file_path = "csv_reports/Profit and Loss.csv"
+    header, data = read_csv(file_path)
+
+    deficit_days = check_profit_deficit(data)
+
+    if deficit_days:
+        for day, deficit in deficit_days:
+            print(f"[PROFIT DEFICIT] Day: {day}, Amount: USD {deficit}")
+    else:
+        print("No days with lower net profit than the previous day.")
+
+if __name__ == "__main__":
+    main()
