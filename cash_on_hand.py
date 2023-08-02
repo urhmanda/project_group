@@ -23,10 +23,12 @@ def coh_function():
         return data
 
     # Provide the relative file path directly
-    csv_file_path = "csv_reports/COH.csv"
+    csv_file_path = "csv_reports/cash_on_hand.csv"
     data = read_csv_data(csv_file_path)
 
     cash_deficits = find_cash_deficit(data)
 
+    result_str = ""
     for day, deficit in cash_deficits:
-        print(f"[CASH DEFICIT] DAY: {day}, AMOUNT: USD{deficit}")
+        result_str += f"[CASH DEFICIT] DAY: {day}, AMOUNT: USD{deficit}\n"
+    return result_str

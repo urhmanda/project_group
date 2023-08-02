@@ -24,10 +24,12 @@ def profit_loss_function():
         return data
 
     # Provide the relative file path directly for 'PNL.csv'
-    csv_file_path = "csv_reports/PNL.csv"
+    csv_file_path = "csv_reports/profit_loss.csv"
     data = read_csv_data(csv_file_path)
 
     cash_deficits = find_cash_deficit(data)
 
+    result_str = ""
     for day, deficit in cash_deficits:
-        print(f"[PROFIT DEFICIT] Day: {day}, Amount: USD{deficit}")
+        result_str += f"[PROFIT DEFICIT] Day: {day}, Amount: USD{deficit}\n"
+    return result_str
