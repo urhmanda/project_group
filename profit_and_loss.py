@@ -8,7 +8,7 @@ def profit_loss_function():
         This calculates either the net profit surplus for each day or the net profit deficit for each day.
         """
         #Read the Profit and Loss excel from csv_reports
-        fp_read = Path.cwd() /"csv_reports\Profit and Loss.csv"
+        fp_read = Path.cwd() /"csv_reports\profit_loss.csv"
         #Put the output into a new .txt file
         fp_write = Path.cwd() /"summary_report.txt"
         fp_write.touch()
