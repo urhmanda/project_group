@@ -33,14 +33,14 @@ def profit_loss_function():
             return data
 
         # Provide the relative file path directly
-        csv_file_path = "csv_reports/profit_loss.csv"
-         data = read_csv_data(csv_file_path)
+    csv_file_path = "csv_reports/profit_loss.csv"
+    data = read_csv_data(csv_file_path)
 
-        cash_deficits = find_cash_deficit(data)
+    cash_deficits = find_cash_deficit(data)
 
-        result_str = "" # result_str will store formatted cash deficits information as a string
-        for day, deficit in cash_deficits:
+    result_str = "" # result_str will store formatted cash deficits information as a string
+    for day, deficit in cash_deficits:
             result_str += f"[CASH DEFICIT] DAY: {day}, AMOUNT: USD{deficit}\n"
-        return result_str
+    return result_str
 
         
