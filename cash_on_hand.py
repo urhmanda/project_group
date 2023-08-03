@@ -1,26 +1,38 @@
 def coh_function():
     import csv
 
-    def find_cash_deficit(data):
+    def find_cash_deficit_and_surplus(data):
         '''
-        - This function finds cash deficits in data
+        - This function finds cash deficits and the highest net cash surplus in data
         '''
         cash_deficit_list = []
+        highest_increment_day = None
+        highest_increment_amount = 0
+
         for i in range(1, len(data)):
             day, cash = data[i]
             prev_day, prev_cash = data[i - 1]
-            if cash < prev_cash:
-                """
-                - To calculate difference in amount of cash on hand if current day's cash is lesser than previous day's
-                """
+
+            # Calculate net cash increment for current day
+            increment = cash - prev_cash
+
+            if increment < 0:
+                # To calculate difference in net cash if current day's cash is lesser than previous day's
                 cash_deficit = prev_cash - cash
                 cash_deficit_list.append((day, cash_deficit))
-        return cash_deficit_list
+           
+            elif increment > 0:
+                # Checks if increment is higher than previous highest 
+                if increment > highest_increment_amount:
+                    highest_increment_day = day
+                    highest_increment_amount = increment
+    
+        return cash_deficit_list, highest_increment_day, highest_increment_amount
 
     def read_csv_data(file_path):
-        '''
+        """
         - This function reads data from csv file and return a list of tuples
-        '''
+        """
         data = []
         with open(file_path, newline='') as csvfile:
             reader = csv.reader(csvfile)
@@ -38,9 +50,16 @@ def coh_function():
     csv_file_path = "csv_reports/cash_on_hand.csv"
     data = read_csv_data(csv_file_path)
 
-    cash_deficits = find_cash_deficit(data)
+    cash_deficits, highest_increment_day, highest_increment_amount = find_cash_deficit_and_surplus(data)
 
-    result_str = "" # result_str will store formatted cash deficits information as a string
-    for day, deficit in cash_deficits:
-        result_str += f"[CASH DEFICIT] DAY: {day}, AMOUNT: USD{deficit}\n"
+    result_str = "" # result_str will store formatted information about cash deficits or highest net cash surplus as a string
+
+    if cash_deficits:
+        for day, deficit in cash_deficits:
+            result_str += f"[CASH DEFICIT] DAY: {day}, AMOUNT: USD{deficit}\n"
+    else:
+        result_str += f"[CASH SURPLUS] CASH ON EACH DAY IS HIGHER THAN PREVIOUS DAY\n"
+        if highest_increment_day is not None:
+            result_str += f"[HIGHEST NET CASH SURPLUS] DAY: {highest_increment_day}, AMOUNT: USD{highest_increment_amount}\n"
+    
     return result_str
