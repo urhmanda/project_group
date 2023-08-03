@@ -1,12 +1,12 @@
 def profit_loss_function():
-    # from pathlib import Path
     import csv
 
     def find_profit_deficit(data):
         '''
-        - This function finds profit deficits in data
+        - This function finds profit deficits  in data
         '''
         profit_deficit_list = []
+
         for i in range(1, len(data)):
             day, profit = data[i]
             prev_day, prev_profit = data[i - 1]            
