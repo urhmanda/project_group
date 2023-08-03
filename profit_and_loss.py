@@ -1,4 +1,4 @@
-def profit_loss_function2():
+def profit_loss_function():
     # from pathlib import Path
     import csv
 
@@ -31,7 +31,7 @@ def profit_loss_function2():
                 - To add data for number of days and amount of profit into "data", which is an empty list
                 """
                 day = int(row[0])
-                profit = int(row[1])
+                profit = int(row[4])
                 data.append((day, profit))
         return data
 
