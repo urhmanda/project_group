@@ -1,7 +1,3 @@
-# import the relevant modules
-from pathlib import Path
-import csv
-
 #define the function used to calculate the cash surplus/deficit
 def profitandloss_function():
     """
@@ -9,6 +5,10 @@ def profitandloss_function():
 
     there are no parameters
     """
+    # import the relevant modules
+    from pathlib import Path
+    import csv
+
     #Read the excel file of overheads from the csv_reports file
     fp_read = Path.cwd() /"project_group"/"csv_reports"/"Profit and Loss.csv"
     #write the output into a new .txt file titled "team_members.txt"
@@ -53,6 +53,6 @@ def profitandloss_function():
 
                 
 #end the function
-profitandloss_function()
+# profitandloss_function()
 
 

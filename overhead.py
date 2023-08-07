@@ -50,15 +50,12 @@ def overhead_function():
         
         return (amount)
     
-    total_all_overhead = 0
-    highest_overhead = 0 
-    highest_overhead_category = ""
+    total_all_overhead = 0 #sum of all overhead expenses for all categories
+    highest_overhead = 0  
+    highest_overhead_category = "" 
 
-    # For loop iterates through each overhead category in overhead_list
     for overhead_category in overhead_list:
-        # Calculate total overhead for current category using the overhead_amount function
         total_overhead = overhead_amount(overhead_category)  
-        # Calculate sum of all overhead expenses for all categories
         total_all_overhead += total_overhead 
 
         # If statement checks if total overhead of current category is higher than current highest overhead 
