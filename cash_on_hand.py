@@ -1,3 +1,4 @@
+#Creates a function to find cash deficits
 def coh_function():
     import csv
 
@@ -13,7 +14,7 @@ def coh_function():
             day, cash = data[i]
             prev_day, prev_cash = data[i - 1]
 
-            # Calculate net cash increment for current day
+            # To calculate the net cash increment for each current day
             increment = cash - prev_cash
 
             if increment < 0:
