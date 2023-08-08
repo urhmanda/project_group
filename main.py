@@ -1,3 +1,4 @@
+#Imports the functions of cash_on_hand.py, overhead.py and profit_and_loss.py
 import cash_on_hand, overhead, profit_and_loss
 
 def main():
