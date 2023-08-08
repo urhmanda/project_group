@@ -10,7 +10,7 @@ def main():
     return(overhead_output,coh_output,profitloss_output)
 
 overhead_output,coh_output,profitloss_output = main()
-
+# print(profitloss_output)
 with open('summary_report.txt', 'w') as file:
     file.write(overhead_output + coh_output + profitloss_output)
     

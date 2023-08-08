@@ -1,58 +1,67 @@
 def profit_loss_function():
-    from pathlib import Path
     import csv
 
-    #define the funciton being used for the calculation of cash surplus or deficit
-    def PNL_F():
-        """"
-        This calculates either the net profit surplus for each day or the net profit deficit for each day.
+    def find_profit_deficit_and_surplus(data):
+        '''
+        - This function finds profit deficits and the highest net profit surplus in data
+        '''
+        profit_deficit_list = []
+        highest_increment_day = None
+        highest_increment_amount = 0
+
+        for i in range(1, len(data)):
+            day, profit = data[i]
+            prev_day, prev_profit = data[i - 1]
+
+            # Calculate net profit increment for current day
+            increment = profit - prev_profit
+
+            if increment < 0:
+                # To calculate difference in net profit if current day's profit is lesser than previous day's
+                profit_deficit = prev_profit - profit
+                profit_deficit_list.append((day, profit_deficit))
+           
+            elif increment > 0:
+                # Checks if increment is higher than previous highest 
+                if increment > highest_increment_amount:
+                    highest_increment_day = day
+                    highest_increment_amount = increment
+    
+        return profit_deficit_list, highest_increment_day, highest_increment_amount
+
+    def read_csv_data(file_path):
         """
-        #Read the Profit and Loss excel from csv_reports
-        fp_read = Path.cwd() /"csv_reports\profit_loss.csv"
-        #Put the output into a new .txt file
-        fp_write = Path.cwd() /"summary_report.txt"
-        fp_write.touch()
-
-        #assign the variable for the net profit on the previous day, equate it to 0
-        prev_pl = 0
-        #assign the variable for the net profit on the current day, equate it to 0
-        curr_pl = 0
-
-        #assign a variable for the output type for the possible outcomes (deficit/surplus)
-        output = 1
-
-        #open the excel file and begin the commands needed on the excel file
-        with fp_read.open(mode="r", encoding="UTF8", newline="") as file:
-            # create csv reader object using csv
-            reader = csv.reader(file)
-            # to skip reading header
-            next(reader)
-            # iterate each row with loop
+        - This function reads data from csv file and return a list of tuples
+        """
+        data = []
+        with open(file_path, newline='') as csvfile:
+            reader = csv.reader(csvfile)
+            next(reader)  # Skip the header if it exists
             for row in reader:
-                #assign the value in the second columnn with index to the current net profit
-                curr_pl = float(row[4])
-                #create an event where if the current net profit is less than the previous net profit
-                if curr_pl < prev_pl:
-                    #assign the output to a different value to indicate a different output type
-                    output = 2
+                """
+                - To add data for number of days and amount of profit into "data", which is an empty list
+                """
+                day = int(row[0])
+                profit = int(row[4])
+                data.append((day, profit))
+        return data
 
-                    # write the result to a text file
-                    with fp_write.open(mode="a", encoding="UTF8", newline="") as file:
-                        #the difference between net profit on the previous day and the current day
-                        difference = prev_pl - curr_pl
-                        file.write(f"[PROFIT DEFICIT] DAY:{row[0]}, AMOUNT: USD{difference}\n")
-                #assign the previous net profit to the current net profit so the loop can restart
-                prev_pl = curr_pl
+    # Provide the relative file path directly
+    csv_file_path = "csv_reports/profit_loss.csv"
+    data = read_csv_data(csv_file_path)
 
-        #create a condition where ouput = 1, which is when the deficit condition is not fufilled, meaning that the result is a surplus
-        if output == 1:
-            #write the result to a text file
-            with fp_write.open(mode="a", encoding="UTF8", newline="") as file:
-                file.write(f"[PROFIT SURPLUS] CASH ON EACH DAY IS HIGHER THAN THE PREVIOUS DAY\n")
+    profit_deficits, highest_increment_day, highest_increment_amount = find_profit_deficit_and_surplus(data)
 
-    #end the function
-    PNL_F()
+    result_str = "" # result_str will store formatted information about profit deficits or highest net profit surplus as a string
 
+    if profit_deficits:
+        for day, deficit in profit_deficits:
+            result_str += f"[PROFIT DEFICIT] DAY: {day}, AMOUNT: USD{deficit}\n"
+    else:
+        result_str += f"[NET PROFIT SURPLUS] NET PROFIT ON EACH DAY IS HIGHER THAN PREVIOUS DAY\n"
+        if highest_increment_day is not None:
+            result_str += f"[HIGHEST NET PROFIT SURPLUS] DAY: {highest_increment_day}, AMOUNT: USD{highest_increment_amount}\n"
+    
+    return result_str
 
-
-
+        
