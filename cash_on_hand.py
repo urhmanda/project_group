@@ -85,4 +85,5 @@ def coh_function():
             """
             result_str += f"[HIGHEST NET CASH SURPLUS] DAY: {highest_increment_day}, AMOUNT: USD{highest_increment_amount}\n"
     
+    # Return formatted result_str containing cash-on-hand-related information
     return result_str
