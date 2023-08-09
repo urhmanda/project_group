@@ -3,9 +3,9 @@ def profit_loss_function():
     import csv
 
     def find_profit_deficit_and_surplus(data):
-        '''
+        """
         - This function finds profit deficits and the highest net profit surplus in data
-        '''
+        "'"
         profit_deficit_list = []
         highest_increment_day = None
         highest_increment_amount = 0

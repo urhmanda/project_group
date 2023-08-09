@@ -21,8 +21,6 @@ def overhead_function():
             """
             overheadrecords.append([row[1],row[3]])   
 
-
-
     # create an empty list to store unique overheads from overheadrecords
     overhead_list = [] 
 
@@ -58,15 +56,21 @@ def overhead_function():
         total_overhead = overhead_amount(overhead_category)  
         total_all_overhead += total_overhead 
 
-        # If statement checks if total overhead of current category is higher than current highest overhead 
-        # to find the highest overhead and its respective category
         if total_overhead > highest_overhead: 
+            """
+            - Statement checks if total overhead of current category is higher than current highest overhead 
+            - to find the highest overhead and its respective category
+            """
             highest_overhead = total_overhead 
             highest_overhead_category = overhead_category 
 
-    result_str = "" # result_str will store formatted cash deficits information as a string
-    # find the percentage of highest overhead if the total of all overhead expenses is not equal to 0 
+    result_str = "" 
+    # result_str will store formatted cash deficits information as a string
+
     if total_all_overhead != 0:
+        """
+        - Finds the percentage of highest overhead if the total of all overhead expenses is not equal to 0 
+        """
         highest_overhead_percentage = (highest_overhead / total_all_overhead) * 100
         result_str += f'[HIGHEST OVERHEAD] {highest_overhead_category.upper()}: {round(highest_overhead_percentage,2)}%\n'
     return result_str
