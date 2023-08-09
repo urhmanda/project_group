@@ -69,6 +69,7 @@ def profit_loss_function():
     """
     - If there are no profit deficits, indicate a net profit surplus
     """
+    
     # Check if there is information about the highest increment in net profit surplus
         result_str += f"[NET PROFIT SURPLUS] NET PROFIT ON EACH DAY IS HIGHER THAN PREVIOUS DAY\n"
 
