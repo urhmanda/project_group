@@ -1,3 +1,4 @@
+#Creates a function that will be made for finding the days where there are profit loss
 def profit_loss_function():
     import csv
 
