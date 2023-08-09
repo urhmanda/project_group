@@ -39,9 +39,9 @@ def profit_loss_function():
             reader = csv.reader(csvfile)
             next(reader)  # Skip the header if it exists
             for row in reader:
-                """
-                - To add data for number of days and amount of profit into "data", which is an empty list
-                """
+            """
+            - To add data for number of days and amount of profit into "data", which is an empty list
+            """
                 day = int(row[0])
                 profit = int(row[4])
                 data.append((day, profit))
