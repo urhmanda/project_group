@@ -56,20 +56,21 @@ def profit_loss_function():
     result_str = "" # result_str will store formatted information about profit deficits or highest net profit surplus as a string
 
     if profit_deficits:
-
-    # - Checks if there are any profit deficits
-
+        '''
+        - Checks if there are any profit deficits
+        '''
         for day, deficit in profit_deficits:
-
+        
         # - Iterates through each day and deficit in profit_deficits
 
         # Creates a string indicating a profit deficit and append to result_str
             result_str += f"[PROFIT DEFICIT] DAY: {day}, AMOUNT: USD{deficit}\n"
     else:
-        
-    # - If there are no profit deficits, indicate a net profit surplus
-    
-    # Check if there is information about the highest increment in net profit surplus
+        '''
+         - If there are no profit deficits, indicate a net profit surplus
+        '''
+
+        # Check if there is information about the highest increment in net profit surplus
         result_str += f"[NET PROFIT SURPLUS] NET PROFIT ON EACH DAY IS HIGHER THAN PREVIOUS DAY\n"
 
         if highest_increment_day is not None:

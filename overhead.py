@@ -48,7 +48,7 @@ def overhead_function():
         
         return (amount)
     
-    total_all_overhead = 0 #sum of all overhead expenses for all categories
+    total_all_overhead = 0 # sum of overhead expenses for all categories
     highest_overhead = 0  
     highest_overhead_category = "" 
 
