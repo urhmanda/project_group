@@ -4,7 +4,8 @@ import cash_on_hand, overhead, profit_and_loss
 #Function for putting all 3 functions from the different .py into 1 function
 def main():
     """
-    - Makes the 3 different functions into 3 variables
+    - Calls the overhead, cash on hand, and profit and loss functions
+    - Store their respective outputs in variables
     """
     overhead_output = overhead.overhead_function()
     coh_output = cash_on_hand.coh_function()
@@ -12,7 +13,7 @@ def main():
     
     return(overhead_output,coh_output,profitloss_output)
 
-# Collates the 3 different functions into 1
+# Collates the outputs of 3 different functions into 1
 overhead_output,coh_output,profitloss_output = main()
 
 with open('summary_report.txt', 'w') as file:
