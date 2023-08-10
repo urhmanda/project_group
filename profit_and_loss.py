@@ -5,7 +5,7 @@ def profit_loss_function():
     def find_profit_deficit_and_surplus(data):
         """
         - This function finds profit deficits and the highest net profit surplus in data
-        "'"
+        """
         profit_deficit_list = []
         highest_increment_day = None
         highest_increment_amount = 0
@@ -39,9 +39,9 @@ def profit_loss_function():
             reader = csv.reader(csvfile)
             next(reader)  # Skip the header if it exists
             for row in reader:
-            """
-            - To add data for number of days and amount of profit into "data", which is an empty list
-            """
+
+            # - To add data for number of days and amount of profit into "data", which is an empty list
+
                 day = int(row[0])
                 profit = int(row[4])
                 data.append((day, profit))
@@ -56,19 +56,18 @@ def profit_loss_function():
     result_str = "" # result_str will store formatted information about profit deficits or highest net profit surplus as a string
 
     if profit_deficits:
-    """
-    - Checks if there are any profit deficits
-    """
+
+    # - Checks if there are any profit deficits
+
         for day, deficit in profit_deficits:
-        """
-        - Iterates through each day and deficit in profit_deficits
-        """
+
+        # - Iterates through each day and deficit in profit_deficits
+
         # Creates a string indicating a profit deficit and append to result_str
             result_str += f"[PROFIT DEFICIT] DAY: {day}, AMOUNT: USD{deficit}\n"
     else:
-    """
-    - If there are no profit deficits, indicate a net profit surplus
-    """
+        
+    # - If there are no profit deficits, indicate a net profit surplus
     
     # Check if there is information about the highest increment in net profit surplus
         result_str += f"[NET PROFIT SURPLUS] NET PROFIT ON EACH DAY IS HIGHER THAN PREVIOUS DAY\n"
@@ -79,5 +78,3 @@ def profit_loss_function():
     
     # Return formatted result_str containing profit-related information
     return result_str
-
-        

@@ -1,5 +1,5 @@
 #Imports the functions of cash_on_hand.py, overhead.py and profit_and_loss.py
-import cash_on_hand, overhead, profit_and_loss
+import cash_on_hand, overhead, profit_and_loss 
 
 #Function for putting all 3 functions from the different .py into 1 function
 def main():
