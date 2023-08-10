@@ -1,5 +1,5 @@
 #Imports the functions of cash_on_hand.py, overhead.py and profit_and_loss.py
-import cash_on_hand, overhead, profit_and_loss 
+import cash_on_hand, overheads, profit_loss 
 
 #Function for putting all 3 functions from the different .py into 1 function
 def main():
@@ -7,9 +7,9 @@ def main():
     - Calls the overhead, cash on hand, and profit and loss functions
     - Store their respective outputs in variables
     """
-    overhead_output = overhead.overhead_function()
+    overhead_output = overheads.overhead_function()
     coh_output = cash_on_hand.coh_function()
-    profitloss_output = profit_and_loss.profit_loss_function()
+    profitloss_output = profit_loss.profit_loss_function()
     
     return(overhead_output,coh_output,profitloss_output)
 
